@@ -1,0 +1,96 @@
+syntax enable
+syntax on
+let &t_ut=''
+let &t_SI.="\e[5 q" "SI = INSERT mode
+let &t_SR.="\e[4 q" "SR = REPLACE mode
+let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
+filetype plugin on
+filetype indent on
+filetype plugin indent on
+set noswapfile
+set nocompatible
+set nobackup
+set fileencodings=utf8,gb2312,gb18030,gbk,ucs-bom,cp936,lantin1
+set encoding=utf8
+set number
+set autoindent
+set cursorline
+set mouse=a
+set showcmd
+set showmatch
+set wrap
+set wildmenu
+set smartcase
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set smarttab
+set tw=80
+map t d0
+map T d$
+map J 5j
+map K 5k
+map q <Delete>
+map c h<Delete>
+map fh :set splitright<CR>:vsplit<CR>
+map fl :set nosplitright<CR>:vsplit<CR>
+map fj :set nosplitbelow<CR>:split<CR>
+map fk :set splitbelow<CR>:split<CR>
+map \l <C-w>l
+map \k <C-w>k
+map \h <C-w>h
+map \j <C-w>j
+map \t :NERDTreeToggle<CR>
+map <up> :res +5<CR>
+map <down> :res -5<CR>
+map <left> :vertical resize-5<CR>
+map <right> :vertical resize+5<CR>
+inoremap ( ()<ESC>i
+inoremap [ []<ESC>i
+inoremap { {}<ESC>i
+inoremap {} {}<ESC>a
+inoremap [] []<ESC>a
+inoremap () ()<ESC>a
+nnoremap <Space> i<space><esc>
+nnoremap <CR> i<CR><esc>
+
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'vim-airline/vim-airline'
+Plug 'connorholyday/vim-snazzy'
+Plug 'dense-analysis/ale'
+Plug 'skywind3000/vim-auto-popmenu'
+Plug 'skywind3000/vim-dict'
+Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'preservim/nerdtree'
+
+call plug#end()
+
+" snazzy colorscheme
+color snazzy
+
+" complete
+let g:apc_enable_ft = {'*':1}
+let g:vim_dict_dict = [
+    \ '~/.vim/dict',
+    \ '~/.config/nvim/dict',
+    \ ]
+set cpt=.,w,b,u,t,i,k
+set completeopt=menu,menuone,noselect
+set shortmess+=c
+
+" cpp highlight
+let g:cpp_class_scope_highlight = 1
+let g:cpp_member_variable_highlight = 1
+let g:cpp_class_decl_highlight = 1
+
+" nerdtree
+let NERDTreeShowHidden=1
+let NERDTreeShowLineNumbers=1
+let NERDTreeAutoCenter=1
+let NERDTreeWinSize=30
+let NERDTreeIgnore=['\.pyc', '\^$', '\.swap']
+let g:nerdtree_tabs_open_on_console_startup=1
+
+
