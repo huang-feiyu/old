@@ -91,12 +91,12 @@ header-img: img/post_bg_recommand.jpg
 * [Computer Science](https://github.com/huang-feiyu/computer-science)
 * [Database learning](https://github.com/huang-feiyu/awesome-database-learning)
 * [Telegram](https://telegram.org/): 受够了监控和垃圾软件，试试这个。除了没有[截图功能](https://www.snipaste.com/)，全部都很好.
-* [Windows Terminal](https://github.com/microsoft/terminal): 与WSL2一起使用可以得到更好的效果。(至于为什么不推荐WSL1，可以[Baidu](https://www.google.com)一下)
+* [Windows Terminal](https://github.com/microsoft/terminal): 与WSL1一起使用可以得到更好的效果。(至于为什么不推荐WSL2，可以[Baidu](https://www.google.com)一下，WSL2的Vim支持非常慢)
 * [JetBrains 全家桶](https://www.jetbrains.com/?var=1): 各种IDE都有，而且学生免费
 * [Typora](https://typora.io/): 除了不支持vim，其他都挺好的
 * [Vim](https://www.vim.org/): 编辑器之神, 配合Windows Terminal(WSL2)使用
+* [Git](https://git-scm.com/): 非常优秀的版本控制工具，在大概完全[学习Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git/)之后我发现Git是绝对的神器(另外，可以使用GitHub Desktop上传与拉取，因为大陆网速太慢了)
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge): 很好的PDF阅读器
 * [EV 录屏](https://www.ieway.cn/evcapture.html): 挺好用的录屏软件
-* [Forest](https://www.forestapp.cc/): 专注森林，能够更好地避免手机电脑的干扰(电脑版用浏览器的插件)
 * [Qwerty Learner](https://qwerty.kaiyi.cool/): 神·练打字+学英语+学编程网站
 * **[一位帅哥](https://github.com/huang-feiyu)**: 如果对于一些人生上的问题可以用[Telegram](https://t.me/huangfeiyu)和我交流一下，如果您愿意的话。

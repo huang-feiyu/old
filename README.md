@@ -96,6 +96,7 @@ Telegram WebPage: https://web.telegram.org/#/im
         * [KMP](https://huang-feiyu.github.io/2021/05/11/KMP): 字符串匹配经典算法
         * [Sort](https://huang-feiyu.github.io/2021/05/11/Sort): 五种简单的排序算法
     * [Regular-Expression](https://huang-feiyu.github.io/2021/07/05/Regular-Expression): 正则表达式(有些编码错误,我自己应该看得懂)
+    * [Learning-Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git): Git学习笔记
 * Great-People:
     * [Camus](https://huang-feiyu.github.io/2021/05/21/Camus): 阿尔贝·加缪
     * [Yuan-Longping](https://huang-feiyu.github.io/2021/05/22/Yuan-Longping): 袁隆平
@@ -138,6 +139,7 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Summer-vacation-Journal-29](https://huang-feiyu.github.io/2021/07/25/Summer-vacation-Journal-29): 2021暑假手记29
     * [Summer-vacation-Journal-30](https://huang-feiyu.github.io/2021/07/26/Summer-vacation-Journal-30): 2021暑假手记30
     * [Summer-vacation-Journal-31](https://huang-feiyu.github.io/2021/07/27/Summer-vacation-Journal-31): 2021暑假手记31
+    * [Summer-vacation-Journal-32](https://huang-feiyu.github.io/2021/07/28/Summer-vacation-Journal-32): 2021暑假手记32
 * Other
     * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
     * [Become a programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
