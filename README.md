@@ -140,6 +140,7 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Summer-vacation-Journal-30](https://huang-feiyu.github.io/2021/07/26/Summer-vacation-Journal-30): 2021暑假手记30
     * [Summer-vacation-Journal-31](https://huang-feiyu.github.io/2021/07/27/Summer-vacation-Journal-31): 2021暑假手记31
     * [Summer-vacation-Journal-32](https://huang-feiyu.github.io/2021/07/28/Summer-vacation-Journal-32): 2021暑假手记32
+    * [Summer-vacation-Journal-33](https://huang-feiyu.github.io/2021/07/28/Summer-vacation-Journal-32): 2021暑假手记33
 * Other
     * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
     * [Become a programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
@@ -166,3 +167,4 @@ Telegram WebPage: https://web.telegram.org/#/im
 
 ### 其他
 * [fork](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/huang-blog-fork.zip): 根据网络教程加上这个东西可以迅速构建出一个博客
+* [Learning-Space](https://github.com/huang-feiyu/Learning-Space): 我的学习资料
