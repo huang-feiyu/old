@@ -5,15 +5,12 @@ subtitle:   正则表达式
 date:       2021-07-05
 author:     Huang
 header-img: img/post_bg_regular_expression.png
-catalog: true
+catalog: false
 tags:
    - Programming
 ---
 
-
-### 正则表达式
-
-(下面有些图片加载不出来，因为我把我之前的仓库干掉了。有些格式乱了，不推荐用这篇文章学习，下面的仓库就够了)
+### [正则表达式](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/RegEx-Learning)
 
 Thanks to [cdoco](https://github.com/cdoco)，这是我学习正则表达式所使用的两个仓库：
 
@@ -36,7 +33,7 @@ Thanks to [cdoco](https://github.com/cdoco)，这是我学习正则表达式所�
 
 >  下面的元字符全部采用`这种方式`来展现，使用[这种方式](https://huang-feiyu.github.io)来表示根据正则表达式匹配的字符串——当然下面的是没有链接的。(使用引用的方式来表达字符串匹配，=> 表示被匹配的字符串，“RegExp”表示正则表达式)
 
-![元字符](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_1.png?raw=true)
+![元字符](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_1.png?raw=true)
 
 ### 2.1 英文句号
 
@@ -123,7 +120,7 @@ markdown原编码更清晰。
 
 `|`被用来定义分支结构，不同于字符集的是，分支结构可以在表达式级别使用。
 
-![2.6](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_2_6.png?raw=true)
+![2.6](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_2_6.png?raw=true)
 
 上面的正则表达式匹配 The, the, car.
 
@@ -131,7 +128,7 @@ markdown原编码更清晰。
 
 `\`用来转义下一个字符，`{ } [ ] / \ + * . $ ^ | ?`均可以使用转义字符进行匹配。
 
-![2.7](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_2_7.png?raw=true)
+![2.7](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_2_7.png?raw=true)
 
 上面的正则表达式匹配 fat, cat, mat, 以及各个三个单词后跟一句点的字符串，使用markdown编码模式更清晰。
 
@@ -146,7 +143,7 @@ markdown原编码更清晰。
 > "^a" => [a]()bc
 > "^b" => abc               (nothing happened)
 
-![2.8](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_2_8.png?raw=true)
+![2.8](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_2_8.png?raw=true)
 
 上面的例子表明字符串通过特殊符号结尾，而不是空格。
 
@@ -186,7 +183,7 @@ markdown原编码更清晰。
 
 `(?=...)`认为第一部分的表达式的后面必须是先行断言表达式。返回的匹配结果仅包含与第一部分表达式匹配的文本。
 
-![4.1](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_4_1.png?raw=true)
+![4.1](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_4_1.png?raw=true)
 
 上面的东西(如果没有断言)实际上匹配到了 [The fat]() ，但是使用了正向先行断言，于是后面的 [ fat]() 就被干掉了。
 
@@ -194,7 +191,7 @@ markdown原编码更清晰。
 
 `(?!...)`表示匹配到的表达式的后面**不跟随**某些内容，返回到第一部分的表达式。
 
-![4.2](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_4_2.png?raw=true)
+![4.2](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_4_2.png?raw=true)
 
 由于不包含 [ fat]() ，于是匹配到了 [the mat]() ，后面的 [ mat]() 被干掉了。
 
@@ -202,7 +199,7 @@ markdown原编码更清晰。
 
 `(?<=...)`获取跟随在特定模式之后的所有匹配内容。
 
-![4.3](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_4_3.png?raw=true)
+![4.3](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_4_3.png?raw=true)
 
 上面的正则表达式表示获取所有**紧紧**跟在 [The ]() 或者 [the ]() 后面的 [fat]() 和 [mat]() 。
 
@@ -210,7 +207,7 @@ markdown原编码更清晰。
 
 `(?<!...)`获取不跟随在特定模式之后的所有匹配内容。
 
-![4.4](https://github.com/huang-feiyu/RegEx-Learning/blob/main/image/img_4_4.png?raw=true)
+![4.4](https://github.com/huang-feiyu/Learning-Space/blob/master/Other/RegEx-Learning/image/img_4_4.png?raw=true)
 
 获取所有不跟在 [The ]() 和 [the]() 后面的 [cat]() 。
 
@@ -291,9 +288,13 @@ markdown原编码更清晰。
 
 * 神之编辑器vim:  [网址](https://jianshu.com/p/3abd6fbc3322)
 * Linux查找命令:  [网址](https://blog.csdn.net/xy010902100449/article/details/51426354)
-* VS Code, Sublime Text: `Crtl+H`
+* VS Code, Sublime Text: `Crtl+Shift+h`
 * All kinds of IDEs
 * etc.
 
-在我的仓库中更清晰，还可以在[这个网站](https://github.com/ziishaned/learn-regex)中找到练习题，网上的资源很多。
+### 8. 后记
+
+我把原来的仓库干掉了，现在通过正则表达式修改了这个文档的格式之后又能够正常工作，这就是正则表达式的强悍之处。
+
+在我的[仓库](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/RegEx-Learning)中更清晰，还可以在[这个网站](https://github.com/ziishaned/learn-regex)中找到练习题，网上的资源很多。
 
