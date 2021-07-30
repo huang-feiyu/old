@@ -61,6 +61,7 @@ header-img: img/post_bg_recommand.jpg
 * [Linkin Park](https://www.linkinpark.com/): 林肯公园，嘶吼中无尽的力量
 * [Avril Lavigne](https://avrillavigne.com/): 艾薇儿，柔和的朋克风格，无尽的力量
 * [Green Day](https://greenday.com/): 绿日乐队，狂放的朋克风格，无尽力量
+* [Eleni Karaindrou](https://y.qq.com/n/ryqq/singer/002767Dy3RcEmV): 很美的音乐
 
 (最好听比较好的现场版，另外歌声中的力量，不是我简单能说出来的)
 
@@ -74,11 +75,13 @@ header-img: img/post_bg_recommand.jpg
 * [《成为一名程序员》](../Resources/成为一名程序员.md)
 * [《平平静静的说说中国的科研》](http://www.ruanyifeng.com/blog/2010/07/my_thoughts_on_china_scientific_research.html)
 * [《A Relational Model of Data for Large Shared Data Banks》](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+* [《程序员的自我修养》](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html)
 
 ### 课程
 
 中国的课程鱼龙混杂，而国外有名的课程一般都很不错。
 
+* 我的[仓库](https://github.com/huang-feiyu/Learning-Space)中有些学习资料。
 * [Harvard CS 50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x): 我之前不知道edX上面有这个课程，所以我是在[bilibili](https://www.bilibili.com/video/BV1Rb411378V?from=search&seid=889686890287034094)上面学习的。现在看来有点亏，因为lab、homework什么的我都没有做。
 * [Princeton Algorithm](https://www.coursera.org/learn/algorithms-part1/home/welcome): Part I, Part II很好的课程，很好的教科书[《算法 第四版》](https://item.jd.com/11098789.html)。
 * [CMU CS 15-445](https://15445.courses.cs.cmu.edu/fall2020/): ~~我正在学习的课程，~~数据库入门，暂且搁置，现在听不太懂——course 13。
