@@ -48,8 +48,9 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Essay-24](https://huang-feiyu.github.io/2021/07/27/Essay-24): 打扫的一些想法
 * Book Review
     * 陀思妥耶夫斯基
-         * [The-Idiot](https://huang-feiyu.github.io/2021/06/05/The-Idiot): 《白痴》 
+         * [The-Brothers-Karamazov](https://huang-feiyu.github.io/2021/08/01/The-Brothers-Karamazov): 《卡拉马佐夫兄弟》
          * [Notes-from-Underground](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground): 《地下室手记》
+         * [The-Idiot](https://huang-feiyu.github.io/2021/06/05/The-Idiot): 《白痴》 
          * [Humiliated-and-Insulted](https://huang-feiyu.github.io/2021/07/10/Humiliated-and-Insulted): 《被伤害与侮辱的人们》
          * [The-Gambler](https://huang-feiyu.github.io/2021/05/28/The-Gambler): 《赌徒》
          * [Notes-from-the-Dead-House](https://huang-feiyu.github.io/2021/06/16/Notes-from-the-Dead-House): 《死屋手记》
@@ -143,6 +144,7 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Summer-vacation-Journal-33](https://huang-feiyu.github.io/2021/07/29/Summer-vacation-Journal-33): 2021暑假手记33
     * [Summer-vacation-Journal-34](https://huang-feiyu.github.io/2021/07/30/Summer-vacation-Journal-34): 2021暑假手记34
     * [Summer-vacation-Journal-35](https://huang-feiyu.github.io/2021/07/31/Summer-vacation-Journal-35): 2021暑假手记35
+    * [Summer-vacation-Journal-36](https://huang-feiyu.github.io/2021/08/01/Summer-vacation-Journal-36): 2021暑假手记36
 * Other
     * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
     * [Become a programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
