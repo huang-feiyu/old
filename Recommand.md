@@ -18,6 +18,9 @@ header-img: img/post_bg_recommand.jpg
 
 我建了一个我的[书籍数据库](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db)，可以使用SQL索引看到我大学以来阅读的几乎所有非专业书。可以在我的[豆瓣](https://www.douban.com/doulist/141697624/)中找到更多我推荐的书籍，在此只推荐我认为非常好的。(除了《爱情笔记》，该书只是我想要强调的：不要毫无准备地坠入爱情的陷阱中)
 
+* [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
+    * [《宗教大法官》](https://huangfeiyu.blogspot.com/2021/08/blog-post.html)
+    * [书评笔记](https://huang-feiyu.github.io/2021/08/01/The-Brothers-Karamazov)
 * [《逍遥游》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
 * [《卡夫卡小说全集（全3卷）》](https://book.douban.com/subject/25793952/): 卡夫卡的作品，荒诞的世界中的探索，而我们的世界又何尝不荒诞呢？哈哈。
     * [《城堡》书评笔记](https://huang-feiyu.github.io/2021/07/12/The-Castle/)
@@ -92,7 +95,7 @@ header-img: img/post_bg_recommand.jpg
 有些东西我很想推荐。
 
 * [Computer Science](https://github.com/huang-feiyu/computer-science)
-* [Database learning](https://github.com/huang-feiyu/awesome-database-learning)
+* [Database learning](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/awesome-database-learning)
 * [Telegram](https://telegram.org/): 受够了监控和垃圾软件，试试这个。除了没有[截图功能](https://www.snipaste.com/)，全部都很好.
 * [Windows Terminal](https://github.com/microsoft/terminal): 与WSL1一起使用可以得到更好的效果。(至于为什么不推荐WSL2，可以[Baidu](https://www.google.com)一下，WSL2的Vim支持非常慢)
 * [JetBrains 全家桶](https://www.jetbrains.com/?var=1): 各种IDE都有，而且学生免费
