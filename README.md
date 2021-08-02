@@ -76,6 +76,7 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Im-Westen-nichts-Neues](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues): 《西线无战事》
     * [Too-Loud-a-Solitude](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude): 《过于喧嚣的孤独》
     * [Neapolitan-Novels](https://huang-feiyu.github.io/2021/07/02/Neapolitan-Novels): 《我的天才女友》《新名字的故事》《离开的，留下的》《失踪的孩子》
+    * [Xiaoyin-and-I](https://huang-feiyu.github.io/2021/08/02/Xiaoyin-and-I): 《小银和我》
     * [Augustus](https://huang-feiyu.github.io/2021/05/27/Augustus): 《奥古斯都》
     * [Essays-in-Love](https://huang-feiyu.github.io/2021/06/04/Essays-in-Love): 《爱情笔记》 
     * [Dying-in-Venice](https://huang-feiyu.github.io/2021/06/09/Dying-in-Venice): 《死于威尼斯》
@@ -145,6 +146,7 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Summer-vacation-Journal-34](https://huang-feiyu.github.io/2021/07/30/Summer-vacation-Journal-34): 2021暑假手记34
     * [Summer-vacation-Journal-35](https://huang-feiyu.github.io/2021/07/31/Summer-vacation-Journal-35): 2021暑假手记35
     * [Summer-vacation-Journal-36](https://huang-feiyu.github.io/2021/08/01/Summer-vacation-Journal-36): 2021暑假手记36
+    * [Summer-vacation-Journal-37](https://huang-feiyu.github.io/2021/08/02/Summer-vacation-Journal-37): 2021暑假手记37
 * Other
     * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
     * [Become a programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
