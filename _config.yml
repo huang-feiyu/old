@@ -75,7 +75,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto                         # 默认的是 auto, 如果没有自己的域名，需要改成auto
 
 
 
@@ -83,7 +83,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 2              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 10              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -100,16 +100,12 @@ friends: [
         href: "https://www.douban.com/people/huang-feiyu/"
     },
     {
+        title: "Telegram",
+        href: "https://t.me/huangfeiyu"
+    },
+    {
         title: "Twitter",
         href: "https://twitter.com/0711feiyu"
-    },
-    {
-        title: "Youtube",
-        href: "https://www.youtube.com/channel/UC_XKpTdcNa15n0WwYbyuZUA"
-    },
-    {
-        title: "LinkedIn",
-        href: "https://www.linkedin.com/in/%E9%A3%9E%E5%AE%87-%E9%BB%84-199170210/"
     },
     {
         title: "Blogspot",

@@ -20,5 +20,5 @@
 -- (129, "王家湘");
 
 UPDATE my_info 
-SET date_month=8, date_day=2, read_times=1, book_link="https://huang-feiyu.github.io/2021/08/02/Xiaoyin-and-I/", score = 84
-WHERE id = 163;
+SET date_month=8, date_day=4, read_times=3, book_link="https://huang-feiyu.github.io/2021/08/04/Sisyphus-myth/", score = 84
+WHERE id = 50;

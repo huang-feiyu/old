@@ -44,7 +44,8 @@ header-img: img/post_bg_recommand.jpg
 * [《窄门》](https://book.douban.com/subject/30331835/): 我总是感觉这本书我没有读懂，却还是能够感到其魅力。怪哉，怪哉。
 * [《过于喧嚣的孤独》](https://book.douban.com/subject/26220767/): 读书的体验，对未来的忧虑让我感同身受。
     * [书评笔记](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude/)
-* [《西西弗神话》](https://book.douban.com/subject/24257403/): 最开始没有读懂，但是还是读了下来。这本书给我的影响很深，我想应该会伴随我的大学生涯。
+* [《西西弗神话》](https://book.douban.com/subject/24257403/): 加缪给世界带来的是永无止境的热爱与冷静思考。
+    * [书评笔记](https://huang-feiyu.github.io/2021/08/04/Sisiyphus-myth)
 * [《我们的祖先三部曲》](https://book.douban.com/subject/34831995/): 三部幻想之作(换句话说，‘荒谬’之作)会引领你的内心去体会，去思考。
     * [书评笔记](https://huang-feiyu.github.io/2021/06/06/Our-ancestors/)
 * [《罗生门》](https://book.douban.com/subject/26627837/): 我所见到的不是故事，而是一个人的一生。

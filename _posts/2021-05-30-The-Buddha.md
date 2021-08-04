@@ -7,7 +7,7 @@ author:     Huang
 header-img: img/post_bg_the_Buddha.jpg
 catalog: true
 tags:
-   - Philosophy
+   - Book-Review
 ---
 
 > 所有相皆是虚妄；一切有为法如梦幻泡影，如露亦如电，当作如是观。
