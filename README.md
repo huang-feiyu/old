@@ -91,6 +91,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 ###### 阿尔贝·加缪
 * [The-Stranger](https://huang-feiyu.github.io/2021/07/28/The-Stranger): 《局外人》
 * [Sisiyphus-myth](https://huang-feiyu.github.io/2021/08/04/Sisiyphus-myth): 《西西弗神话》
+* [The-Plague](https://huang-feiyu.github.io/2021/08/05/The-Plague): 《鼠疫》
 * [The-Rebel](https://huang-feiyu.github.io/2021/06/26/The-Rebel): 《反抗者》   
 
 ###### 伊塔洛·卡尔维诺
@@ -179,6 +180,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Summer-vacation-Journal-37](https://huang-feiyu.github.io/2021/08/02/Summer-vacation-Journal-37): 2021暑假手记37
 * [Summer-vacation-Journal-38](https://huang-feiyu.github.io/2021/08/03/Summer-vacation-Journal-38): 2021暑假手记38
 * [Summer-vacation-Journal-39](https://huang-feiyu.github.io/2021/08/04/Summer-vacation-Journal-39): 2021暑假手记39
+* [Summer-vacation-Journal-40](https://huang-feiyu.github.io/2021/08/05/Summer-vacation-Journal-40): 2021暑假手记40
 
 #### Other
 * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西

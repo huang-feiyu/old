@@ -44,6 +44,8 @@ header-img: img/post_bg_recommand.jpg
 * [《窄门》](https://book.douban.com/subject/30331835/): 我总是感觉这本书我没有读懂，却还是能够感到其魅力。怪哉，怪哉。
 * [《过于喧嚣的孤独》](https://book.douban.com/subject/26220767/): 读书的体验，对未来的忧虑让我感同身受。
     * [书评笔记](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude/)
+* [《鼠疫》](https://book.douban.com/subject/24257229/): 生命内在值得称赞的东西总是比被唾弃的要更多， 我能感受到加缪内心的对人类的信心与无尽的希望。
+    * [书评笔记](https://huang-feiyu.github.io/2021/08/05/The-Plague)
 * [《西西弗神话》](https://book.douban.com/subject/24257403/): 加缪给世界带来的是永无止境的热爱与冷静思考。
     * [书评笔记](https://huang-feiyu.github.io/2021/08/04/Sisiyphus-myth)
 * [《我们的祖先三部曲》](https://book.douban.com/subject/34831995/): 三部幻想之作(换句话说，‘荒谬’之作)会引领你的内心去体会，去思考。
@@ -62,12 +64,14 @@ header-img: img/post_bg_recommand.jpg
 
 
 ### 音乐
+(歌曲中的力量不是我能够说出来的，要去听)
 * [Linkin Park](https://www.linkinpark.com/): 林肯公园，嘶吼中无尽的力量
 * [Avril Lavigne](https://avrillavigne.com/): 艾薇儿，柔和的朋克风格，无尽的力量
 * [Green Day](https://greenday.com/): 绿日乐队，狂放的朋克风格，无尽力量
+* [Pomme](https://instagram.com/pommeofficial): 法语歌手，很柔和的美
 * [Eleni Karaindrou](https://y.qq.com/n/ryqq/singer/002767Dy3RcEmV): 很美的音乐
+* [我的歌单——QQ音乐](https://y.qq.com/n/ryqq/profile/like/song?uin=oiCk7e-q7K-s)
 
-(最好听比较好的现场版，另外歌声中的力量，不是我简单能说出来的)
 
 ### 文章
 
