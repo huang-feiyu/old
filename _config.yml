@@ -11,7 +11,7 @@ github_repo: "https://github.com/huang-feiyu/huang-feiyu.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "如果您问我这十年我最大的长进是什么，我会告诉您，“十年前我十七，十年后我二十七”"
+sidebar-about-description: "整个认识世界都抵不上小女孩向上帝哭诉时留下的眼泪。"
 sidebar-avatar: /img/about-Huang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
