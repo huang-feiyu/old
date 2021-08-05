@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The_other_one-The_same_one
+title:      The-other-one-The-same-one
 subtitle:   《另一个，同一个》
 date:       2021-06-23
 author:     Borges
