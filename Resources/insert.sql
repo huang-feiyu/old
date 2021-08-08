@@ -1,20 +1,20 @@
 INSERT into author VALUES
-(173, "梅尔维尔", 8, 1819, 8, 1, 1891, 9, 28, 0);
+(52, "司汤达", 2, 1783, 1, 23, 1842, 3, 23, 0);
 
 INSERT INTO book VALUES
-(176, "白鲸", "null", 632, 437, 1, 1, 0, 176, 0, 1, 176, 173, 129);
+(178, "红与黑", "null", 537, 403, 1, 1, 1, 178, 0, 1, 178, 52, 131);
 
 INSERT INTO my_info VALUES
-(176, 2021, 8, 6, 0, "null", 80);
+(178, 2021, 8, 8, 0, "null", 80);
 
 INSERT INTO release VALUES
-(176, 2011, 4, 978, 7, 02, 008203, 2);
+(178, 2010, 8, 978, 7, 5327, 5122, 8);
+
+INSERT INTO translator VALUES
+(131, "郝运");
 
 -- INSERT INTO press VALUES
 -- (5339, "浙江文艺出版社");
 
 -- INSERT INTO country VALUES
 -- (26, "南非");
-
-INSERT INTO translator VALUES
-(130, "成时");
