@@ -1,488 +1,275 @@
-<!doctype html>
-<html style='font-size:20px !important'>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-
-<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
-.mac-os-11 { --title-bar-height:28px; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
-iframe { margin: auto; }
-a.url { word-break: break-all; }
-a:active, a:hover { outline: 0px; }
-.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
-#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
-#write.first-line-indent p { text-indent: 2em; }
-#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
-#write.first-line-indent li { margin-left: 2em; }
-.for-image #write { padding-left: 8px; padding-right: 8px; }
-body.typora-export { padding-left: 30px; padding-right: 30px; }
-.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
-.typora-export .task-list-item input { pointer-events: none; }
-@media screen and (max-width: 500px) {
-  body.typora-export { padding-left: 0px; padding-right: 0px; }
-  #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
-}
-#write li > figure:last-child { margin-bottom: 0.5rem; }
-#write ol, #write ul { position: relative; }
-img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
-button, input, select, textarea { color: inherit; font: inherit; }
-input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
-*, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
-p { line-height: inherit; }
-h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
-p { orphans: 4; }
-h1 { font-size: 2rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.6rem; }
-h4 { font-size: 1.4rem; }
-h5 { font-size: 1.2rem; }
-h6 { font-size: 1rem; }
-.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
-.hidden { display: none; }
-.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
-a { cursor: pointer; }
-sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
-sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
-#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
-figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
-figure > table { margin: 0px; }
-tr { break-inside: avoid; break-after: auto; }
-thead { display: table-header-group; }
-table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
-table.md-table td { min-width: 32px; }
-.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
-.CodeMirror-linenumber { user-select: none; }
-.CodeMirror { text-align: left; }
-.CodeMirror-placeholder { opacity: 0.3; }
-.CodeMirror pre { padding: 0px 4px; }
-.CodeMirror-lines { padding: 0px; }
-div.hr:focus { cursor: none; }
-#write pre { white-space: pre-wrap; }
-#write.fences-no-line-wrapping pre { white-space: pre; }
-#write pre.ty-contain-cm { white-space: normal; }
-.CodeMirror-gutters { margin-right: 4px; }
-.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
-.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
-#write .md-fences.mock-cm { white-space: pre-wrap; }
-.md-fences.md-fences-with-lineno { padding-left: 0px; }
-#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
-.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
-.CodeMirror-line, twitterwidget { break-inside: avoid; }
-.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
-.footnotes + .footnotes { margin-top: 0px; }
-.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
-li div { padding-top: 0px; }
-blockquote { margin: 1rem 0px; }
-li .mathjax-block, li p { margin: 0.5rem 0px; }
-li blockquote { margin: 1rem 0px; }
-li { margin: 0px; position: relative; }
-blockquote > :last-child { margin-bottom: 0px; }
-blockquote > :first-child, li > :first-child { margin-top: 0px; }
-.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
-#write .footnote-line { white-space: pre-wrap; }
-@media print {
-  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
-  .typora-export * { -webkit-print-color-adjust: exact; }
-  .typora-export #write { break-after: avoid; }
-  .typora-export #write::after { height: 0px; }
-  .is-mac table { break-inside: avoid; }
-  .typora-export-show-outline .typora-export-sidebar { display: none; }
-}
-.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
-a img, img a { cursor: pointer; }
-pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
-p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
-#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
-p > .md-image:only-child { display: inline-block; width: 100%; }
-#write .MathJax_Display { margin: 0.8em 0px 0px; }
-.md-math-block { width: 100%; }
-.md-math-block:not(:empty)::after { display: none; }
-.MathJax_ref { fill: currentcolor; }
-[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
-.md-task-list-item { position: relative; list-style-type: none; }
-.task-list-item.md-task-list-item { padding-left: 0px; }
-.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
-.math { font-size: 1rem; }
-.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
-.md-toc-content { position: relative; margin-left: 0px; }
-.md-toc-content::after, .md-toc::after { display: none; }
-.md-toc-item { display: block; color: rgb(65, 131, 196); }
-.md-toc-item a { text-decoration: none; }
-.md-toc-inner:hover { text-decoration: underline; }
-.md-toc-inner { display: inline-block; cursor: pointer; }
-.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
-.md-toc-h2 .md-toc-inner { margin-left: 2em; }
-.md-toc-h3 .md-toc-inner { margin-left: 4em; }
-.md-toc-h4 .md-toc-inner { margin-left: 6em; }
-.md-toc-h5 .md-toc-inner { margin-left: 8em; }
-.md-toc-h6 .md-toc-inner { margin-left: 10em; }
-@media screen and (max-width: 48em) {
-  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
-  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
-  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
-  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
-}
-a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
-.footnote-line a:not(.reversefootnote) { color: inherit; }
-.md-attr { display: none; }
-.md-fn-count::after { content: "."; }
-code, pre, samp, tt { font-family: var(--monospace); }
-kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
-.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
-code { text-align: left; vertical-align: initial; }
-a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
-.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
-.md-diagram-panel > svg { max-width: 100%; }
-[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
-[lang="mermaid"] .node text { font-size: 1rem; }
-table tr th { border-bottom: 0px; }
-video { max-width: 100%; display: block; margin: 0px auto; }
-iframe { max-width: 100%; width: 100%; border: none; }
-.highlight td, .highlight tr { border: 0px; }
-mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
-.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
-.md-expand mark .md-meta { opacity: 0.3 !important; }
-mark .md-meta { color: rgb(0, 0, 0); }
-@media print {
-  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
-}
-.md-diagram-panel .messageText { stroke: none !important; }
-.md-diagram-panel .start-state { fill: var(--node-fill); }
-.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
-.md-require-zoom-fix { height: auto; margin-top: 16px; margin-bottom: 16px; }
-.md-require-zoom-fix foreignobject { font-size: var(--mermaid-font-zoom); }
-.md-fences.md-fences-math { font-size: 1em; }
-.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
-.md-fences-advanced:not(.md-focus) { background: inherit; }
-.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
-.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
-.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
-.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
-@media screen and (max-width: 1024px) {
-  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
-}
-@media screen and (max-width: 800px) {
-  .typora-export-sidebar { display: none; }
-}
-.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
-.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
-.outline-content strong { font-weight: 400; }
-.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
-.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
-.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
-.outline-expander:hover::before { content: ""; }
-.outline-h1 > .outline-item { padding-left: 0px; }
-.outline-h2 > .outline-item { padding-left: 1em; }
-.outline-h3 > .outline-item { padding-left: 2em; }
-.outline-h4 > .outline-item { padding-left: 3em; }
-.outline-h5 > .outline-item { padding-left: 4em; }
-.outline-h6 > .outline-item { padding-left: 5em; }
-.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
-.outline-label:hover { text-decoration: underline; }
-.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
-.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
-.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
-.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
-.outline-children { display: none; }
-.info-panel-tab-wrapper { display: none; }
-.outline-item-open > .outline-children { display: block; }
-.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
-.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
-.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
-.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
-.typora-export-collapse-outline .outline-children { display: none; }
-.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
-.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
-.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
-.md-inline-math-container mjx-container { zoom: 0.95; }
+---
+layout: page
+title: "About"
+description: "Who is Huang?"
+header-img: "img/post-bg-rwd.jpg"
+---
 
 
-:root {
-	--bg-color: white;
-	--text-color: black;
-	--md-char-color: #f1f1f1;
-	--meta-content-color: #0099ff;
+<!-- Chinese Version -->
+<div class="zh post-container">
 
-	--primary-color: #454545;
-	--primary-btn-border-color: transparent;
-	--primary-btn-text-color: white;
+    <blockquote>
+        <p>时而文艺 时而愤青
+            <em>常孤单</em>
+        </p>
+    </blockquote>
+    <h3 id='极\n简\n介\n绍\n极简介绍\n'>
+        <mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg"
+                width="9.152ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 4045.3 950"
+                xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;">
+                <defs></defs>
+                <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                    <g data-mml-node="math">
+                        <g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px"
+                                font-family="serif" font-style="italic">极</text></g>
+                        <g data-mml-node="mi" transform="translate(989.5,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">简</text></g>
+                        <g data-mml-node="mi" transform="translate(2037.2,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">介</text></g>
+                        <g data-mml-node="mi" transform="translate(2997.6,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">绍</text></g>
+                    </g>
+                </g>
+            </svg></mjx-container>
+        <script type="math/tex">极简介绍</script>​
+    </h3>
+    <hr />
+    <p>我敏感，偏执，抑郁，自私，随意，散漫，记忆惊人，富有激情，怀揣梦想，听起来几乎就是一个拥有自己传记的艺术家了。但是唯独没有才华，所以我仅仅是以上词汇的集合体，也就是一个废柴。——<a
+            href='https://book.qidian.com/info/1011471481/'>《这个明星来自地球》</a></p>
+    <p>我不仅不凶狠，而且甚至还是一个无法凶狠起来的人，我只不过是枉自吓唬吓唬麻雀，聊以自慰而已。我不仅不会成为凶狠的人，甚至也不会成为任何一种人：既成不了凶狠之徒，也成不了善良之辈；既成不了流氓无赖，也成不了正人君子；既成不了英雄，也成不了虫豸。——<a
+            href='https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground/'>《地下室手记》</a></p>
+    <p>我是人，和多数人一样愚蠢荏弱；如果我比同类有优势，那优势就在于我知道自己是这样的，因而知道他们的弱点，也从来不以为我会在自己身上发现比别人更多的力量与明智。——<a
+            href='https://huang-feiyu.github.io/2021/05/27/Augustus/'>《奥古斯都》</a></p>
+    <hr />
+    <p>上面是我摘录的句子，与我有些契合——其实<strong>每个人都差不多</strong>，不过又各有特点。假如我们不是极为独特，假如我们中的每个人，都确实能被一颗炮弹从世上彻底清除，那么写个人介绍就毫无意义。</p>
+    <h3 id='简\n单\n介\n绍\n简单介绍\n'>
+        <mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg"
+                width="9.021ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 3987.1 950"
+                xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;">
+                <defs></defs>
+                <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                    <g data-mml-node="math">
+                        <g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px"
+                                font-family="serif" font-style="italic">简</text></g>
+                        <g data-mml-node="mi" transform="translate(1047.7,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">单</text></g>
+                        <g data-mml-node="mi" transform="translate(1979,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">介</text></g>
+                        <g data-mml-node="mi" transform="translate(2939.4,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">绍</text></g>
+                    </g>
+                </g>
+            </svg></mjx-container>
+        <script type="math/tex">简单介绍</script>​
+    </h3>
+    <hr />
+    <p>在这个标题下，我想通过几段简单的句子把我整个人勾勒出来，即使这并不完全。</p>
+    <hr />
+    <p>一般来说，个人介绍都需要放一张个人的大头照。<a href='https://github.com/huang-feiyu'>正面照</a>，侧面照在下面，我的照片很少，因为没人帮忙拍，哈哈。</p>
+    <p>正面照是我高三毕业的假期去照相馆拍的，现在可能沧桑一些，毕竟这一年所经历的思想变迁太大了；侧面照是2021年暑假的一门课程的实验上拍的，刚开始报课的时候还不清楚有实验，算是意外。</p>
+    <p><img src="https://raw.githubusercontent.com/huang-feiyu/huang-feiyu.github.io/master/img/about-1.webp"
+            referrerpolicy="no-referrer" alt="about-1"></p>
+    <hr />
+    <p>教育经历：</p>
+    <ul>
+        <li>2017.9-2020.6: <a href='http://www.hbshgzx.com/'>湖北省黄冈中学</a></li>
+        <li>2020.9至今: <a href='https://www.hitsz.edu.cn/index.html'>哈尔滨工业大学（深圳）</a> 计算机科学与技术学院</li>
 
-	--active-file-bg-color: #273036;
-	--active-file-text-color: #f1f1f1;
-	--ative-file-border-color: #273036;
+    </ul>
+    <p>职业经历：</p>
+    <ul>
+        <li>还没有，毕业后大概率直接工作，从事数据相关的行业——现在还没有确定，数据库开发工程师、大数据开发工程师、数据分析师、智库专家都在我考虑的范围之内。现在能力还没有达到，对于事物的看法还不够透彻。</li>
 
-	--side-bar-bg-color: #f1f1f1;
-	--item-hover-bg-color: #f1f1f1;
-	--item-hover-text-color: var(--primary-color);
-	--monospace: "Fira Code", monospace;
-}
+    </ul>
+    <hr />
+    <p>我对于一些社会事件的看法：</p>
+    <ul>
+        <li>我<strong>厌恶政治</strong>，即使我常常谈起，我谈政治也只是为了和别人有共同语言罢了；</li>
+        <li>我<strong>不喜欢极端仇恨者</strong>，包括极端女权主义者、沙文主义者、恨国者……。我能够理解他们，但我不喜欢他们；</li>
+        <li>我<strong>不喜欢同性恋</strong>，甚至有时候我愿意用最坏的恶意去歧视他们。——当然，这是不公正的。至于理由，我倒没有，毕竟我相信<strong>主观性就是真理</strong>；</li>
+        <li>我<strong>想要一个正义的社会</strong>，尽管现在看来这是不切实际的。</li>
 
-/*
- * Note: Font locations(i.e, src) are referenced outside of theme folder, as CSS file should be outside of folder.
- */
-* {
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
+    </ul>
+    <hr />
+    <p>我所认可的一些话：</p>
+    <ul>
+        <li>人的主观性不可磨灭。</li>
+        <li>我们应当下定决心去生活。</li>
+        <li>世上没有任何东西值得人们为它而舍弃自己之所爱。</li>
+        <li>人生来就是死囚，既然我们是死囚，我们就能够审判耶稣。</li>
 
-body, html {
-	background-color: var(--bg-color);
-	font: normal 1rem "Lato", sans-serif;
-}
+    </ul>
+    <h3 id='简\n单\n分\n析\n简单分析'>
+        <mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg"
+                width="9.021ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 3987.1 950"
+                xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;">
+                <defs></defs>
+                <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                    <g data-mml-node="math">
+                        <g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px"
+                                font-family="serif" font-style="italic">简</text></g>
+                        <g data-mml-node="mi" transform="translate(1047.7,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">单</text></g>
+                        <g data-mml-node="mi" transform="translate(1979,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">分</text></g>
+                        <g data-mml-node="mi" transform="translate(2968.5,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">析</text></g>
+                    </g>
+                </g>
+            </svg></mjx-container>
+        <script type="math/tex">简单分析</script>
+    </h3>
+    <hr />
+    <p>下面的段落有些啰嗦，前面的句子已经是我尽力压缩的结果了，不要太苛责我啦。如果不想看这段的话，可以直接划到页面最下面，有一个盖棺定论的简单结论。</p>
+    <p>其实我有想过通过这一个<code>about</code>界面刻画我内心的全部深度，后来发现我对自己认识得还不够清晰深刻，并且博尔赫斯的<a
+            href='https://weread.qq.com/web/reader/ca2320105e41e7ca2e5e233ka87322c014a87ff679a21ea'>《博闻强记的富内斯》</a>中已经写到：<strong>一切、永恒、无限</strong>这样的观念是<strong>不可能切实谈论</strong>的。
+    </p>
+    <p>这个标题之下，我希望通过一些简单的分析去展现我的一些观念。</p>
+    <h6 id='阅读'>阅读</h6>
+    <ul>
+        <li>
+            <p>对死刑的看法</p>
+        </li>
+        <li>
+            <p>我的阅读——我喜欢的东西的一个剪影</p>
+            <ul>
+                <li>阅读中我仅仅想要作者本人的态度，或者说是</li>
 
-/*
- * Editor
- */
-#write {
-	font: normal 0.9rem "Libre Baskerville", serif;
-	line-height: 1.6;
-	word-wrap: break-word;
-	max-width: 50em;
-}
+            </ul>
+        </li>
+        <li>
+            <p>走在路上低头</p>
+        </li>
+        <li>
+            <p>其他</p>
+        </li>
 
-@media only screen and (min-width: 1400px) {
-	#write {
-		/*
-		 * Narrow layout
-		 */
-		max-width: 914px;
-	}
-}
+    </ul>
+    <blockquote>
+        <p>TO BE CONTINUE...8.11应该能写完。</p>
+    </blockquote>
+    <h3 id='最\n后\n最后'>
+        <mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg"
+                width="4.477ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 1979 950"
+                xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;">
+                <defs></defs>
+                <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                    <g data-mml-node="math">
+                        <g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px"
+                                font-family="serif" font-style="italic">最</text></g>
+                        <g data-mml-node="mi" transform="translate(989.5,0)"><text data-variant="italic"
+                                transform="scale(1,-1)" font-size="884px" font-family="serif"
+                                font-style="italic">后</text></g>
+                    </g>
+                </g>
+            </svg></mjx-container>
+        <script type="math/tex">最后</script>
+    </h3>
+    <p>我并不是一个传统意义上的好人，但我认为自己是一个好人。</p>
+    <p>我并非一个善良的人，但是我是一个正直的人。</p>
+    <p>我并非一个道德家，我曾经有很长一段时间沉浸于道德伦理的思索之中，后来我发现这并非必需的。作为后遗症，我依旧有强烈的道德感。</p>
+    <p>我热爱世界，或许是因为不得不爱，也可能是因为这个世界上有我爱的人，但毕竟我爱这个世界。</p>
+    <p>我对于人生、世界有很多疑惑。</p>
+    <p>另：如果你看到我的几篇文章自我矛盾、前言不搭后语的，不要怀疑，都是我写的。因为我的思想在发生巨大的、迅速的改变，所以一个观点我可能在周日认同，在周一却不认同了。</p>
+    <p>&nbsp;</p>
+    </body>
 
-a {
-	/*
-	 * Links
-	 */
-	color: #0099ff;
-}
-
-blockquote {
-	/*
-	 * Quotes
-	 */
-	font-size: 1.2rem;
-}
-
-/*
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-	color: var(--primary-color);
-	font-family: "Lato", sans-serif;
-	text-transform: uppercase;
-}
-h1 {
-	border-bottom: 1px solid var(--primary-color);
-	padding: 5px 0;
-	text-align: center;
-}
-h2:before, h3:before, h4:before, h5:before, h6:before {
-	border-top: 5px solid var(--primary-color);
-	content: "";
-	display: block;
-	margin-top: 25px;
-	width: 30px;
-	height: 30px;
-}
-
-img {
-	/*
-	 * Images
-	 */
-	margin: 5px 0;
-	max-width: 100%;
-}
-
-/*
- * Tables
- */
-table {
-	border-collapse: collapse;
-	font-family: "Lato", sans-serif;
-	overflow-x: scroll;
-}
-
-thead > tr, tr:nth-child(even) {
-	background-color: #f1f1f1;
-}
-
-th {
-	font-style: italic;
-}
-
-th, td {
-	border: 1px solid #f1f1f1;
-	padding: 7px 14px;
-	text-align: left !important;
-}
-
-.cm-s-inner {
-	/*
-	 * Code fences
-	 */
-	border-top: 1px solid var(--primary-color);
-	border-bottom: 1px solid var(--primary-color);
-	padding: 15px 0;
-}
+</div>
 
 
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
 
-mjx-container[jax="SVG"] {
-  direction: ltr;
-}
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
 
-mjx-container[jax="SVG"] > svg {
-  overflow: visible;
-  min-height: 1px;
-  min-width: 1px;
-}
+    // handle render
+    function _render() {
+        var _hash = window.location.hash;
+        // en
+        if (_hash == "#en") {
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+            // zh by default
+        } else {
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
 
-mjx-container[jax="SVG"] > svg a {
-  fill: blue;
-  stroke: blue;
-}
+    // handle select change
+    function onLanChange(index) {
+        if (index == 0) {
+            window.location.hash = "#zh"
+        } else {
+            window.location.hash = "#en"
+        }
+    }
 
-mjx-assistive-mml {
-  position: absolute !important;
-  top: 0px;
-  left: 0px;
-  clip: rect(1px, 1px, 1px, 1px);
-  padding: 1px 0px 0px 0px !important;
-  border: 0px !important;
-  display: block !important;
-  width: auto !important;
-  overflow: hidden !important;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
+    // init
+    _render();
+</script>
 
-mjx-assistive-mml[display="block"] {
-  width: 100% !important;
-}
 
-mjx-container[jax="SVG"][display="true"] {
-  display: block;
-  text-align: center;
-  margin: 1em 0;
-}
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
 
-mjx-container[jax="SVG"][display="true"][width="full"] {
-  display: flex;
-}
+<div id="gitalk-container"></div>
+<script type="text/javascript">
+    var gitalk = new Gitalk({
+        clientID: '{{site.gitalk.clientID}}',
+        clientSecret: '{{site.gitalk.clientSecret}}',
+        repo: '{{site.gitalk.repo}}',
+        owner: '{{site.gitalk.owner}}',
+        admin: ['{{site.gitalk.admin}}'],
+        distractionFreeMode: {{ site.gitalk.distractionFreeMode }},
+    id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
 
-mjx-container[jax="SVG"][justify="left"] {
-  text-align: left;
-}
+<!-- disqus 评论框 start  -->
+{% if site.disqus.enable %}
 
-mjx-container[jax="SVG"][justify="right"] {
-  text-align: right;
-}
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+    </div>
+</div>
+<!-- disqus 评论框 end -->
 
-g[data-mml-node="merror"] > g {
-  fill: red;
-  stroke: red;
-}
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus.username}}";
+    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
 
-g[data-mml-node="merror"] > rect[data-background] {
-  fill: yellow;
-  stroke: none;
-}
-
-g[data-mml-node="mtable"] > line[data-line], svg[data-table] > g > line[data-line] {
-  stroke-width: 70px;
-  fill: none;
-}
-
-g[data-mml-node="mtable"] > rect[data-frame], svg[data-table] > g > rect[data-frame] {
-  stroke-width: 70px;
-  fill: none;
-}
-
-g[data-mml-node="mtable"] > .mjx-dashed, svg[data-table] > g > .mjx-dashed {
-  stroke-dasharray: 140;
-}
-
-g[data-mml-node="mtable"] > .mjx-dotted, svg[data-table] > g > .mjx-dotted {
-  stroke-linecap: round;
-  stroke-dasharray: 0,140;
-}
-
-g[data-mml-node="mtable"] > g > svg {
-  overflow: visible;
-}
-
-[jax="SVG"] mjx-tool {
-  display: inline-block;
-  position: relative;
-  width: 0;
-  height: 0;
-}
-
-[jax="SVG"] mjx-tool > mjx-tip {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-mjx-tool > mjx-tip {
-  display: inline-block;
-  padding: .2em;
-  border: 1px solid #888;
-  font-size: 70%;
-  background-color: #F8F8F8;
-  color: black;
-  box-shadow: 2px 2px 5px #AAAAAA;
-}
-
-g[data-mml-node="maction"][data-toggle] {
-  cursor: pointer;
-}
-
-mjx-status {
-  display: block;
-  position: fixed;
-  left: 1em;
-  bottom: 1em;
-  min-width: 25%;
-  padding: .2em .4em;
-  border: 1px solid #888;
-  font-size: 90%;
-  background-color: #F8F8F8;
-  color: black;
-}
-
-foreignObject[data-mjx-xml] {
-  font-family: initial;
-  line-height: normal;
-  overflow: visible;
-}
-
-mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
-  stroke-width: 3;
-}
-
-g[data-mml-node="xypic"] path {
-  stroke-width: inherit;
-}
-
-.MathJax g[data-mml-node="xypic"] path {
-  stroke-width: inherit;
-}
- :root {--mermaid-font-zoom:1.5em ;} 
-</style><title>about_temp</title>
-</head>
-<body class='typora-export os-windows'><div class='typora-export-content'>
-<div id='write'  class=''><blockquote><p><span>时而文艺 时而愤青</span>
-<em><span>常孤单</span></em></p></blockquote><h3 id='极\n简\n介\n绍\n极简介绍\n'><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="9.152ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 4045.3 950" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;"><defs></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">极</text></g><g data-mml-node="mi" transform="translate(989.5,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">简</text></g><g data-mml-node="mi" transform="translate(2037.2,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">介</text></g><g data-mml-node="mi" transform="translate(2997.6,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">绍</text></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>极</mi><mi>简</mi><mi>介</mi><mi>绍</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">极简介绍</script><span>​</span></h3><hr /><p><span>我敏感，偏执，抑郁，自私，随意，散漫，记忆惊人，富有激情，怀揣梦想，听起来几乎就是一个拥有自己传记的艺术家了。但是唯独没有才华，所以我仅仅是以上词汇的集合体，也就是一个废柴。——</span><a href='https://book.qidian.com/info/1011471481/'><span>《这个明星来自地球》</span></a></p><p><span>我不仅不凶狠，而且甚至还是一个无法凶狠起来的人，我只不过是枉自吓唬吓唬麻雀，聊以自慰而已。我不仅不会成为凶狠的人，甚至也不会成为任何一种人：既成不了凶狠之徒，也成不了善良之辈；既成不了流氓无赖，也成不了正人君子；既成不了英雄，也成不了虫豸。——</span><a href='https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground/'><span>《地下室手记》</span></a></p><p><span>我是人，和多数人一样愚蠢荏弱；如果我比同类有优势，那优势就在于我知道自己是这样的，因而知道他们的弱点，也从来不以为我会在自己身上发现比别人更多的力量与明智。——</span><a href='https://huang-feiyu.github.io/2021/05/27/Augustus/'><span>《奥古斯都》</span></a></p><hr /><p><span>上面是我摘录的句子，与我有些契合——其实</span><strong><span>每个人都差不多</span></strong><span>，不过又各有特点。假如我们不是极为独特，假如我们中的每个人，都确实能被一颗炮弹从世上彻底清除，那么写个人介绍就毫无意义。</span></p><h3 id='简\n单\n介\n绍\n简单介绍\n'><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="9.021ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 3987.1 950" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;"><defs></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">简</text></g><g data-mml-node="mi" transform="translate(1047.7,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">单</text></g><g data-mml-node="mi" transform="translate(1979,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">介</text></g><g data-mml-node="mi" transform="translate(2939.4,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">绍</text></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>简</mi><mi>单</mi><mi>介</mi><mi>绍</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">简单介绍</script><span>​</span></h3><hr /><p><span>在这个标题下，我想通过几段简单的句子把我整个人勾勒出来，即使这并不完全。</span></p><hr /><p><span>一般来说，个人介绍都需要放一张个人的大头照。</span><a href='https://github.com/huang-feiyu'><span>正面照</span></a><span>，侧面照在下面，我的照片很少，因为没人帮忙拍，哈哈。</span></p><p><span>正面照是我高三毕业的假期去照相馆拍的，现在可能沧桑一些，毕竟这一年所经历的思想变迁太大了；侧面照是2021年暑假的一门课程的实验上拍的，刚开始报课的时候还不清楚有实验，算是意外。</span></p><p><img src="https://raw.githubusercontent.com/huang-feiyu/huang-feiyu.github.io/master/img/about-1.webp" referrerpolicy="no-referrer" alt="about-1"></p><hr /><p><span>教育经历：</span></p><ul><li><span>2017.9-2020.6: </span><a href='http://www.hbshgzx.com/'><span>湖北省黄冈中学</span></a></li><li><span>2020.9至今: </span><a href='https://www.hitsz.edu.cn/index.html'><span>哈尔滨工业大学（深圳）</span></a><span> 计算机科学与技术学院</span></li></ul><p><span>职业经历：</span></p><ul><li><span>还没有，毕业后大概率直接工作，从事数据相关的行业——现在还没有确定，数据库开发工程师、大数据开发工程师、数据分析师、智库专家都在我考虑的范围之内。现在能力还没有达到，对于事物的看法还不够透彻。</span></li></ul><hr /><p><span>我对于一些社会事件的看法：</span></p><ul><li><span>我</span><strong><span>厌恶政治</span></strong><span>，即使我常常谈起，我谈政治也只是为了和别人有共同语言罢了；</span></li><li><span>我</span><strong><span>不喜欢极端仇恨者</span></strong><span>，包括极端女权主义者、沙文主义者、恨国者……。我能够理解他们，但我不喜欢他们；</span></li><li><span>我</span><strong><span>不喜欢同性恋</span></strong><span>，甚至有时候我愿意用最坏的恶意去歧视他们。——当然，这是不公正的。至于理由，我倒没有，毕竟我相信</span><strong><span>主观性就是真理</span></strong><span>；</span></li><li><span>我</span><strong><span>想要一个正义的社会</span></strong><span>，尽管现在看来这是不切实际的。</span></li></ul><hr /><p><span>我所认可的一些话：</span></p><ul><li><span>人的主观性不可磨灭。</span></li><li><span>我们应当下定决心去生活。</span></li><li><span>世上没有任何东西值得人们为它而舍弃自己之所爱。</span></li><li><span>人生来就是死囚，既然我们是死囚，我们就能够审判耶稣。</span></li></ul><h3 id='简\n单\n分\n析\n简单分析'><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="9.021ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 3987.1 950" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;"><defs></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">简</text></g><g data-mml-node="mi" transform="translate(1047.7,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">单</text></g><g data-mml-node="mi" transform="translate(1979,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">分</text></g><g data-mml-node="mi" transform="translate(2968.5,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">析</text></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>简</mi><mi>单</mi><mi>分</mi><mi>析</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">简单分析</script></h3><hr /><p><span>下面的段落有些啰嗦，前面的句子已经是我尽力压缩的结果了，不要太苛责我啦。如果不想看这段的话，可以直接划到页面最下面，有一个盖棺定论的简单结论。</span></p><p><span>其实我有想过通过这一个</span><code>about</code><span>界面刻画我内心的全部深度，后来发现我对自己认识得还不够清晰深刻，并且博尔赫斯的</span><a href='https://weread.qq.com/web/reader/ca2320105e41e7ca2e5e233ka87322c014a87ff679a21ea'><span>《博闻强记的富内斯》</span></a><span>中已经写到：</span><strong><span>一切、永恒、无限</span></strong><span>这样的观念是</span><strong><span>不可能切实谈论</span></strong><span>的。</span></p><p><span>这个标题之下，我希望通过一些简单的分析去展现我的一些观念。</span></p><h6 id='阅读'><span>阅读</span></h6><ul><li><p><span>对死刑的看法</span></p></li><li><p><span>我的阅读——我喜欢的东西的一个剪影</span></p><ul><li><span>阅读中我仅仅想要作者本人的态度，或者说是</span></li></ul></li><li><p><span>走在路上低头</span></p></li><li><p><span>其他</span></p></li></ul><blockquote><p><span>TO BE CONTINUE...8.11应该能写完。</span></p></blockquote><h3 id='最\n后\n最后'><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="4.477ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 1979 950" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.452ex;"><defs></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">最</text></g><g data-mml-node="mi" transform="translate(989.5,0)"><text data-variant="italic" transform="scale(1,-1)" font-size="884px" font-family="serif" font-style="italic">后</text></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>最</mi><mi>后</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">最后</script></h3><p><span>我并不是一个传统意义上的好人，但我认为自己是一个好人。</span></p><p><span>我并非一个善良的人，但是我是一个正直的人。</span></p><p><span>我并非一个道德家，我曾经有很长一段时间沉浸于道德伦理的思索之中，后来我发现这并非必需的。作为后遗症，我依旧有强烈的道德感。</span></p><p><span>我热爱世界，或许是因为不得不爱，也可能是因为这个世界上有我爱的人，但毕竟我爱这个世界。</span></p><p><span>我对于人生、世界有很多疑惑。</span></p><p><span>另：如果你看到我的几篇文章自我矛盾、前言不搭后语的，不要怀疑，都是我写的。因为我的思想在发生巨大的、迅速的改变，所以一个观点我可能在周日认同，在周一却不认同了。</span></p><p>&nbsp;</p></div></div>
-</body>
-</html>
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
