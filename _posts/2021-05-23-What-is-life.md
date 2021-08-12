@@ -7,7 +7,7 @@ author:     Huang
 header-img: img/post_bg_old_and_young.jpg
 catalog: true
 tags:
-   - Philosophy
+   - Other
 ---
 
 > 忧伤时局多变，哀怜生命疾苦。

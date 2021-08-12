@@ -34,8 +34,8 @@ Telegram WebPage: https://web.telegram.org/#/im
   * [伊塔洛·卡尔维诺](https://github.com/huang-feiyu/huang-feiyu.github.io#%E4%BC%8A%E5%A1%94%E6%B4%9B%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA)
   * [弗朗茨·卡夫卡](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%BC%97%E6%9C%97%E8%8C%A8%E5%8D%A1%E5%A4%AB%E5%8D%A1)
   * [其他作家](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%85%B6%E4%BB%96%E4%BD%9C%E5%AE%B6)
-* [Philosophy](https://github.com/huang-feiyu/huang-feiyu.github.io#philosophy)
 * [Programming](https://github.com/huang-feiyu/huang-feiyu.github.io#programming)
+* [Writing](https://github.com/huang-feiyu/huang-feiyu.github.io#writing)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
 * [Journal](https://github.com/huang-feiyu/huang-feiyu.github.io#journal)
@@ -115,9 +115,6 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [The-Buhhda](https://huang-feiyu.github.io/2021/05/30/The-Buddha): 《佛陀》
 * [To-Kill-a-Mockingbird](https://huang-feiyu.github.io/2021/07/18/To-Kill-a-Mockingbird): 《杀死一只知更鸟》
 
-#### Philosophy
-* [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
-
 #### Programming
 * Database
     * [B+Tree](https://huang-feiyu.github.io/2021/05/21/B-Plus-Tree): B+Tree 在任何方面都十分优秀
@@ -128,6 +125,9 @@ Telegram WebPage: https://web.telegram.org/#/im
     * [Sort](https://huang-feiyu.github.io/2021/05/11/Sort): 五种简单的排序算法
 * [Regular-Expression](https://huang-feiyu.github.io/2021/07/05/Regular-Expression): 正则表达式(有些编码错误,我自己应该看得懂)
 * [Learning-Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git): Git学习笔记
+
+#### Writing
+* [Chinese-Writing-Guide](https://huang-feiyu.github.io/2021/08/12/Chinese-Writing-Guide): 中文写作指南
 
 #### Great-People
 * [Camus](https://huang-feiyu.github.io/2021/05/21/Camus): 阿尔贝·加缪
@@ -193,3 +193,4 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
 * [Become a programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
 * [The-Items-of-Reinstall-OS](https://huang-feiyu.github.io/2021/07/17/The-Items-of-Reinstall-OS/): 重装系统的一点注意事项
+* [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
