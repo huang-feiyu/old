@@ -17,7 +17,7 @@ header-img: img/post_bg_recommand.jpg
 
 ### 书籍
 
-我建了一个我的[书籍数据库](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db)，可以使用SQL索引看到我大学以来阅读的几乎所有非专业书。可以在我的[豆瓣](https://www.douban.com/doulist/141697624/)中找到更多我推荐的书籍，在此只推荐我认为非常好的。(除了《爱情笔记》，该书只是我想要强调的：不要毫无准备地坠入爱情的陷阱中)
+我建了一个我的[书籍数据库](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db)，可以使用SQL索引看到我大学以来阅读的几乎所有非专业书，在此只推荐我认为非常好的。(除了《爱情笔记》，该书只是我想要强调的：不要毫无准备地坠入爱情的陷阱中)
 
 * [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
     * [《宗教大法官》](https://huangfeiyu.blogspot.com/2021/08/blog-post.html)
@@ -43,6 +43,7 @@ header-img: img/post_bg_recommand.jpg
     * [书评笔记](https://huang-feiyu.github.io/2021/05/22/Demian/)
     * [体验](https://huang-feiyu.github.io/2021/07/03/Summer-vacation-Journal-7/#essay-17-%E7%A2%8E%E7%A2%8E%E5%BF%B5)
 * [《窄门》](https://book.douban.com/subject/30331835/): 我总是感觉这本书我没有读懂，却还是能够感到其魅力。怪哉，怪哉。
+    * [书评笔记]()
 * [《过于喧嚣的孤独》](https://book.douban.com/subject/26220767/): 读书的体验，对未来的忧虑让我感同身受。
     * [书评笔记](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude/)
 * [《鼠疫》](https://book.douban.com/subject/24257229/): 生命内在值得称赞的东西总是比被唾弃的要更多， 我能感受到加缪内心的对人类的信心与无尽的希望。
@@ -103,7 +104,7 @@ header-img: img/post_bg_recommand.jpg
 * 哲学
   * [Justice](https://justiceharvard.org/): 正义课，哲学入门课程。
   * [Death](https://oyc.yale.edu/death/phil-176): 死亡课，很有意思的入门课。
-  * [søren kierkegaard - subjectivity, irony and the crisis of modernity](https://www.coursera.org/learn/kierkegaard): 克尔凯郭尔、陀思妥耶夫斯基、尼采，我认为的三位世界的预言者。这门课介绍了克尔凯郭尔，能够帮助理解这个世界。
+  * [Søren Kierkegaard - subjectivity, irony and the crisis of modernity](https://www.coursera.org/learn/kierkegaard): 克尔凯郭尔、陀思妥耶夫斯基、尼采，我认为的三位世界的预言者。这门课介绍了克尔凯郭尔，能够帮助理解这个世界。
   * 大概不会更新了，因为我发现我并不是喜欢当代的这种哲学——我需要的是自我探索。
 
 ### 其他
@@ -113,12 +114,12 @@ header-img: img/post_bg_recommand.jpg
 * [Computer Science](https://github.com/huang-feiyu/computer-science)
 * [Database learning](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/awesome-database-learning)
 * [Telegram](https://telegram.org/): 受够了监控和垃圾软件，试试这个。除了没有[截图功能](https://www.snipaste.com/)，全部都很好.
-* [Windows Terminal](https://github.com/microsoft/terminal): 与WSL1一起使用可以得到更好的效果。(至于为什么不推荐WSL2，可以[Baidu](https://www.google.com)一下，WSL2的Vim支持非常慢)
+* [Windows Terminal](https://github.com/microsoft/terminal): 与WSL1一起使用可以得到更好的效果。(至于为什么不推荐WSL2，WSL2的Vim非常慢)
 * [JetBrains 全家桶](https://www.jetbrains.com/?var=1): 各种IDE都有，而且学生免费
 * [Typora](https://typora.io/): 除了不支持vim，其他都挺好的
-* [Vim](https://www.vim.org/): 编辑器之神, 配合Windows Terminal(WSL2)使用
-* [Git](https://git-scm.com/): 非常优秀的版本控制工具，在大概完全[学习Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git/)之后我发现Git是绝对的神器(另外，可以使用GitHub Desktop上传与拉取，因为大陆网速太慢了)
+* [Vim](https://www.vim.org/): 编辑器之神, 配合Windows Terminal(WSL1)使用
+* [Git](https://git-scm.com/): 非常优秀的版本控制工具，在大概完全[学习Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git/)之后我发现Git是绝对的神器(另外，可以使用GitHub Desktop上传与拉取，因为大陆网速太慢了===》当然可以使用魔法)
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge): 很好的PDF阅读器
 * [EV 录屏](https://www.ieway.cn/evcapture.html): 挺好用的录屏软件
 * [Qwerty Learner](https://qwerty.kaiyi.cool/): 神·练打字+学英语+学编程网站
-* **[一位帅哥](https://github.com/huang-feiyu)**: 如果对于一些人生上的问题可以用[Telegram](https://t.me/huangfeiyu)和我交流一下，如果您愿意的话。
+* **[一位帅哥](https://huang-feiyu.github.io/about)**: 如果对于一些人生上的问题可以用[Telegram](https://t.me/huangfeiyu)和我交流一下，如果您愿意的话。
