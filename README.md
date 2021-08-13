@@ -140,7 +140,7 @@ Telegram WebPage: https://web.telegram.org/#/im
      * [Twenty-Love-Poems-and-a-Song-of-Despair](https://huang-feiyu.github.io/2021/05/29/Twenty-Love-Poems-and-a-Song-of-Despair): 《二十首情诗和一首绝望的歌》
      * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
-        * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
+    * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
 
 #### Journal
 * [Summer-vacation-Journal-1](https://huang-feiyu.github.io/2021/06/27/Summer-vacation-Journal-1): 2021暑假手记1 
@@ -190,6 +190,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Summer-vacation-Journal-45](https://huang-feiyu.github.io/2021/08/10/Summer-vacation-Journal-45): 2021暑假手记45
 * [Summer-vacation-Journal-46](https://huang-feiyu.github.io/2021/08/11/Summer-vacation-Journal-46): 2021暑假手记46
 * [Summer-vacation-Journal-47](https://huang-feiyu.github.io/2021/08/12/Summer-vacation-Journal-47): 2021暑假手记47
+* [Summer-vacation-Journal-48](https://huang-feiyu.github.io/2021/08/13/Summer-vacation-Journal-48): 2021暑假手记48
 
 #### Other
 * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
