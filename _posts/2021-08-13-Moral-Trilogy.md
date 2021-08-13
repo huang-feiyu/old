@@ -2,7 +2,7 @@
 layout:     post
 title:      Moral-Trilogy
 subtitle:   《窄门》《背德者》《田园交响曲》
-date:       2021-08-12
+date:       2021-08-13
 author:     Huang
 header-img: img/post_bg_ocean_sun_cloud.jpg
 catalog: true
