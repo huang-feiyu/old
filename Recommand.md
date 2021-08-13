@@ -38,12 +38,12 @@ header-img: img/post_bg_recommand.jpg
 * [《沙之书》](https://book.douban.com/subject/25796049/): 刘慈欣用百万字写就的《三体》，博尔赫斯用了几百个字。
 * [《伊豆的舞女》](https://book.douban.com/subject/25899960/): 这本书真是无与伦比，无论是美的方面还是初恋的方面，有太多太多让我感同身受的文字了。
     * [书评笔记](https://huang-feiyu.github.io/2021/07/08/The-Dancing-Girl-of-Izu)
-    * [体验](https://huang-feiyu.github.io/2021/07/04/Summer-vacation-Journal-8/#essay-18-%E6%83%85%E6%84%9F%E7%BB%88%E7%AB%A0)
+    * [体验](https://huang-feiyu.github.io/2021/07/04/Essay-18/)
 * [《德米安》](https://book.douban.com/subject/35060088/): 人生中充满疑问和迷茫，你可以向这本书寻求帮助，但不要祈求直接找到方法。
     * [书评笔记](https://huang-feiyu.github.io/2021/05/22/Demian/)
-    * [体验](https://huang-feiyu.github.io/2021/07/03/Summer-vacation-Journal-7/#essay-17-%E7%A2%8E%E7%A2%8E%E5%BF%B5)
-* [《窄门》](https://book.douban.com/subject/30331835/): 我总是感觉这本书我没有读懂，却还是能够感到其魅力。怪哉，怪哉。
-    * [书评笔记]()
+    * [体验](https://huang-feiyu.github.io/2021/07/03/Essay-17/)
+* [《窄门》](https://book.douban.com/subject/30331835/): 是否踏入窄门，我希望不要。
+    * [书评笔记](https://huang-feiyu.github.io/2021/08/13/Moral-Trilogy)
 * [《过于喧嚣的孤独》](https://book.douban.com/subject/26220767/): 读书的体验，对未来的忧虑让我感同身受。
     * [书评笔记](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude/)
 * [《鼠疫》](https://book.douban.com/subject/24257229/): 生命内在值得称赞的东西总是比被唾弃的要更多， 我能感受到加缪内心的对人类的信心与无尽的希望。
