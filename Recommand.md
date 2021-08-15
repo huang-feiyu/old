@@ -23,15 +23,17 @@ header-img: img/post_bg_recommand.jpg
     * [《宗教大法官》](https://huangfeiyu.blogspot.com/2021/08/blog-post.html)
     * [书评笔记](https://huang-feiyu.github.io/2021/08/01/The-Brothers-Karamazov)
 * [《逍遥游》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
-* [《卡夫卡小说全集（全3卷）》](https://book.douban.com/subject/25793952/): 卡夫卡的作品，荒诞的世界中的探索，而我们的世界又何尝不荒诞呢？哈哈。
-    * [《城堡》书评笔记](https://huang-feiyu.github.io/2021/07/12/The-Castle/)
-    * [《审判》书评笔记](https://huang-feiyu.github.io/2021/07/16/The-Trial/)
 * [《地下室手记》](https://book.douban.com/subject/34990839/): 陀思妥耶夫斯基的作品，地下室人的自白，拷问着你的灵魂。
     * [书评笔记](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground/)
 * [《悉达多》](https://book.douban.com/subject/26980487/): 赫尔曼·黑塞写就的人的一生，如诗歌。姜乙的翻译更是为这本诗歌献上了最好的赞歌。
     * [体验](https://huang-feiyu.github.io/2021/05/20/Essay-5/#para-5)
 * [《局外人》](https://book.douban.com/subject/24257486/): 在荒谬的一切中，我们永远不是弱者，因为每个人都是弱者。
     * [书评笔记](https://huang-feiyu.github.io/2021/07/28/The-Stranger/)
+* [《卡夫卡小说全集（全3卷）》](https://book.douban.com/subject/25793952/): 卡夫卡的作品，荒诞的世界中的探索，而我们的世界又何尝不荒诞呢？哈哈。
+    * [《城堡》书评笔记](https://huang-feiyu.github.io/2021/07/12/The-Castle/)
+    * [《审判》书评笔记](https://huang-feiyu.github.io/2021/07/16/The-Trial/)
+* [《罪与罚》](https://book.douban.com/subject/25887912/): 陀思妥耶夫斯基救赎之道揭秘之书：难道现在她的信仰不能成为我的信仰吗？
+    * [书评笔记](https://huang-feiyu.github.io/2021/08/15/Crime-and-Punishment)
 * [《西线无战事》](https://book.douban.com/subject/35272817/): 我们不相信一切，我们只相信战争。        
     * [书评笔记](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues/) 
 * [《索拉里斯星》](https://book.douban.com/subject/1440243/): 这是一本科幻小说，但是与其说是科幻小说，不如说是一本哲学小说，会给人带来梦幻一般的思考。

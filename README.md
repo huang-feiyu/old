@@ -73,6 +73,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 ###### 陀思妥耶夫斯基
 * [The-Brothers-Karamazov](https://huang-feiyu.github.io/2021/08/01/The-Brothers-Karamazov): 《卡拉马佐夫兄弟》
 * [Notes-from-Underground](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground): 《地下室手记》
+* [Crime-and-Punishment](https://huang-feiyu.github.io/2021/08/15/Crime-and-Punishment): 《罪与罚》
 * [Demons](https://huang-feiyu.github.io/2021/08/09/Demons): 《群魔》
 * [The-Idiot](https://huang-feiyu.github.io/2021/06/05/The-Idiot): 《白痴》 
 * [Humiliated-and-Insulted](https://huang-feiyu.github.io/2021/07/10/Humiliated-and-Insulted): 《被伤害与侮辱的人们》
@@ -192,6 +193,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Summer-vacation-Journal-47](https://huang-feiyu.github.io/2021/08/12/Summer-vacation-Journal-47): 2021暑假手记47
 * [Summer-vacation-Journal-48](https://huang-feiyu.github.io/2021/08/13/Summer-vacation-Journal-48): 2021暑假手记48
 * [Summer-vacation-Journal-49](https://huang-feiyu.github.io/2021/08/14/Summer-vacation-Journal-49): 2021暑假手记49
+* [Summer-vacation-Journal-50](https://huang-feiyu.github.io/2021/08/15/Summer-vacation-Journal-50): 2021暑假手记50
 
 #### Other
 * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
