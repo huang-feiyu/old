@@ -194,6 +194,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Summer-vacation-Journal-48](https://huang-feiyu.github.io/2021/08/13/Summer-vacation-Journal-48): 2021暑假手记48
 * [Summer-vacation-Journal-49](https://huang-feiyu.github.io/2021/08/14/Summer-vacation-Journal-49): 2021暑假手记49
 * [Summer-vacation-Journal-50](https://huang-feiyu.github.io/2021/08/15/Summer-vacation-Journal-50): 2021暑假手记50
+* [Summer-vacation-Journal-51](https://huang-feiyu.github.io/2021/08/16/Summer-vacation-Journal-51): 2021暑假手记51
 
 #### Other
 * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
