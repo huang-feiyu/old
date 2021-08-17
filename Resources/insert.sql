@@ -30,14 +30,42 @@
 -- FROM book JOIN my_info ON book.my_info=my_info.id
 -- ORDER BY my_info.score DESC;
 
+--- 94以上为我心目中top10作品, 六颗星, 多出的一颗星是我的心灵感受
 UPDATE my_info
-SET score = 93
+SET score=100
+WHERE id = 1, 80;
+
+UPDATE my_info
+SET score=98
+WHERE id = 42, 56;
+
+UPDATE my_info
+SET score=97
+WHERE id = 55, 100;
+
+UPDATE my_info
+SET score = 96
+WHERE id = 58, 59, 48;
+
+UPDATE my_info
+SET score = 95
+WHERE id = 101, 50, 52;
+
+
+--- 84以上为我大力推荐作品, 五颗星
+UPDATE my_info
+SET score = 91
 WHERE id = 61, 60, 62;
 
 UPDATE my_info
 SET score = 88
 WHERE id = 58, 90;
 
+-- 80以上为很好的作品, 4颗星
 UPDATE my_info
 SET score = 85
 WHERE id = 58, 90;
+
+-- 80分为我没有读过但是已经买了的作品
+
+-- 80分以下是随便给的分

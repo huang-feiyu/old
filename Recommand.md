@@ -107,7 +107,7 @@ header-img: img/post_bg_recommand.jpg
   * [Justice](https://justiceharvard.org/): 正义课，哲学入门课程。
   * [Death](https://oyc.yale.edu/death/phil-176): 死亡课，很有意思的入门课。
   * [Søren Kierkegaard - subjectivity, irony and the crisis of modernity](https://www.coursera.org/learn/kierkegaard): 克尔凯郭尔、陀思妥耶夫斯基、尼采，我认为的三位世界的预言者。这门课介绍了克尔凯郭尔，能够帮助理解这个世界。
-  * 大概不会更新了，因为我发现我并不是喜欢当代的这种哲学——我需要的是自我探索。
+  * 大概不会更新了，因为我发现我并不是喜欢当代的这种哲学——我需要的是自我探索。借用纪德的一句话**是什么使今日的诗歌尤其是哲学变成了一堆死文字，您知道吗？是它们脱离了生活。**
 
 ### 其他
 
