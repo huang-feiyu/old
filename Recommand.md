@@ -99,10 +99,10 @@ header-img: img/post_bg_recommand.jpg
   * [Princeton Algorithm](https://www.coursera.org/learn/algorithms-part1/home/welcome): Part I, Part II很好的课程，很好的教科书[《算法 第四版》](https://item.jd.com/11098789.html)。
   * [CMU CS 15-445](https://15445.courses.cs.cmu.edu/fall2020/): ~~我正在学习的课程，~~数据库入门，暂且搁置，现在听不太懂——course 13。
   * [Introduction to Algorithm MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/): 暂且搁置的算法导论。
-  * [Introduction-to-Computer-Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm): 利用Python讲的计算机科学入门课程，正在迅速学习。
+  * [Introduction-to-Computer-Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm): 利用Python讲的计算机科学入门课程。
 * 概率统计学
-  * [頑想學概率：機率一](https://www.coursera.org/learn/prob1#syllabus): 国立台湾大学的课程，正在学习。
-  * [頑想學概率：機率二](https://www.coursera.org/learn/prob2): NTU，同上。
+  * [頑想學概率：機率一](https://www.coursera.org/learn/prob1#syllabus): 国立台湾大学的课程。
+  * [頑想學概率：機率二](https://www.coursera.org/learn/prob2): NTU，正在学习。
 * 哲学
   * [Justice](https://justiceharvard.org/): 正义课，哲学入门课程。
   * [Death](https://oyc.yale.edu/death/phil-176): 死亡课，很有意思的入门课。
