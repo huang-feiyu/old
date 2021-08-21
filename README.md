@@ -67,6 +67,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Essay-23](https://huang-feiyu.github.io/2021/07/24/Essay-23): 交流的方式
 * [Essay-24](https://huang-feiyu.github.io/2021/07/27/Essay-24): 打扫的一些想法
 * [Essay-25](https://huang-feiyu.github.io/2021/08/04/Essay-25): 我的孤单是什么
+* [Essay-26](https://huang-feiyu.github.io/2021/08/21/Essay-26): 对熬夜的感触
 
 #### Book Review
 
@@ -199,6 +200,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Summer-vacation-Journal-53](https://huang-feiyu.github.io/2021/08/18/Summer-vacation-Journal-53): 2021暑假手记53
 * [Summer-vacation-Journal-54](https://huang-feiyu.github.io/2021/08/19/Summer-vacation-Journal-54): 2021暑假手记54
 * [Summer-vacation-Journal-55](https://huang-feiyu.github.io/2021/08/20/Summer-vacation-Journal-55): 2021暑假手记55
+* [Summer-vacation-Journal-56](https://huang-feiyu.github.io/2021/08/21/Summer-vacation-Journal-56): 2021暑假手记56
 
 #### Other
 * [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西

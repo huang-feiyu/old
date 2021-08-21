@@ -29,7 +29,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+# obsidian
+.obsidian
+.obsidian.vimrc
 
 # End of https://www.gitignore.io/api/macos
 
