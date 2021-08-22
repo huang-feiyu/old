@@ -1,24 +1,24 @@
 ----------------------------------------------
 -- 插入区
 ----------------------------------------------
-INSERT into author VALUES
-(176, "罗兰·巴特", 2, 1915, 11, 12, 1980, 3, 25, 0);
+-- INSERT into author VALUES
+-- (176, "罗兰·巴特", 2, 1915, 11, 12, 1980, 3, 25, 0);
 
-INSERT INTO translator VALUES
-(136, "汪耀进、武佩荣"),
-(137, "靖振忠");
+-- INSERT INTO translator VALUES
+-- (136, "汪耀进、武佩荣"),
+-- (137, "靖振忠");
 
-INSERT INTO book VALUES
-(186, "恋人絮语",   "null", 225, 201, 0, 0, 1, 186, 0, 5, 186, 176, 136),
-(187, "索拉里斯星", "null", 254, 180, 1, 1, 1, 187, 0, 1, 187,  34, 137);
+-- INSERT INTO book VALUES
+-- (186, "恋人絮语",   "null", 225, 201, 0, 0, 1, 186, 0, 5, 186, 176, 136),
+-- (187, "索拉里斯星", "null", 254, 180, 1, 1, 1, 187, 0, 1, 187,  34, 137);
 
-INSERT INTO my_info VALUES
-(186, 2021, 8, 21, 0, "null", 80),
-(187, 2021, 8, 21, 0, "null", 80);
+-- INSERT INTO my_info VALUES
+-- (186, 2021, 8, 21, 0, "null", 80),
+-- (187, 2021, 8, 21, 0, "null", 80);
 
-INSERT INTO release VALUES
-(186, 2018, 6, 978, 7, 208, 13904, 6),
-(187, 2018, 6, 978, 7, 5447, 8217, 3);
+-- INSERT INTO release VALUES
+-- (186, 2018, 6, 978, 7, 208, 13904, 6),
+-- (187, 2018, 6, 978, 7, 5447, 8217, 3);
 
 -- INSERT INTO press VALUES
 -- (5437, "东方出版中心");
@@ -26,6 +26,20 @@ INSERT INTO release VALUES
 -- INSERT INTO country VALUES
 -- (26, "南非");
 
+
+----------------------------------------------
+-- 更新区
+----------------------------------------------
+
+UPDATE my_info
+SET date_month=8, date_day=22,
+ read_times=1, book_link='https://huang-feiyu.github.io/2021/08/22/Solaris',
+ score = 95
+WHERE id = 187;
+
+UPDATE my_info 
+SET book_link='https://huang-feiyu.github.io/2021/08/22/Solaris'
+WHERE id = 101;
 
 
 ----------------------------------------------

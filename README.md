@@ -8,7 +8,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 
 Telegram Channel: https://t.me/joinchat/QiFlhFCuZOs3MDVl
 
-Telegram WebPage: https://web.telegram.org/#/im
+Telegram Web-Page: https://web.telegram.org/#/im
 
 ### 目的：
 
@@ -106,6 +106,7 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [The-Trial](https://huang-feiyu.github.io/2021/07/16/The-Trial): 《审判》
 
 ###### 其他作家
+* [《索拉里斯星》](https://huang-feiyu.github.io/2021/08/22/Solaris)
 * [The-temple-of-the-Golden-Pavilion](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion): 《金阁寺》
 * [Im-Westen-nichts-Neues](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues): 《西线无战事》
 * [Too-Loud-a-Solitude](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude): 《过于喧嚣的孤独》
@@ -201,10 +202,11 @@ Telegram WebPage: https://web.telegram.org/#/im
 * [Summer-vacation-Journal-54](https://huang-feiyu.github.io/2021/08/19/Summer-vacation-Journal-54): 2021暑假手记54
 * [Summer-vacation-Journal-55](https://huang-feiyu.github.io/2021/08/20/Summer-vacation-Journal-55): 2021暑假手记55
 * [Summer-vacation-Journal-56](https://huang-feiyu.github.io/2021/08/21/Summer-vacation-Journal-56): 2021暑假手记56
+* [Summer-vacation-Journal-57](https://huang-feiyu.github.io/2021/08/22/Summer-vacation-Journal-57): 2021暑假手记57
 
 #### Other
-* [**Recommand**](https://huang-feiyu.github.io/Recommand): 推荐的一些东西
+* [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
 * [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
-* [Become a programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
+* [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
 * [The-Items-of-Reinstall-OS](https://huang-feiyu.github.io/2021/07/17/The-Items-of-Reinstall-OS/): 重装系统的一点注意事项
 * [Simple-Guide-To-Win11](https://huang-feiyu.github.io/2021/08/19/Simple-Guide-To-Win11): Windows 11简单介绍
