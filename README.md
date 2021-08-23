@@ -38,7 +38,6 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Writing](https://github.com/huang-feiyu/huang-feiyu.github.io#writing)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
-* [Journal](https://github.com/huang-feiyu/huang-feiyu.github.io#journal)
 * [Other](https://github.com/huang-feiyu/huang-feiyu.github.io#other)
 
 #### Essay
@@ -144,65 +143,6 @@ Telegram Web-Page: https://web.telegram.org/#/im
      * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
     * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
-
-#### Journal
-* [Summer-vacation-Journal-1](https://huang-feiyu.github.io/2021/06/27/Summer-vacation-Journal-1): 2021暑假手记1 
-* [Summer-vacation-Journal-2](https://huang-feiyu.github.io/2021/06/28/Summer-vacation-Journal-2): 2021暑假手记2
-* [Summer-vacation-Journal-3](https://huang-feiyu.github.io/2021/06/29/Summer-vacation-Journal-3): 2021暑假手记3
-* [Summer-vacation-Journal-4](https://huang-feiyu.github.io/2021/06/30/Summer-vacation-Journal-4): 2021暑假手记4
-* [Summer-vacation-Journal-5](https://huang-feiyu.github.io/2021/07/01/Summer-vacation-Journal-5): 2021暑假手记5
-* [Summer-vacation-Journal-6](https://huang-feiyu.github.io/2021/07/02/Summer-vacation-Journal-6): 2021暑假手记6
-* [Summer-vacation-Journal-7](https://huang-feiyu.github.io/2021/07/03/Summer-vacation-Journal-7): 2021暑假手记7
-* [Summer-vacation-Journal-8](https://huang-feiyu.github.io/2021/07/04/Summer-vacation-Journal-8): 2021暑假手记8
-* [Summer-vacation-Journal-9](https://huang-feiyu.github.io/2021/07/05/Summer-vacation-Journal-9): 2021暑假手记9
-* [Summer-vacation-Journal-10](https://huang-feiyu.github.io/2021/07/06/Summer-vacation-Journal-10): 2021暑假手记10
-* [Summer-vacation-Journal-11](https://huang-feiyu.github.io/2021/07/07/Summer-vacation-Journal-11): 2021暑假手记11
-* [Summer-vacation-Journal-12](https://huang-feiyu.github.io/2021/07/08/Summer-vacation-Journal-12): 2021暑假手记12
-* [Summer-vacation-Journal-13](https://huang-feiyu.github.io/2021/07/09/Summer-vacation-Journal-13): 2021暑假手记13
-* [Summer-vacation-Journal-14](https://huang-feiyu.github.io/2021/07/10/Summer-vacation-Journal-14): 2021暑假手记14
-* [Summer-vacation-Journal-15](https://huang-feiyu.github.io/2021/07/11/Summer-vacation-Journal-15): 2021暑假手记15
-* [Summer-vacation-Journal-16](https://huang-feiyu.github.io/2021/07/12/Summer-vacation-Journal-16): 2021暑假手记16
-* [Summer-vacation-Journal-17](https://huang-feiyu.github.io/2021/07/13/Summer-vacation-Journal-17): 2021暑假手记17
-* [Summer-vacation-Journal-18](https://huang-feiyu.github.io/2021/07/14/Summer-vacation-Journal-18): 2021暑假手记18
-* [Summer-vacation-Journal-19](https://huang-feiyu.github.io/2021/07/15/Summer-vacation-Journal-19): 2021暑假手记19
-* [Summer-vacation-Journal-20](https://huang-feiyu.github.io/2021/07/16/Summer-vacation-Journal-20): 2021暑假手记20
-* [Summer-vacation-Journal-21](https://huang-feiyu.github.io/2021/07/17/Summer-vacation-Journal-21): 2021暑假手记21
-* [Summer-vacation-Journal-22](https://huang-feiyu.github.io/2021/07/18/Summer-vacation-Journal-22): 2021暑假手记22
-* [Summer-vacation-Journal-23](https://huang-feiyu.github.io/2021/07/19/Summer-vacation-Journal-23): 2021暑假手记23
-* [Summer-vacation-Journal-24](https://huang-feiyu.github.io/2021/07/20/Summer-vacation-Journal-24): 2021暑假手记24
-* [Summer-vacation-Journal-25](https://huang-feiyu.github.io/2021/07/21/Summer-vacation-Journal-25): 2021暑假手记25
-* [Summer-vacation-Journal-26](https://huang-feiyu.github.io/2021/07/22/Summer-vacation-Journal-26): 2021暑假手记26
-* [Summer-vacation-Journal-27](https://huang-feiyu.github.io/2021/07/23/Summer-vacation-Journal-27): 2021暑假手记27
-* [Summer-vacation-Journal-28](https://huang-feiyu.github.io/2021/07/24/Summer-vacation-Journal-28): 2021暑假手记28
-* [Summer-vacation-Journal-29](https://huang-feiyu.github.io/2021/07/25/Summer-vacation-Journal-29): 2021暑假手记29
-* [Summer-vacation-Journal-30](https://huang-feiyu.github.io/2021/07/26/Summer-vacation-Journal-30): 2021暑假手记30
-* [Summer-vacation-Journal-31](https://huang-feiyu.github.io/2021/07/27/Summer-vacation-Journal-31): 2021暑假手记31
-* [Summer-vacation-Journal-32](https://huang-feiyu.github.io/2021/07/28/Summer-vacation-Journal-32): 2021暑假手记32
-* [Summer-vacation-Journal-33](https://huang-feiyu.github.io/2021/07/29/Summer-vacation-Journal-33): 2021暑假手记33
-* [Summer-vacation-Journal-34](https://huang-feiyu.github.io/2021/07/30/Summer-vacation-Journal-34): 2021暑假手记34
-* [Summer-vacation-Journal-35](https://huang-feiyu.github.io/2021/07/31/Summer-vacation-Journal-35): 2021暑假手记35
-* [Summer-vacation-Journal-36](https://huang-feiyu.github.io/2021/08/01/Summer-vacation-Journal-36): 2021暑假手记36
-* [Summer-vacation-Journal-37](https://huang-feiyu.github.io/2021/08/02/Summer-vacation-Journal-37): 2021暑假手记37
-* [Summer-vacation-Journal-38](https://huang-feiyu.github.io/2021/08/03/Summer-vacation-Journal-38): 2021暑假手记38
-* [Summer-vacation-Journal-39](https://huang-feiyu.github.io/2021/08/04/Summer-vacation-Journal-39): 2021暑假手记39
-* [Summer-vacation-Journal-40](https://huang-feiyu.github.io/2021/08/05/Summer-vacation-Journal-40): 2021暑假手记40
-* [Summer-vacation-Journal-41](https://huang-feiyu.github.io/2021/08/06/Summer-vacation-Journal-41): 2021暑假手记41
-* [Summer-vacation-Journal-42](https://huang-feiyu.github.io/2021/08/07/Summer-vacation-Journal-42): 2021暑假手记42
-* [Summer-vacation-Journal-43](https://huang-feiyu.github.io/2021/08/08/Summer-vacation-Journal-43): 2021暑假手记43
-* [Summer-vacation-Journal-44](https://huang-feiyu.github.io/2021/08/09/Summer-vacation-Journal-44): 2021暑假手记44
-* [Summer-vacation-Journal-45](https://huang-feiyu.github.io/2021/08/10/Summer-vacation-Journal-45): 2021暑假手记45
-* [Summer-vacation-Journal-46](https://huang-feiyu.github.io/2021/08/11/Summer-vacation-Journal-46): 2021暑假手记46
-* [Summer-vacation-Journal-47](https://huang-feiyu.github.io/2021/08/12/Summer-vacation-Journal-47): 2021暑假手记47
-* [Summer-vacation-Journal-48](https://huang-feiyu.github.io/2021/08/13/Summer-vacation-Journal-48): 2021暑假手记48
-* [Summer-vacation-Journal-49](https://huang-feiyu.github.io/2021/08/14/Summer-vacation-Journal-49): 2021暑假手记49
-* [Summer-vacation-Journal-50](https://huang-feiyu.github.io/2021/08/15/Summer-vacation-Journal-50): 2021暑假手记50
-* [Summer-vacation-Journal-51](https://huang-feiyu.github.io/2021/08/16/Summer-vacation-Journal-51): 2021暑假手记51
-* [Summer-vacation-Journal-52](https://huang-feiyu.github.io/2021/08/17/Summer-vacation-Journal-52): 2021暑假手记52
-* [Summer-vacation-Journal-53](https://huang-feiyu.github.io/2021/08/18/Summer-vacation-Journal-53): 2021暑假手记53
-* [Summer-vacation-Journal-54](https://huang-feiyu.github.io/2021/08/19/Summer-vacation-Journal-54): 2021暑假手记54
-* [Summer-vacation-Journal-55](https://huang-feiyu.github.io/2021/08/20/Summer-vacation-Journal-55): 2021暑假手记55
-* [Summer-vacation-Journal-56](https://huang-feiyu.github.io/2021/08/21/Summer-vacation-Journal-56): 2021暑假手记56
-* [Summer-vacation-Journal-57](https://huang-feiyu.github.io/2021/08/22/Summer-vacation-Journal-57): 2021暑假手记57
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
