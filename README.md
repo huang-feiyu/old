@@ -68,6 +68,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-25](https://huang-feiyu.github.io/2021/08/04/Essay-25): 我的孤单是什么
 * [Essay-26](https://huang-feiyu.github.io/2021/08/21/Essay-26): 对熬夜的感触
 * [Essay-27](https://huang-feiyu.github.io/2021/08/26/Essay-27): 理性和非理性
+* [Essay-28](https://huang-feiyu.github.io/2021/08/30/Essay-28): 对网络小说的一些看法
 
 #### Book Review
 

@@ -32,14 +32,14 @@
 ----------------------------------------------
 
 UPDATE my_info
-SET date_month=8, date_day=27,
- read_times=1, book_link='https://huang-feiyu.github.io/2021/08/28/One-Hundred-Years-of-Solitude',
- score = 89
-WHERE id = 173;
+SET date_month=8, date_day=29,
+ read_times=1,
+ score = 87
+WHERE id = 175;
 
 
 ----------------------------------------------
--- 查询k区
+-- 查询区
 ----------------------------------------------
 SELECT book.id as id, book.name as name, my_info.score as score
 FROM book JOIN my_info ON book.my_info=my_info.id
