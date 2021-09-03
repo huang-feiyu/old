@@ -1,24 +1,20 @@
 ----------------------------------------------
 -- 插入区
 ----------------------------------------------
--- INSERT into author VALUES
--- (176, "罗兰·巴特", 2, 1915, 11, 12, 1980, 3, 25, 0);
+INSERT into author VALUES
+(177, "玛格丽特·杜拉斯", 2, 1914, 4, 4, 1996, 3, 3, 1);
 
--- INSERT INTO translator VALUES
--- (136, "汪耀进、武佩荣"),
--- (137, "靖振忠");
+INSERT INTO translator VALUES
+(138, "王道乾");
 
--- INSERT INTO book VALUES
--- (186, "恋人絮语",   "null", 225, 201, 0, 0, 1, 186, 0, 5, 186, 176, 136),
--- (187, "索拉里斯星", "null", 254, 180, 1, 1, 1, 187, 0, 1, 187,  34, 137);
+INSERT INTO book VALUES
+(188, "情人", "Kindle", 146, 58, 1, 1, 0, 188, 0, 2, 188, 177, 138);
 
--- INSERT INTO my_info VALUES
--- (186, 2021, 8, 21, 0, "null", 80),
--- (187, 2021, 8, 21, 0, "null", 80);
+INSERT INTO my_info VALUES
+(188, 2021, 8, 31, 1, "null", 81);
 
--- INSERT INTO release VALUES
--- (186, 2018, 6, 978, 7, 208, 13904, 6),
--- (187, 2018, 6, 978, 7, 5447, 8217, 3);
+INSERT INTO release VALUES
+(188, 2005, 7, 978, 7, 5327, 3687, 4);
 
 -- INSERT INTO press VALUES
 -- (5437, "东方出版中心");
@@ -31,11 +27,11 @@
 -- 更新区
 ----------------------------------------------
 
-UPDATE my_info
-SET date_month=8, date_day=29,
- read_times=1,
- score = 87
-WHERE id = 175;
+-- UPDATE my_info
+-- SET date_month=8, date_day=29,
+--  read_times=1,
+--  score = 87
+-- WHERE id = 175;
 
 
 ----------------------------------------------
