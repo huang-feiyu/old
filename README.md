@@ -151,5 +151,6 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
 * [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
 * [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
+* [Data-Analysis-A-Skill-and-Industry](https://huang-feiyu.github.io/2021/09/04/Data-Anaysis-A-Skill-and-Industry): 作为技能和行业的数据分析
 * [The-Items-of-Reinstall-OS](https://huang-feiyu.github.io/2021/07/17/The-Items-of-Reinstall-OS/): 重装系统的一点注意事项
 * [Simple-Guide-To-Win11](https://huang-feiyu.github.io/2021/08/19/Simple-Guide-To-Win11): Windows 11简单介绍
