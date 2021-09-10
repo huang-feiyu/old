@@ -69,6 +69,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-26](https://huang-feiyu.github.io/2021/08/21/Essay-26): 对熬夜的感触
 * [Essay-27](https://huang-feiyu.github.io/2021/08/26/Essay-27): 理性和非理性
 * [Essay-28](https://huang-feiyu.github.io/2021/08/30/Essay-28): 对网络小说的一些看法
+* [Essay-29](https://huang-feiyu.github.io/2021/09/10/Essay-29): 如果没有眼睛
 
 #### Book Review
 
@@ -142,8 +143,8 @@ Telegram Web-Page: https://web.telegram.org/#/im
 
 #### Poem
 * 聂鲁达 
-     * [Twenty-Love-Poems-and-a-Song-of-Despair](https://huang-feiyu.github.io/2021/05/29/Twenty-Love-Poems-and-a-Song-of-Despair): 《二十首情诗和一首绝望的歌》
-     * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
+    * [Twenty-Love-Poems-and-a-Song-of-Despair](https://huang-feiyu.github.io/2021/05/29/Twenty-Love-Poems-and-a-Song-of-Despair): 《二十首情诗和一首绝望的歌》
+    * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
     * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
 

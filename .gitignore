@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/macos
 
 ### macOS ###
@@ -32,6 +31,9 @@ Temporary Items
 # obsidian
 .obsidian
 .obsidian.vimrc
+
+# Upload File
+Upload.py
 
 # End of https://www.gitignore.io/api/macos
 
