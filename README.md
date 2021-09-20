@@ -43,7 +43,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 #### Essay
 * [Essay-1](https://huang-feiyu.github.io/2021/05/10/Essay-1): 自我审视的一些想法
 * [Essay-2](https://huang-feiyu.github.io/2021/05/12/Essay-2): 对于智力我们还有什么可说
-* [Essay-3](https://huang-feiyu.github.io/2021/05/14/Essay-3): 我的对于学校看法的改变
+* [Essay-3](https://huang-feiyu.github.io/2021/05/14/Essay-3): 我对于学校看法的改变
 * [Essay-4](https://huang-feiyu.github.io/2021/05/17/Essay-4): 困难与坚韧
 * [Essay-5](https://huang-feiyu.github.io/2021/05/20/Essay-5): 读书的体会
 * [Essay-6](https://huang-feiyu.github.io/2021/05/21/Essay-6): 对于困扰我的焦虑分析
@@ -61,7 +61,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-18](https://huang-feiyu.github.io/2021/07/04/Essay-18): 情感终章
 * [Essay-19](https://huang-feiyu.github.io/2021/07/06/Essay-19): 孤独和寂寞的区别
 * [Essay-20](https://huang-feiyu.github.io/2021/07/10/Essay-20): 对crush的思考
-* [Essay-21](https://huang-feiyu.github.io/2021/07/16/Essay-21): 碎碎念
+* [Essay-21](https://huang-feiyu.github.io/2021/07/16/Essay-21): 自我审视的一些想法
 * [Essay-22](https://huang-feiyu.github.io/2021/07/21/Essay-22): 我所喜欢的
 * [Essay-23](https://huang-feiyu.github.io/2021/07/24/Essay-23): 交流的方式
 * [Essay-24](https://huang-feiyu.github.io/2021/07/27/Essay-24): 打扫的一些想法
@@ -70,6 +70,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-27](https://huang-feiyu.github.io/2021/08/26/Essay-27): 理性和非理性
 * [Essay-28](https://huang-feiyu.github.io/2021/08/30/Essay-28): 对网络小说的一些看法
 * [Essay-29](https://huang-feiyu.github.io/2021/09/10/Essay-29): 如果没有眼睛
+* [Essay-30](https://huang-feiyu.github.io/2021/09/20/Essay-30): 对前面观点的修正与澄清
 
 #### Book Review
 

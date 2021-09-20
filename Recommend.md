@@ -55,6 +55,7 @@ header-img: img/post_bg_recommend.jpg
     * [书评笔记](https://huang-feiyu.github.io/2021/08/04/Sisiyphus-myth)
 * [《我们的祖先三部曲》](https://book.douban.com/subject/34831995/): 三部幻想之作(换句话说，‘荒谬’之作)会引领你的内心去体会，去思考。
     * [书评笔记](https://huang-feiyu.github.io/2021/06/06/Our-ancestors/)
+* [《科学革命的结构》](https://book.douban.com/subject/20376550/): 什么是科学？这本书破除了我对于科学的种种误解，让我能够更清晰地认识世界。
 * [《罗生门》](https://book.douban.com/subject/26627837/): 我所见到的不是故事，而是一个人的一生。
 * [《金阁寺》](https://book.douban.com/subject/30278166/): 绝望的美，还是被毁灭的美。
     * [书评笔记](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion/) 
@@ -62,6 +63,7 @@ header-img: img/post_bg_recommend.jpg
 * [《那不勒斯四部曲》](https://book.douban.com/subject/26878124/): 一百万字的篇幅所讲述的东西绝对不仅仅是女权主义，它几乎讲述了真正的人的一生——而不是用空洞的符号来代替。
     * [书评笔记](https://huang-feiyu.github.io/2021/07/02/Neapolitan-Novels/)
 * [《献给阿尔吉侬的花束》](https://book.douban.com/subject/26362836/): 您在其中发现了错别字的话，请不要慌张。读下去，您能够收获到一次长久的思考。
+* [《荣格心理学入门》](https://book.douban.com/subject/35130973/): 荣格心理学入门的最佳选择，这本书就像一柄冰镐，敲碎了我内心的冰海。
 * [《爱情笔记》](https://book.douban.com/subject/26286235/): 这本书解构了爱情，让我们更能了解自我和爱情。**注意：不要把这里面的话当作真理，重要的是去生活中体验。**
     * [书评笔记](https://huang-feiyu.github.io/2021/06/04/Essays-in-Love/)
 * [《逻辑新引》](https://book.douban.com/subject/35077389/): 有时候求助于逻辑是不错的选择，特别是和别人争论的时候。读完之后，我发现我的偏见很多，幸亏不是太晚。
