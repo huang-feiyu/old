@@ -71,6 +71,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-28](https://huang-feiyu.github.io/2021/08/30/Essay-28): 对网络小说的一些看法
 * [Essay-29](https://huang-feiyu.github.io/2021/09/10/Essay-29): 如果没有眼睛
 * [Essay-30](https://huang-feiyu.github.io/2021/09/20/Essay-30): 对前面观点的修正与澄清
+* [Essay-31](https://huang-feiyu.github.io/2021/09/21/Essay-31): 自我审视的一些想法
 
 #### Book Review
 
