@@ -93,6 +93,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 ###### 川端康成
 * [The-Dancing-Girl-of-lzu](https://huang-feiyu.github.io/2021/07/08/The-Dancing-Girl-of-Izu): 《伊豆的舞女》
 * [Thousand-Cranes](https://huang-feiyu.github.io/2021/07/08/Thousand-Cranes): 《千只鹤》
+* [Snow-Country](https://huang-feiyu.github.io/2021/09/27/Snow-Country): 《雪国》
 * [The-Sound-of-the-Mountain](https://huang-feiyu.github.io/2021/07/11/The-Sound-of-the-Mountain): 《山音》
 
 ###### 阿尔贝·加缪
