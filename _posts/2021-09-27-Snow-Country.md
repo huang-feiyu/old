@@ -4,7 +4,7 @@ title:      Snow-Country
 subtitle:   《雪国》
 date:       2021-09-27
 author:     Huang
-header-img: img/post_bg_planet_snow_country.jpg
+header-img: img/post_bg_snow_country.jpg
 catalog:    true
 tags:
    - Book-Review
