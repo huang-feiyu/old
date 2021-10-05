@@ -31,12 +31,12 @@
 ----------------------------------------------
 
 UPDATE my_info
-SET date_month=9, 
-    date_day=27,
-read_times=5,
- score = 85,
- book_link = 'https://huang-feiyu.github.io/2021/09/27/Snow-Country/'
-WHERE id = 38;
+SET date_month=10, 
+    date_day=4,
+read_times=1,
+ score = 87,
+ book_link = 'null'
+WHERE id = 195;
 
 ----------------------------------------------
 -- 查询区
