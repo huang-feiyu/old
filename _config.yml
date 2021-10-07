@@ -4,7 +4,7 @@ SEOTitle: Huang
 header-img: img/post-bg-desk.jpg
 email: 0711feiyu@gmail.com
 description: "时而文艺，时而愤青"
-keyword: "HuangBlog, HuangFeiyu, Huang, huang, huang-feiyu, huangfeiyu"
+keyword: "黄飞宇, HuangBlog, HuangFeiyu, Huang, huang, huang-feiyu, huangfeiyu"
 url: "https://huang-feiyu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/huang-feiyu/huang-feiyu.github.io.git" # you code repository
@@ -52,29 +52,12 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
-
-# Gitalk
-#  gitalk:
-#  enable: false    #是否开启Gitalk评论
-#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#  repo: qiubaiying.github.io    #仓库名称
-#  owner: qiubaiying    #github用户名
-#  admin: qiubaiying
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
-
 # Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-90855596-1'                    # Format: UA-xxxxxx-xx
 ga_domain: xn--29s704loyd.com                   # 默认的是 auto, 如果没有自己的域名，需要改成auto
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Recommend
 subtitle:   推荐的一些东西
 author:     Huang
-date:       2021-08-06
+date:       2021-10-07
 catalog:    true
 header-img: img/post_bg_recommend.jpg
 ---
@@ -16,7 +16,6 @@ header-img: img/post_bg_recommend.jpg
 
 
 ### 书籍
-
 我建了一个我的[书籍数据库](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db)，可以使用SQL索引看到我大学以来阅读的几乎所有非专业书，在此只推荐我认为非常好的。(除了《爱情笔记》，该书只是我想要强调的：不要毫无准备地坠入爱情的陷阱中)
 
 * [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
@@ -73,15 +72,14 @@ header-img: img/post_bg_recommend.jpg
 ### 音乐
 (歌曲中的力量不是我能够说出来的，要去听)
 * [Linkin Park](https://www.linkinpark.com/): 林肯公园，嘶吼中无尽的力量
+* [Pomme](https://instagram.com/pommeofficial): 如果上帝问我什么东西能够让我抛弃永生，那么爱和Pomme的歌声是我的答案
 * [Avril Lavigne](https://avrillavigne.com/): 艾薇儿，柔和的朋克风格，无尽的力量
 * [Green Day](https://greenday.com/): 绿日乐队，狂放的朋克风格，无尽力量
-* [Pomme](https://instagram.com/pommeofficial): 如果上帝问我什么东西能够让我抛弃永生，那么爱和Pomme的歌声是我的答案
 * [Eleni Karaindrou](https://y.qq.com/n/ryqq/singer/002767Dy3RcEmV): 很美的音乐
 * [我的歌单——QQ音乐](https://y.qq.com/n/ryqq/profile/like/song?uin=oiCk7e-q7K-s)
 
 
 ### 文章
-
 他人的博客、随笔、论文之类。
 
 * [《Are we in the Midst of the Sixth Mass Extinction》](https://www.sciencealert.com/here-s-how-biodiversity-experts-recognise-that-we-re-midst-a-mass-extinction)
@@ -93,7 +91,6 @@ header-img: img/post_bg_recommend.jpg
 * [《程序员的自我修养》](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html)
 
 ### 课程
-
 中国的课程鱼龙混杂，而国外有名的课程一般都很不错。
 
 * 我的[仓库](https://github.com/huang-feiyu/Learning-Space)中有些学习资料。
@@ -113,18 +110,18 @@ header-img: img/post_bg_recommend.jpg
   * 大概不会更新了，因为我发现我并不是喜欢当代的这种哲学——我需要的是自我探索。借用纪德的一句话**是什么使今日的诗歌尤其是哲学变成了一堆死文字，您知道吗？是它们脱离了生活。**
 
 ### 其他
-
 有些东西我很想推荐。
 
 * [Computer Science](https://github.com/huang-feiyu/computer-science)
 * [Database learning](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/awesome-database-learning)
 * [Telegram](https://telegram.org/): 受够了监控和垃圾软件，试试这个。除了没有[截图功能](https://www.snipaste.com/)，全部都很好.
-* [Windows Terminal](https://github.com/microsoft/terminal): 与WSL1一起使用可以得到更好的效果。(至于为什么不推荐WSL2，WSL2的Vim非常慢)
+* [Windows Terminal](https://github.com/microsoft/terminal): 与WSL一起使用可以得到更好的效果。
 * [JetBrains 全家桶](https://www.jetbrains.com/?var=1): 各种IDE都有，而且学生免费
 * [Typora](https://typora.io/): 除了不支持vim，其他都挺好的
-* [Vim](https://www.vim.org/): 编辑器之神, 配合Windows Terminal(WSL1)使用
+* [Vim](https://www.vim.org/): 编辑器之神, 配合Windows Terminal(WSL)使用
 * [Git](https://git-scm.com/): 非常优秀的版本控制工具，在大概完全[学习Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git/)之后我发现Git是绝对的神器(另外，可以使用GitHub Desktop上传与拉取，因为大陆网速太慢了===》当然可以使用魔法)
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge): 很好的PDF阅读器
-* [EV 录屏](https://www.ieway.cn/evcapture.html): 挺好用的录屏软件
 * [Qwerty Learner](https://qwerty.kaiyi.cool/): 神·练打字+学英语+学编程网站
+* [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke?hl=en): 谷歌浏览器扩展程序，用于谷歌的各种网络应用
 * **[一位帅哥](https://huang-feiyu.github.io/about)**: 如果对于一些人生上的问题可以用[Telegram](https://t.me/huangfeiyu)和我交流一下，如果您愿意的话。
+
