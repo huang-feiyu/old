@@ -38,6 +38,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Writing](https://github.com/huang-feiyu/huang-feiyu.github.io#writing)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
+* [Translation](https://github.com/huang-feiyu/huang-feiyu.github.io#translation)
 * [Other](https://github.com/huang-feiyu/huang-feiyu.github.io#other)
 
 #### Essay
@@ -153,6 +154,10 @@ Telegram Web-Page: https://web.telegram.org/#/im
     * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
     * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
+
+#### Translation
+
+* [Into-My-Arms](https://huang-feiyu.github.io/2021/10/17/Into-My-Arms): 《投入我的怀抱》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
