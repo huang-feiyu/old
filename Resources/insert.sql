@@ -2,19 +2,20 @@
 -- 插入区
 ----------------------------------------------
 -- INSERT into author VALUES
--- (53,  "卡尔·荣格", 15, 1875, 7, 26, 1961, 06, 06, 0);
+-- (182,  "中岛敦", 4, 1909, 5, 5, 1942, 12, 4, 0);
 
 -- INSERT INTO translator VALUES
 -- (148, "杨德友");
 
 -- INSERT INTO book VALUES
--- (199, "陀思妥耶夫斯基中短篇小说选", "null", 620, 488, 1, 0, 1, 199, 0, 2, 199, 1, 68);
+-- (200, "山月记", "Kindle",
+--  240, 125, 0, 0, 0, 200, 0, 3, 200, 182, 121);
 
 -- INSERT INTO my_info VALUES
--- (199, 2021, 9, 19, 0, "null", 80);
+-- (200, 2021, 10, 9, 1, "null", 80);
 
 -- INSERT INTO release VALUES
--- (199, 2021,  8, 978, 7, 55590, 110, 5);
+-- (200, 2019, 11, 978, 7, 5399, 514, 4);
 
 -- INSERT INTO type VALUES
 -- (26, "科学哲学");
@@ -32,11 +33,11 @@
 
 UPDATE my_info
 SET date_month=10, 
-    date_day=4,
-read_times=1,
- score = 87,
- book_link = 'null'
-WHERE id = 195;
+    date_day=15,
+    read_times=1,
+    score = 93,
+    book_link = 'null'
+WHERE id = 191;
 
 ----------------------------------------------
 -- 查询区

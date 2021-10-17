@@ -74,6 +74,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-31](https://huang-feiyu.github.io/2021/09/21/Essay-31): 自我审视的一些想法
 * [Essay-32](https://huang-feiyu.github.io/2021/10/03/Essay-32): 阅读意味着什么
 * [Essay-33](https://huang-feiyu.github.io/2021/10/09/Essay-33): 梦意味着什么
+* [Essay-34](https://huang-feiyu.github.io/2021/10/17/Essay-34): 网络世界中的人
 
 #### Book Review
 
@@ -136,7 +137,6 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * Algorithms
     * [KMP](https://huang-feiyu.github.io/2021/05/11/KMP): 字符串匹配经典算法
     * [Sort](https://huang-feiyu.github.io/2021/05/11/Sort): 五种简单的排序算法
-* [Regular-Expression](https://huang-feiyu.github.io/2021/07/05/Regular-Expression): 正则表达式(有些编码错误,我自己应该看得懂)
 * [Learning-Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git): Git学习笔记
 
 #### Writing
