@@ -1,21 +1,20 @@
 ----------------------------------------------
 -- 插入区
 ----------------------------------------------
--- INSERT into author VALUES
--- (182,  "中岛敦", 4, 1909, 5, 5, 1942, 12, 4, 0);
+INSERT into author VALUES
+(183,  "洛莉·戈特利布", 8, 1988, 1, 1, 9999, 1, 1, 1);
 
--- INSERT INTO translator VALUES
--- (148, "杨德友");
+INSERT INTO translator VALUES
+(149, "张含笑");
 
--- INSERT INTO book VALUES
--- (200, "山月记", "Kindle",
---  240, 125, 0, 0, 0, 200, 0, 3, 200, 182, 121);
+INSERT INTO book VALUES
+(201, "也许你该找个人聊聊", "微信读书", 460, 300, 0, 0, 0, 201, 0, 53, 201, 183, 149);
 
--- INSERT INTO my_info VALUES
--- (200, 2021, 10, 9, 1, "null", 80);
+INSERT INTO my_info VALUES
+(201, 2021, 10, 30, 1, "null", 88);
 
--- INSERT INTO release VALUES
--- (200, 2019, 11, 978, 7, 5399, 514, 4);
+INSERT INTO release VALUES
+(201, 2021, 7, 978, 7, 5535, 2283, 8);
 
 -- INSERT INTO type VALUES
 -- (26, "科学哲学");
@@ -31,13 +30,13 @@
 -- 更新区
 ----------------------------------------------
 
-UPDATE my_info
-SET date_month=10, 
-    date_day=15,
-    read_times=1,
-    score = 93,
-    book_link = 'null'
-WHERE id = 191;
+-- UPDATE my_info
+-- SET score=79
+-- WHERE id = 200;
+
+UPDATE release
+SET release_number=9514
+WHERE id=200;
 
 ----------------------------------------------
 -- 查询区
