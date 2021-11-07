@@ -1,0 +1,128 @@
+---
+layout: page
+title: "search"
+description: "Use Google to Search Huang Blog"
+header-img: "img/post-bg-seo.jpg"
+---
+
+<style>
+    *{
+        margin:auto;
+        padding:0;
+    }
+    .form{
+        width: 454px;
+        height: 42px;
+        background:rgba(0,0,0,.2);
+        padding:15px;
+        border:none;
+        border-radius:5px;          
+    }
+    input{
+        width: 342px;
+        height: 42px;
+        background-color: #eeeeee;
+        border:none;
+        border-top-left-radius:5px;
+        border-bottom-left-radius:5px;
+        font: bold 15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+        font-style:italic;
+    }
+    button{
+        /*display:inline-block;*/
+        width:112px;
+        height: 42px;
+        background-color:#d93c3c;
+        color:#fff;
+        border:none;
+        border-top-right-radius:5px;
+        border-bottom-right-radius:5px;
+        position: relative;
+        font-size:16px;
+        font-weight: bold;
+        cursor:pointer;
+    }
+    /*使用伪类来添加三角符号*/
+    button:before{
+        content:"";
+        border-width:6px;
+        border-style:solid;
+        border-color: transparent #d93c3c transparent transparent;
+        position: absolute;
+        right:100%;
+        top:38%;
+    }
+
+</style>
+<form action='https://www.google.com/search' class='searchform' method='get' name='searchform' target='_blank'>
+    <input name='sitesearch' type='hidden' value='huang-feiyu.github.io'>
+    <input autocomplete='on' class='form-control search' name='q' placeholder='Search in Google' required='required'
+        type='text'>
+    <button class='button' type='submit'>Search</button>
+</form>
+
+
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render() {
+        var _hash = window.location.hash;
+        // en
+        if (_hash == "#en") {
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+            // zh by default
+        } else {
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+
+    // handle select change
+    function onLanChange(index) {
+        if (index == 0) {
+            window.location.hash = "#zh"
+        } else {
+            window.location.hash = "#en"
+        }
+    }
+
+    // init
+    _render();
+</script>
+
+
+<!-- disqus 评论框 start  -->
+{% if site.disqus.enable %}
+
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+    </div>
+</div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus.username}}";
+    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
