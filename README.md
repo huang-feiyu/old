@@ -28,7 +28,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay](https://github.com/huang-feiyu/huang-feiyu.github.io#essay)
 * [Book-Review](https://github.com/huang-feiyu/huang-feiyu.github.io#book-review)
   * [陀思妥耶夫斯基](https://github.com/huang-feiyu/huang-feiyu.github.io#%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA)
-  * [列夫·托尔斯泰](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%88%97%E5%A4%AB%C2%B7%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0)
+  * [列夫·托尔斯泰](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%88%97%E5%A4%AB%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0)
   * [赫尔曼·黑塞](https://github.com/huang-feiyu/huang-feiyu.github.io#%E8%B5%AB%E5%B0%94%E6%9B%BC%E9%BB%91%E5%A1%9E)
   * [川端康成](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90)
   * [阿尔贝·加缪](https://github.com/huang-feiyu/huang-feiyu.github.io#%E9%98%BF%E5%B0%94%E8%B4%9D%E5%8A%A0%E7%BC%AA)
