@@ -212,6 +212,14 @@ layout: default
                     {% endfor %}
                 </ul>
                 {% endif %}
+                <!-- Search Huang Blog -->
+                <hr>
+                <h5>Search</h5>
+                <form action='https://www.google.com/search' class='searchform' method='get' name='searchform'>
+                    <input name='sitesearch' type='hidden' value='huang-feiyu.github.io'>
+                    <input autocomplete='off' class='form-control search' name='q' placeholder='Search in Google' required='required' type='text'>
+                  <button class='button' type='submit'>Search</button>
+                </form>
     		</div>
         {% endif %}
 	</div>
