@@ -85,6 +85,7 @@ header-img: img/post_bg_recommend.jpg
 * [《Are we in the Midst of the Sixth Mass Extinction》](https://www.sciencealert.com/here-s-how-biodiversity-experts-recognise-that-we-re-midst-a-mass-extinction)
 * [《卡钦斯基：工业社会及其未来》](https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html)
 * [《一代人有一代人的翻译》](https://huangfeiyu.blogspot.com/2021/06/article-1-translation.html)
+* [《在气候议题上，别急着批评中国》](https://cn.nytimes.com/opinion/20211108/cop26-china-climate/)
 * [《成为一名程序员》](../Resources/成为一名程序员.md)
 * [《平平静静的说说中国的科研》](http://www.ruanyifeng.com/blog/2010/07/my_thoughts_on_china_scientific_research.html)
 * [《A Relational Model of Data for Large Shared Data Banks》](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)

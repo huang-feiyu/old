@@ -6,6 +6,7 @@ date:       2021-10-05
 author:     Huang
 header-img: img/post_bg_war_and_peace.jpg
 catalog:    true
+mathjax:    true
 tags:
    - Book-Review
 ---

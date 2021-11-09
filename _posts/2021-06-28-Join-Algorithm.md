@@ -4,8 +4,9 @@ title:      Join-Algorithm
 subtitle:   数据库连接算法
 date:       2021-06-28
 author:     Huang
+mathjax:    true
 header-img: img/post_bg_beach_magic.jpg
-catalog: true
+catalog:    true
 tags:
    - Programming
    - Database	
