@@ -10,6 +10,9 @@ tags:
    - Other
 ---
 
+题图缩小左右窗口可见。
+![题图](https://raw.githubusercontent.com/huang-feiyu/huang-feiyu.github.io/master/img/post_bg_birthday-19.jpg)
+
 > 当我解构了完整的一天之后，能够得到什么？
 
 ### 前言
