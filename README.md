@@ -77,6 +77,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-32](https://huang-feiyu.github.io/2021/10/03/Essay-32): 阅读意味着什么
 * [Essay-33](https://huang-feiyu.github.io/2021/10/09/Essay-33): 梦意味着什么
 * [Essay-34](https://huang-feiyu.github.io/2021/10/17/Essay-34): 网络世界中的人
+* [Essay-35](https://huang-feiyu.github.io/2021/11/16/Essay-35): 什么是自我欺骗？
 
 #### Book Review
 
