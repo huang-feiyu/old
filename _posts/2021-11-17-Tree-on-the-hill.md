@@ -2,9 +2,9 @@
 layout:     post
 title:      Tree-on-the-hill
 subtitle:   《山上的树》
-date:       2021-11-07
+date:       2021-11-17
 author:     Nietzsche
-header-img: img/post_bg_post_bg_tree_moon_mountain.jpg
+header-img: img/post_bg_tree_moon_mountain.jpg
 catalog:    false
 tags:
    - Poem
