@@ -28,7 +28,7 @@ douban_username: huang-feiyu
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 20
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","Resources"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -57,7 +57,7 @@ kramdown:
 # 统计
 # Analytics settings
 # Google Analytics
-ga_track_id: 'UA-90855596-1'                    # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-xxxxxx-xx'                    # Format: UA-xxxxxx-xx
 ga_domain: xn--29s704loyd.com                   # 默认的是 auto, 如果没有自己的域名，需要改成auto
 
 
@@ -82,6 +82,10 @@ friends: [
         title: "书单·生活·豆瓣",
         href: "https://www.douban.com/people/huang-feiyu/"
     },
+    {
+        title: "歌单·QQ音乐",
+        href: "https://y.qq.com/n/ryqq/profile/like/song?uin=oiCk7e-q7K-s"
+    }
     {
         title: "Telegram",
         href: "https://t.me/huangfeiyu"

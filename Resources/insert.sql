@@ -1,21 +1,21 @@
 ----------------------------------------------
 -- 插入区
 ----------------------------------------------
--- INSERT into author VALUES
--- (183,  "洛莉·戈特利布", 8, 1988, 1, 1, 9999, 1, 1, 1);
+INSERT into author VALUES
+(184,  "阿利斯泰尔·麦克劳德", 18, 1936, 7, 20, 2014, 4, 20, 0);
 
 INSERT INTO translator VALUES
-(151, "许海燕");
+(152, "陈以侃");
 
 INSERT INTO book VALUES
-(203, "伊凡·伊里奇之死", "null", 287, 188, 1, 1, 1,
- 203, 0, 2, 203, 11, 151);
+(204, "海风中失落的血色馈赠", "Kindle", 192, 95, 1, 0, 0,
+ 204, 0, 2, 204, 184, 152);
 
 INSERT INTO my_info VALUES
-(203, 2021, 11, 13, 1, "null", 87);
+(204, 2021, 11, 22, 1, "null", 84);
 
 INSERT INTO release VALUES
-(203, 2021, 8, 978, 7, 5207, 2212, 4);
+(204, 2019, 1, 978, 7, 2, 14094, 7);
 
 -- INSERT INTO type VALUES
 -- (26, "科学哲学");
@@ -32,12 +32,13 @@ INSERT INTO release VALUES
 ----------------------------------------------
 
 -- UPDATE my_info
--- SET score=79
--- WHERE id = 200;
+-- SET score=83, read_times=1, date_month=11, date_day=21
+-- WHERE id = 168;
 
--- UPDATE release
--- SET release_number=9514
--- WHERE id=200;
+-- UPDATE my_info
+-- SET book_link="https://huang-feiyu.github.io/2021/11/07/The-Death-of-Ivan-Ilyich/"
+-- WHERE id = 204;
+
 
 ----------------------------------------------
 -- 查询区
