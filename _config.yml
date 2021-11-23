@@ -28,7 +28,7 @@ douban_username: huang-feiyu
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 20
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","Resources"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -85,7 +85,7 @@ friends: [
     {
         title: "歌单·QQ音乐",
         href: "https://y.qq.com/n/ryqq/profile/like/song?uin=oiCk7e-q7K-s"
-    }
+    },
     {
         title: "Telegram",
         href: "https://t.me/huangfeiyu"
