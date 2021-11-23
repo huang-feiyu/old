@@ -57,7 +57,7 @@ kramdown:
 # 统计
 # Analytics settings
 # Google Analytics
-ga_track_id: 'UA-xxxxxx-xx'                    # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-90855596-1'                    # Format: UA-xxxxxx-xx
 ga_domain: xn--29s704loyd.com                   # 默认的是 auto, 如果没有自己的域名，需要改成auto
 
 
