@@ -66,15 +66,19 @@ ELSE
 Python代码描述
 ```python
 # 矩阵链乘法动态规划实现
+
 class MatrixMul:
     def matrix_chain_order(self, p):
         # p是矩阵大小序列
+
         n = len(p) - 1
         m = [[0 for i in range(n)] for j in range(n)]
         s = [[0 for i in range(n)] for j in range(n)]
         # 对角线
+
         for l in range(2, n):
             # 行
+
             for i in range(1, n - l + 1):
                 j = i + l - 1
                 m[i][j] = float('inf')
@@ -96,9 +100,9 @@ class MatrixMul:
 ```
 
 ### 最长公共子序列问题
-* (i=0 or j=0) C[i,j] = 0
-* (x[i]=y[j]) C[i,j] = C[i-1, j-1] + 1
-* (x[i]≠y[j]) C[i,j] = max{C[i-1, j], C[i, j-1]}
+* (i=0 or j=0) `C[i,j] = 0`
+* (x[i]=y[j])  `C[i,j] = C[i-1, j-1] + 1`
+* (x[i]≠y[j])  `C[i,j] = max{C[i-1, j], C[i, j-1]}`
 
 伪代码描述: 
 ```pseudocode
@@ -141,8 +145,10 @@ class LCS:
         m = len(x) + 1
         n = len(y) + 1
         # 长度
+
         c = [[0 for i in range(n)] for j in range(m)]
         # 箭头
+
         b = [[0 for i in range(n)] for j in range(m)]
         for i in range(1, m):
             for j in range(1, n):
@@ -171,11 +177,11 @@ class LCS:
 
 ### 0-1背包问题
 * 状态转移方程
-  * (0 ≤ j < w[n]) m[i,j] = m[i+1,j]
-  * (j ≥ w[n]) m[i,j] = min{m[i+1,j], m[i+1,j-w[i]]+v[i]}
+  * (0 ≤ j < w[n]) `m[i,j] = m[i+1,j]`
+  * (j ≥ w[n]) `m[i,j] = min{m[i+1,j], m[i+1,j-w[i]]+v[i]}`
 * 边界条件
-  * (0 ≤ j < w[n]) m[n,j] = 0
-  * (j ≥ w[n]) m[n,j] = v[n]
+  * (0 ≤ j < w[n]) `m[n,j] = 0`
+  * (j ≥ w[n]) `m[n,j] = v[n]`
 
 伪代码描述:
 ```pseudocode
@@ -204,20 +210,25 @@ Python代码描述:
 class Knapsack:
     def zero_one(self, c, w, v):
         # (0,0)不作为物品
+
         n = len(w) - 1
         # m[0..n][0..c] => 其中m[0][0..c]与m[0..n][0]弃用
+
         m = [[0 for _ in range(c + 1)] for _ in range(n + 1)]
 
         # 背包容量大于等于最后一个物品: j > w[n]
+
         for j in range(w[n], c + 1):
             m[n][j] = v[n]
 
         for i in range(n - 1, 1, -1):
             for j in range(1, c + 1):
                 # 背包容量不足
+
                 if j < w[i]:
                     m[i][j] = m[i + 1][j]
                 # 背包容量足以容纳下一个物品
+
                 else:
                     m[i][j] = max(m[i + 1][j], m[i + 1][j - w[i]] + v[i])
         if c < w[0]:
@@ -230,11 +241,11 @@ class Knapsack:
 ### 最优二分搜索树
 * 状态转移方程
   * E(i,j): 搜索代价
-    * (j=i-1) E(i,j) = q[i-1]
-    * (j ≥ i) E(i,j) = min{E(i,r-1) + E(r+1,j) + W(i,j)} (i ≤ r ≤ j)
+    * (j=i-1) `E(i,j) = q[i-1]`
+    * (j ≥ i) `E(i,j) = min{E(i,r-1) + E(r+1,j) + W(i,j)} (i ≤ r ≤ j)`
   * W(i,j): 添加代价
-    * (j=i-1) W(i,j) = q[i-1]
-    * (j ≥ i) W(i,j) = W(i,j-1) + q[i-1] + p[i-1]
+    * (j=i-1) `W(i,j) = q[i-1]`
+    * (j ≥ i) `W(i,j) = W(i,j-1) + q[i-1] + p[i-1]`
 
 伪代码描述:
 ```pseudocode
@@ -260,28 +271,37 @@ RETURN E AND Root
 Python代码描述:
 ```python
 # 最优二叉搜索树
+
 class OptimalBST:
     # p: 内结点概率; q: 叶节点概率; n: 内结点个数
+    
     def best_BST(self, p, q, n):
         e = [[0 for _ in range(n + 1)] for _ in range(n + 2)]
         w = [[0 for _ in range(n + 1)] for _ in range(n + 2)]
         root = [[0 for _ in range(n + 1)] for _ in range(n + 1)]
         # 初始化边界情况
+
         for i in range(1, n + 2):
             e[i][i - 1] = q[i - 1]
             w[i][i - 1] = q[i - 1]
-        for l in range(1, n + 1): #长度
+        for l in range(1, n + 1):
+        #长度
+
             for i in range(1, n - l + 2):
                 # 对角线
+
                 j = i + l - 1
                 e[i][j] = float('inf')
                 # 加入树后增加的代价
+
                 w[i][j] = w[i][j - 1] + p[j] + q[j]
                 # 每一个结点都充当子树根节点
+
                 for r in range(i, j + 1):
                     temp = e[i][r - 1] + e[r + 1][j] + w[i][j]
                     if temp < e[i][j]:
                         # 选择最小的代价
+
                         e[i][j] = temp
                         root[i][j] = r
         return e, root
