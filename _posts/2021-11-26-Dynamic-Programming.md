@@ -245,7 +245,7 @@ class Knapsack:
     * (j ≥ i) `E(i,j) = min{E(i,r-1) + E(r+1,j) + W(i,j)} (i ≤ r ≤ j)`
   * W(i,j): 添加代价
     * (j=i-1) `W(i,j) = q[i-1]`
-    * (j ≥ i) `W(i,j) = W(i,j-1) + q[i-1] + p[i-1]`
+    * (j ≥ i) `W(i,j) = W(i,j-1) + q[j] + p[j]`
 
 伪代码描述:
 ```pseudocode

@@ -1,24 +1,28 @@
 ----------------------------------------------
 -- 插入区
 ----------------------------------------------
-INSERT into author VALUES
-(184,  "阿利斯泰尔·麦克劳德", 18, 1936, 7, 20, 2014, 4, 20, 0);
+-- INSERT into author VALUES
+-- (184,  "阿利斯泰尔·麦克劳德", 18, 1936, 7, 20, 2014, 4, 20, 0);
 
 INSERT INTO translator VALUES
-(152, "陈以侃");
+(153, "黄敏");
 
 INSERT INTO book VALUES
-(204, "海风中失落的血色馈赠", "Kindle", 192, 95, 1, 0, 0,
- 204, 0, 2, 204, 184, 152);
+(205, "深沉的玫瑰", "微信读书", 60, 9, 0, 0, 1,
+ 205, 0, 4, 205, 7, 41),
+(206, "逻辑哲学论", "null", 120, 100, 0, 1, 1,
+ 206, 0, 27, 206, 19, 153);
 
 INSERT INTO my_info VALUES
-(204, 2021, 11, 22, 1, "null", 84);
+(205, 2021, 11, 25, 1, "null", 74),
+(206, 2021, 11, 26, 1, "null", 94);
 
 INSERT INTO release VALUES
-(204, 2019, 1, 978, 7, 2, 14094, 7);
+(205, 2016, 8, 978, 7, 5327, 7122, 6),
+(206, 2021, 7, 978, 7, 5113, 8409, 6);
 
--- INSERT INTO type VALUES
--- (26, "科学哲学");
+INSERT INTO type VALUES
+(27, "分析哲学");
 
 -- INSERT INTO press VALUES
 -- (55590, "河南文艺出版社");
@@ -35,9 +39,9 @@ INSERT INTO release VALUES
 -- SET score=83, read_times=1, date_month=11, date_day=21
 -- WHERE id = 168;
 
--- UPDATE my_info
--- SET book_link="https://huang-feiyu.github.io/2021/11/07/The-Death-of-Ivan-Ilyich/"
--- WHERE id = 204;
+UPDATE translator
+SET name="赵登荣、倪诚恩"
+WHERE id = 36;
 
 
 ----------------------------------------------

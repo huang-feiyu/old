@@ -16,7 +16,7 @@ header-img: img/post_bg_recommend.jpg
 
 
 ### 书籍
-我建了一个我的[书籍数据库](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db)，可以使用SQL索引看到我大学以来阅读的几乎所有非专业书，在此只推荐我认为非常好的。(除了《爱情笔记》，该书只是我想要强调的：不要毫无准备地坠入爱情的陷阱中)
+我建了一个我的[书籍数据库](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db)，可以使用SQL索引看到我大学以来阅读的几乎所有非专业书，在此只推荐我认为非常好的。(除了《爱情笔记》，该书只是我想要强调：不要毫无准备地坠入爱情的陷阱中。)
 
 * [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
     * [《宗教大法官》](https://huangfeiyu.blogspot.com/2021/08/blog-post.html)
@@ -24,6 +24,9 @@ header-img: img/post_bg_recommend.jpg
 * [《逍遥游》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
 * [《地下室手记》](https://book.douban.com/subject/34990839/): 陀思妥耶夫斯基的作品，地下室人的自白，拷问着你的灵魂。
     * [书评笔记](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground/)
+* [《逻辑哲学论》](https://book.douban.com/subject/35540677/): 维特根斯坦给我带来了世界的全新图景，我相信你也能从这部作品中得到一些非比寻常的体会。
+    * [书评笔记](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus)
+
 * [《悉达多》](https://book.douban.com/subject/26980487/): 赫尔曼·黑塞写就的人的一生，如诗歌。姜乙的翻译更是为这本诗歌献上了最好的赞歌。
     * [体验](https://huang-feiyu.github.io/2021/05/20/Essay-5/#para-5)
 * [《局外人》](https://book.douban.com/subject/24257486/): 在荒谬的一切中，我们永远不是弱者，因为每个人都是弱者。
@@ -36,7 +39,7 @@ header-img: img/post_bg_recommend.jpg
 * [《西线无战事》](https://book.douban.com/subject/35272817/): 我们不相信一切，我们只相信战争。        
     * [书评笔记](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues/) 
 * [《索拉里斯星》](https://book.douban.com/subject/1440243/): 这是一本科幻小说，但是与其说是科幻小说，不如说是一本哲学小说，会给人带来梦幻一般的思考。
-	* [书评笔记](https://huang-feiyu.github.io/2021/08/22/Solaris)
+  * [书评笔记](https://huang-feiyu.github.io/2021/08/22/Solaris)
 * [《沙之书》](https://book.douban.com/subject/25796049/): 刘慈欣用百万字写就的《三体》，博尔赫斯用了几百个字。
 * [《伊豆的舞女》](https://book.douban.com/subject/25899960/): 这本书真是无与伦比，无论是美的方面还是初恋的方面，有太多太多让我感同身受的文字了。
     * [书评笔记](https://huang-feiyu.github.io/2021/07/08/The-Dancing-Girl-of-Izu)
@@ -60,8 +63,6 @@ header-img: img/post_bg_recommend.jpg
     * [书评笔记](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion/) 
 * [《托尔斯泰或陀思妥耶夫斯基》](https://book.douban.com/subject/6878082/): 这本书能够告诉我们如何去阅读文学，如何看待文学巨匠，如何比较两个文学家。
 * [《最好的告别》](https://book.douban.com/subject/26576861/): 如果您问我，我最害怕什么，我会说是衰老。
-* [《那不勒斯四部曲》](https://book.douban.com/subject/26878124/): 一百万字的篇幅所讲述的东西绝对不仅仅是女权主义，它几乎讲述了真正的人的一生——而不是用空洞的符号来代替。
-    * [书评笔记](https://huang-feiyu.github.io/2021/07/02/Neapolitan-Novels/)
 * [《献给阿尔吉侬的花束》](https://book.douban.com/subject/26362836/): 您在其中发现了错别字的话，请不要慌张。读下去，您能够收获到一次长久的思考。
 * [《荣格心理学入门》](https://book.douban.com/subject/35130973/): 荣格心理学入门的最佳选择，这本书就像一柄冰镐，敲碎了我内心的冰海。
 * [《爱情笔记》](https://book.douban.com/subject/26286235/): 这本书解构了爱情，让我们更能了解自我和爱情。**注意：不要把这里面的话当作真理，重要的是去生活中体验。**
@@ -109,13 +110,14 @@ header-img: img/post_bg_recommend.jpg
   * [Justice](https://justiceharvard.org/): 正义课，哲学入门课程。
   * [Death](https://oyc.yale.edu/death/phil-176): 死亡课，很有意思的入门课。
   * [Søren Kierkegaard - subjectivity, irony and the crisis of modernity](https://www.coursera.org/learn/kierkegaard): 克尔凯郭尔、陀思妥耶夫斯基、尼采，我认为的三位世界的预言者。这门课介绍了克尔凯郭尔，能够帮助理解这个世界。
+  * [现代英美哲学](https://www.bilibili.com/video/BV1WW411a78m)
   * <s>大概不会更新了，因为我发现我并不是喜欢当代的这种哲学——我需要的是自我探索。借用纪德的一句话**是什么使今日的诗歌尤其是哲学变成了一堆死文字，您知道吗？是它们脱离了生活。**</s>——最近重新捡起了哲学，哲学依旧极具活力，只是大多数人难以认知到。
 
 ### 其他
 有些东西我很想推荐。
 
 * [Computer Science](https://github.com/huang-feiyu/computer-science)
-* [Database learning](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/awesome-database-learning)
+* [Database Learning](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/awesome-database-learning)
 * [Telegram](https://telegram.org/): 受够了监控和垃圾软件，试试这个。除了没有[截图功能](https://www.snipaste.com/)，全部都很好.
 * [Windows Terminal](https://github.com/microsoft/terminal): 与WSL一起使用可以得到更好的效果。
 * [JetBrains 全家桶](https://www.jetbrains.com/?var=1): 各种IDE都有，而且学生免费
