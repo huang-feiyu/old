@@ -144,6 +144,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
     * [KMP](https://huang-feiyu.github.io/2021/05/11/KMP): 字符串匹配经典算法
     * [Sort](https://huang-feiyu.github.io/2021/05/11/Sort): 五种简单的排序算法
     * [Divide-and-Conquer](https://huang-feiyu.github.io/2021/11/23/Divide-and-Conquer): 分治方法的简单笔记
+    * [Dynamic-Programming](https://huang-feiyu.github.io/2021/11/26/Dynamic-Programming): 动态规划的简单笔记
 * [Learning-Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git): Git学习笔记
 
 #### Writing
