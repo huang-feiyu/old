@@ -105,12 +105,14 @@ class MatrixMul:
 ```
 
 ### 最长公共子序列问题
-$C[i,j]=
+$$
+C[i,j]=
 \begin{cases}
-0&, i=0 或 j=0\\
-C[i-1,j-1]+1&, i,j>0 且 x_i=y_i\\
+0&, i=0 或 j=0 \\
+C[i-1,j-1]+1&, i,j>0 且 x_i=y_i \\
 \max\{C[i,j-1],C[i-1,j]\}&,i,j>0 且 x_i\neq y_j
-\end{cases}$
+\end{cases}
+$$
 
 伪代码描述: 
 ```pseudocode
