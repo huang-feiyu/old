@@ -30,11 +30,13 @@ tags:
   * 自底向上求解
 
 ### 矩阵链乘法
-$m[i,j] = 0$
-$\\{\Latex\\}$
-$s^k$
-* (i = j) `m[i,j] = 0`
-* (i < j) `m[i,j] = min{m[i,k]+m[k+1, j] + p[i-1]p[k]p[j]}` (其中i ≤ k < j)
+$$
+m[i,j]=
+\begin{cases}
+0 & ,i=j\\
+\min\limits_{i \le k< j}\{m[i,k]+m[k+1,j]+p_{i-1} p_k p_j\} & ,i < j
+\end{cases}
+$$
 
 伪代码描述：
 ```pseudocode
@@ -103,9 +105,12 @@ class MatrixMul:
 ```
 
 ### 最长公共子序列问题
-* (i=0 or j=0) `C[i,j] = 0`
-* (x[i]=y[j])  `C[i,j] = C[i-1, j-1] + 1`
-* (x[i]≠y[j])  `C[i,j] = max{C[i-1, j], C[i, j-1]}`
+$C[i,j]=
+\begin{cases}
+0&, i=0 \or j=0\\
+C[i-1,j-1]+1&, i,j>0 \and x_i=y_i\\
+\max(C[i,j-1],C[i-1,j])&,i,j>0 \and x_i\neq y_j
+\end{cases}$
 
 伪代码描述: 
 ```pseudocode
@@ -179,12 +184,21 @@ class LCS:
 ```
 
 ### 0-1背包问题
-* 状态转移方程
-  * (0 ≤ j < w[n]) `m[i,j] = m[i+1,j]`
-  * (j ≥ w[n]) `m[i,j] = min{m[i+1,j], m[i+1,j-w[i]]+v[i]}`
-* 边界条件
-  * (0 ≤ j < w[n]) `m[n,j] = 0`
-  * (j ≥ w[n]) `m[n,j] = v[n]`
+* 状态转移方程: $$
+m(i,j)=
+\begin{cases}
+m(i+1,j) & 0 \le j < w_i\\
+\max\{m(i+1,j),m(i+1,j-w_i)+v_i\} & j \ge w_i
+\end{cases}
+$$
+
+* 边界条件: $$
+m(n,j)=
+\begin{cases}
+0, & 0 \le j < w_n\\
+v_n, & j \ge w_n
+\end{cases}
+$$
 
 伪代码描述:
 ```pseudocode
@@ -243,12 +257,21 @@ class Knapsack:
 
 ### 最优二分搜索树
 * 状态转移方程
-  * E(i,j): 搜索代价
-    * (j=i-1) `E(i,j) = q[i-1]`
-    * (j ≥ i) `E(i,j) = min{E(i,r-1) + E(r+1,j) + W(i,j)} (i ≤ r ≤ j)`
-  * W(i,j): 添加代价
-    * (j=i-1) `W(i,j) = q[i-1]`
-    * (j ≥ i) `W(i,j) = W(i,j-1) + q[j] + p[j]`
+  * $$
+    E(i,j)=
+    \begin{cases}
+    q_{i-1}&,j=i-1\\
+    \min_{i\le r \le j}\{E(i,r-1)+E(r+1,j)+W(i,j)\}&,j\ge i
+    \end{cases}
+    $$
+  
+  * $$
+    W(i,j)=
+    \begin{cases}
+    q_{i-1}&, j = i-1\\
+    W(i,j-1)+p_j+q_j&, j\ge i
+    \end{cases}
+    $$
 
 伪代码描述:
 ```pseudocode
