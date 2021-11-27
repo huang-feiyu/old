@@ -6,6 +6,7 @@ date:       2021-11-23
 author:     Huang
 header-img: img/post_bg_tunnel_man_light_entrance.jpg
 catalog:    true
+mathjax:    true
 tags:
    - Programming
    - Algorithms
@@ -15,6 +16,15 @@ tags:
 记得第一次见到分治算法的时候，我就想到了凯撒大帝的“I came, I see, I conquer.”
 
 ### 算法原理
+$\LaTeX$
+
+$$
+china = 
+\begin{cases}
+1, & x = 1\\
+b, & y \not = 1
+\end{cases}
+$$
 * 算法步骤
   * Divide: 整个问题划分为多个子问题
   * Conquer: 求解各个子问题

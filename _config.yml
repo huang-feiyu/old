@@ -23,6 +23,9 @@ twitter_username: 0711feiyu
 douban_username: huang-feiyu
 
 
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: true
+
 
 
 # Build settings
