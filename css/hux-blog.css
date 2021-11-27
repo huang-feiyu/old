@@ -222,7 +222,6 @@ pre,
   -webkit-overflow-scrolling: touch;
 }
 pre code {
-  font-size: 25px;
   display: block;
   width: auto;
   white-space: pre;
