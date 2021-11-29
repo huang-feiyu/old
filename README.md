@@ -169,8 +169,8 @@ Telegram Web-Page: https://web.telegram.org/#/im
     * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
 
 #### Translation
-
 * [Into-My-Arms](https://huang-feiyu.github.io/2021/10/17/Into-My-Arms): 《投入我的怀抱》
+* [Long-Last-Penpal](https://huang-feiyu.github.io/2021/11/29/Long-Last-Penpal): 《笔友，好久不见》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西

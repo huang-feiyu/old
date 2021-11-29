@@ -30,7 +30,7 @@ tags:
 
 * 优化子结构：如果原问题$S_{ij}$包含活动$a_k$，那么子问题$S_{ik}, S_{kj}$也包含$a_k$.
 
-  $\Rightarrow c[i,j]=\begin{cases}0,& S_{ij}=\varnothing \\ \max\\{c[i,k]+c[k,j]+1\\},&S_{ij}\neq \varnothing 且 i<k<j \end{cases}$
+  $\Rightarrow c[i,j]=\begin{cases}0,& S_{ij}=\varnothing \\\ \max\\{c[i,k]+c[k,j]+1\\},&S_{ij}\neq \varnothing 且 i<k<j \end{cases}$
 
 * 贪心选择性：最早结束的任务$a_m$必然存在于$S_{ij}$的一个优化解中
 
