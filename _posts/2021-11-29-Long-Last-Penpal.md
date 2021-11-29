@@ -116,7 +116,7 @@ The only one left out from a party again
 
 Pretty sure I didn't have a single friend
 
-我十分确信，我没有一个的朋友
+我十分确信，我没有一个朋友
 
 Then I checked the mailbox
 
