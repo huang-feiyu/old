@@ -173,7 +173,7 @@ class KMP:
 
 $$
 \text{shift[w]} = \begin{cases}
-M - 1 - \max{i < M - 1 | p[i] = w}, & w in Pattern[0..M-2] \\
+M - 1 - \max \{i < M - 1 | p[i] = w \}, & w \in \text{Pattern}[0..M-2] \\
 M, & \text{otherwise}
 \end{cases}
 $$
