@@ -31,13 +31,16 @@ FOR i ← 1 TO M-1
   c ← (c * d) mod q  // d is the size of alphabet
 fp ← 0
 ft ← 0
+// 通过上一位的指纹计算加上下一位之后的指纹
 FOR i ← 0 TO M-1
   fp ← (fp * d + P[i]) mod q
   ft ← (ft * d + T[i]) mod q
+// 从前到后扫描
 FOR i ← 0 TO N-M
   IF fp = ft THEN
     IF P[0..M-1] == T[i..i+M-1] THEN
       RETURN i
+  // 更新text指纹: text[i..i+M-1] ➡ text[i+1..i+M]
   ft ← ((ft-T[i]*c)*d + T[i+M]) mod q
 RETURN -1
 PROCEDURE END
@@ -94,6 +97,8 @@ def rabin_karp_search(text, pattern, prime):
 ### KMP
 利用前缀表充分利用已经探测到的信息。
 
+[KMP](https://huang-feiyu.github.io/2021/05/11/KMP)
+
 ###### 伪代码描述
 
 ```pseudocode
@@ -102,7 +107,7 @@ Input: T, text; P, pattern
 Output: index or -1
 
 FUNCTION Compute-Prefix-Table(P)
-  π[0] ← 0
+  π[0] ← 0 // 0位为0
   // 从前向后扫描
   FOR i ← 1 TO M-2
     j ← π[i - 1]
@@ -124,8 +129,8 @@ FOR i ← 0 TO N - 1
   WHILE q > 0 AND P[q] ≠ T[i]
     q ← π[q]
   IF P[q] = T[i] THEN
-    q ← q+1
-  IF q = M:
+    q ← q + 1
+  IF q = M THEN
     RETURN i - M + 1
 RETURN -1
 PROCEDURE END
