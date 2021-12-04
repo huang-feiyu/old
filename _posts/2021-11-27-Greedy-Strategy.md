@@ -232,9 +232,9 @@ Q←G.V
 WHILE Q≠∅
 	u←EXTRACT-MIN(Q)
 	FOREACH v∈G.Adj[u]
-	IF v∈Q AND w(u,v)<v.key THEN
-		v.π ← u
-		v.key ← w(u,v)
+	  IF v∈Q AND w(u,v)<v.key THEN
+		  v.π ← u
+		  v.key ← w(u,v)
 RETURN A←{(v,π[v])|v∈V[G]-r}
 ```
 

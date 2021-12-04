@@ -215,9 +215,9 @@ FOR i ← n - 1 TO 2 DO
   FOR j ← 0 TO min(C, W[i]-1) DO
     m[i][j] ← m[i+1][j]
   FOR j ← W[i] TO C DO
-    m[i][j] ← min(m[i+1][j], m[i+1][j-W[i]] + V[i])
+    m[i][j] ← max(m[i+1][j], m[i+1][j-W[i]] + V[i])
 IF C > W[1] THEN
-  m[1][C] ← min(m[2][C-W[1]] + V[1] + m[2][C])
+  m[1][C] ← max(m[2][C-W[1]] + V[1] + m[2][C])
 ELSE
   m[1][C] ← m[2][C]
 

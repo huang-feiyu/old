@@ -160,7 +160,7 @@ I have to admit I sometimes lied in those letters
 
 Tried to make life better than it was
 
-我承认自己不时在那些信中说过谎，努力想让生活看起来更好一些
+我承认自己在那些信中说过谎，努力想让生活看起来更好一些
 
 I still wasn't kissed at sixteen
 

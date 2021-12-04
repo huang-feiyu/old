@@ -79,6 +79,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-34](https://huang-feiyu.github.io/2021/10/17/Essay-34): 网络世界中的人
 * [Essay-35](https://huang-feiyu.github.io/2021/11/16/Essay-35): 什么是自我欺骗？
 * [Essay-36](https://huang-feiyu.github.io/2021/11/28/Essay-36): 一些零碎的想法
+* [Essay-37](https://huang-feiyu.github.io/2021/12/04/Essay-37): 现代社会的虚无主义与生活在抽象概念中的人
 
 #### Book Review
 

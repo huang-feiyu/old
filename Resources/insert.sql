@@ -4,25 +4,25 @@
 -- INSERT into author VALUES
 -- (184,  "阿利斯泰尔·麦克劳德", 18, 1936, 7, 20, 2014, 4, 20, 0);
 
-INSERT INTO translator VALUES
-(153, "黄敏");
+-- INSERT INTO translator VALUES
+-- (153, "黄敏");
 
-INSERT INTO book VALUES
-(205, "深沉的玫瑰", "微信读书", 60, 9, 0, 0, 1,
- 205, 0, 4, 205, 7, 41),
-(206, "逻辑哲学论", "null", 120, 100, 0, 1, 1,
- 206, 0, 27, 206, 19, 153);
+-- INSERT INTO book VALUES
+-- (205, "深沉的玫瑰", "微信读书", 60, 9, 0, 0, 1,
+--  205, 0, 4, 205, 7, 41),
+-- (206, "逻辑哲学论", "null", 120, 100, 0, 1, 1,
+--  206, 0, 27, 206, 19, 153);
 
-INSERT INTO my_info VALUES
-(205, 2021, 11, 25, 1, "null", 74),
-(206, 2021, 11, 26, 1, "null", 94);
+-- INSERT INTO my_info VALUES
+-- (205, 2021, 11, 25, 1, "null", 74),
+-- (206, 2021, 11, 26, 1, "null", 94);
 
-INSERT INTO release VALUES
-(205, 2016, 8, 978, 7, 5327, 7122, 6),
-(206, 2021, 7, 978, 7, 5113, 8409, 6);
+-- INSERT INTO release VALUES
+-- (205, 2016, 8, 978, 7, 5327, 7122, 6),
+-- (206, 2021, 7, 978, 7, 5113, 8409, 6);
 
-INSERT INTO type VALUES
-(27, "分析哲学");
+-- INSERT INTO type VALUES
+-- (27, "分析哲学");
 
 -- INSERT INTO press VALUES
 -- (55590, "河南文艺出版社");
@@ -35,13 +35,9 @@ INSERT INTO type VALUES
 -- 更新区
 ----------------------------------------------
 
--- UPDATE my_info
--- SET score=83, read_times=1, date_month=11, date_day=21
--- WHERE id = 168;
-
-UPDATE translator
-SET name="赵登荣、倪诚恩"
-WHERE id = 36;
+UPDATE my_info
+SET score=83, read_times=1, date_month=11, date_day=30
+WHERE id = 160;
 
 
 ----------------------------------------------
