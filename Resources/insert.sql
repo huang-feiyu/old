@@ -36,8 +36,8 @@
 ----------------------------------------------
 
 UPDATE my_info
-SET score=83, read_times=1, date_month=11, date_day=30
-WHERE id = 160;
+SET score=80, read_times=1, date_month=12, date_day=6
+WHERE id = 192;
 
 
 ----------------------------------------------
