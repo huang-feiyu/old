@@ -663,5 +663,3 @@ void BPTree::removeInternal(int x, Node *cursor, Node *child) {
 
 **最好是理解之后才开始写代码，最开始可以照着敲一遍，但是一定要自己实现一遍。**可以在网络上多找几篇文章，同时辅以**[Track Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)**理解 。
 
-[完整代码地址](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/B_Plus_Tree.cpp)：遵循Google Style, 没有进行很多测试，应该没有错.
-
