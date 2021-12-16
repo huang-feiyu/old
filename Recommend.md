@@ -21,12 +21,11 @@ header-img: img/post_bg_recommend.jpg
 * [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
     * [《宗教大法官》](https://huangfeiyu.blogspot.com/2021/08/blog-post.html)
     * [书评笔记](https://huang-feiyu.github.io/2021/08/01/The-Brothers-Karamazov)
-* [《逍遥游》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
+* [《庄子》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
 * [《地下室手记》](https://book.douban.com/subject/34990839/): 陀思妥耶夫斯基的作品，地下室人的自白，拷问着你的灵魂。
     * [书评笔记](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground/)
 * [《逻辑哲学论》](https://book.douban.com/subject/35540677/): 维特根斯坦给我带来了世界的全新图景，我相信你也能从这部作品中得到一些非比寻常的体会。
     * [书评笔记](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus)
-
 * [《悉达多》](https://book.douban.com/subject/26980487/): 赫尔曼·黑塞写就的人的一生，如诗歌。姜乙的翻译更是为这本诗歌献上了最好的赞歌。
     * [体验](https://huang-feiyu.github.io/2021/05/20/Essay-5/#para-5)
 * [《局外人》](https://book.douban.com/subject/24257486/): 在荒谬的一切中，我们永远不是弱者，因为每个人都是弱者。
@@ -67,23 +66,30 @@ header-img: img/post_bg_recommend.jpg
 * [《荣格心理学入门》](https://book.douban.com/subject/35130973/): 荣格心理学入门的最佳选择，这本书就像一柄冰镐，敲碎了我内心的冰海。
 * [《爱情笔记》](https://book.douban.com/subject/26286235/): 这本书解构了爱情，让我们更能了解自我和爱情。**注意：不要把这里面的话当作真理，重要的是去生活中体验。**
     * [书评笔记](https://huang-feiyu.github.io/2021/06/04/Essays-in-Love/)
-* [《逻辑新引》](https://book.douban.com/subject/35077389/): 有时候求助于逻辑是不错的选择，特别是和别人争论的时候。读完之后，我发现我的偏见很多，幸亏不是太晚。
-* [《鳗鱼的旅行》](https://book.douban.com/subject/35167939/): 世界上最早的哲学家不是苏格拉底，而是鳗鱼。
 
 
 ### 音乐
-(歌曲中的力量不是我能够说出来的，要去听)
-* [Linkin Park](https://www.linkinpark.com/): 林肯公园，嘶吼中无尽的力量
+> 歌曲中的力量不是我能够说出来的，要去听。下面我给的文件都是从YouTube上下载的，
+> 希望你能够喜欢。
+
+* [Linkin Park](https://www.linkinpark.com/): 嘶吼中无尽的力量，可惜我还没有去听过Chester的演唱会
+  * [Heavy](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Linkin%20Park/Heavy.mp3)
+  * [One More Light](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Linkin%20Park/One%20More%20Light.mp3)
+  * [The Messenger](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Linkin%20Park/The%20Messenger.mp3)
 * [Pomme](https://instagram.com/pommeofficial): 如果上帝问我什么东西能够让我抛弃永生，那么爱和Pomme的歌声是我的答案
-* [Avril Lavigne](https://avrillavigne.com/): 艾薇儿，柔和的朋克风格，无尽的力量
+  * [Conspiratory Visions of Gomorrah](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Pomme/Conspiratory%20Visions%20of%20Gomorrah.mp3)
+  * [Dernière danse](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Pomme/Derni%C3%A8re%20danse.mp3)
+  * [La Lumière](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Pomme/La%20Lumi%C3%A8re.mp3)
+  * [Suzanne](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/music/Pomme/Suzanne.mp3)
+* [Avril Lavigne](https://avrillavigne.com/): 艾薇儿，我们年轻时候热爱的音乐往往极具力量
 * [Green Day](https://greenday.com/): 绿日乐队，狂放的朋克风格，无尽力量
-* [Eleni Karaindrou](https://y.qq.com/n/ryqq/singer/002767Dy3RcEmV): 很美的音乐
 * [我的歌单——QQ音乐](https://y.qq.com/n/ryqq/profile/like/song?uin=oiCk7e-q7K-s)
 
 
 ### 文章
 他人的博客、随笔、论文之类。
 
+* [《Entropy》](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/Papers/entropy.pdf)
 * [《Are we in the Midst of the Sixth Mass Extinction》](https://www.sciencealert.com/here-s-how-biodiversity-experts-recognise-that-we-re-midst-a-mass-extinction)
 * [《卡钦斯基：工业社会及其未来》](https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html)
 * [《一代人有一代人的翻译》](https://huangfeiyu.blogspot.com/2021/06/article-1-translation.html)
@@ -111,6 +117,7 @@ header-img: img/post_bg_recommend.jpg
   * [Death](https://oyc.yale.edu/death/phil-176): 死亡课，很有意思的入门课。
   * [Søren Kierkegaard - subjectivity, irony and the crisis of modernity](https://www.coursera.org/learn/kierkegaard): 克尔凯郭尔、陀思妥耶夫斯基、尼采，我认为的三位世界的预言者。这门课介绍了克尔凯郭尔，能够帮助理解这个世界。
   * [现代英美哲学](https://www.bilibili.com/video/BV1WW411a78m)
+  * [德国哲学选读](https://www.bilibili.com/video/BV1Gx411E7du)
   * <s>大概不会更新了，因为我发现我并不是喜欢当代的这种哲学——我需要的是自我探索。借用纪德的一句话**是什么使今日的诗歌尤其是哲学变成了一堆死文字，您知道吗？是它们脱离了生活。**</s>——最近重新捡起了哲学，哲学依旧极具活力，只是大多数人难以认知到。然而，作为唯一一种有关世界本源的学科，难道这样的哲学真的没有偏离正道吗？
 
 ### 其他
