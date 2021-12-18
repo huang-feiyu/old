@@ -82,6 +82,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-37](https://huang-feiyu.github.io/2021/12/04/Essay-37): 现代社会的虚无主义与生活在抽象概念中的人
 * [Essay-38](https://huang-feiyu.github.io/2021/12/14/Essay-38): 生命的基础
 * [Essay-39](https://huang-feiyu.github.io/2021/12/16/Essay-39): 音乐推荐
+* [Essay-40](https://huang-feiyu.github.io/2021/12/18/Essay-40): 什么是回忆
 
 #### Book Review
 
