@@ -83,6 +83,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 * [Essay-38](https://huang-feiyu.github.io/2021/12/14/Essay-38): 生命的基础
 * [Essay-39](https://huang-feiyu.github.io/2021/12/16/Essay-39): 音乐推荐
 * [Essay-40](https://huang-feiyu.github.io/2021/12/18/Essay-40): 什么是回忆
+* [Essay-41](https://huang-feiyu.github.io/2021/12/25/Essay-41): 自我审视的一些想法(重新评估理性)
 
 #### Book Review
 
