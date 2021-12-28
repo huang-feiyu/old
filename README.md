@@ -177,6 +177,7 @@ Telegram Web-Page: https://web.telegram.org/#/im
 #### Translation
 * [Into-My-Arms](https://huang-feiyu.github.io/2021/10/17/Into-My-Arms): 《投入我的怀抱》
 * [Long-Last-Penpal](https://huang-feiyu.github.io/2021/11/29/Long-Last-Penpal): 《笔友，好久不见》
+* [Valentines-Day](https://huang-feiyu.github.io/2021/12/28/Valentines-Day): 《情人节》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
