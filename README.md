@@ -6,10 +6,6 @@
 
 Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 
-Telegram Channel: https://t.me/joinchat/QiFlhFCuZOs3MDVl
-
-Telegram Web-Page: https://web.telegram.org/#/im
-
 ### 目的：
 
 **互联网最初的目的是用于学术、军事的信息交换，后来互联网连接了整个世界，于是互联网的目的也变了。黑客、开源，这些词汇背后的精神都是分享精神，这也是我运营这个博客的原因。花了我很多时间，但是我感到满足。**
