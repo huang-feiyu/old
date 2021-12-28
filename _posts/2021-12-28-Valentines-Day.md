@@ -10,7 +10,8 @@ tags:
    - Translation
 ---
 
-[QQ音乐: Valentine's Day](https://y.qq.com/n/ryqq/songDetail/000H1DOW4MuIP4) by [Linkin Park](https://www.linkinpark.com/)
+[QQ音乐: Valentine's Day](https://y.qq.com/n/ryqq/songDetail/000H1DOW4MuIP4) by
+[Linkin Park](https://www.linkinpark.com/)
 
 ### Lyrics
 
@@ -21,7 +22,7 @@ My insides all turned to ash, so slow
 
 And blew away as I collapsed, so cold
 
-随着我的倒下它也随风飘散，刺骨的寒冷
+刺骨的寒冷中，我倒下的同时，它也被吹散
 
 A black wind took them away, from sight
 
@@ -41,7 +42,7 @@ Looking so dissatisfied
 
 But the heartless wind kept blowing, blowing
 
-风依旧在冷酷地吹着 (此处应有更好的句子，一时无法想起来)
+但狂风不止，冷酷无情
 
 ###### [Verse 2]
 
@@ -51,7 +52,7 @@ I used to be my own protection, but not now
 
 'Cause my path has lost direction, somehow
 
-因为我已失去了方向，不知何故
+因为我已失去了方向，*不知何故*
 
 A black wind took you away from sight
 
@@ -79,7 +80,7 @@ As they put you down inside
 
 But the heartless wind kept blowing, blowing
 
-风依旧在冷酷地吹着
+这狂风不止，冷酷无情
 
 ###### [Chorus]
 So now, you're gone and I was wrong
@@ -112,7 +113,7 @@ On a Valentine's day, on a Valentine's day
 
 ('Cause my mind has lost direction, somehow)
 
-（因为我的心已遗失方向，不知何故）
+（因为我的心已遗失方向，*不知何故*）
 
 On a Valentine's day, on a Valentine's day
 
@@ -128,12 +129,10 @@ On a Valentine's day, on a Valentine's day
 
 ('Cause my mind has lost direction, somehow)
 
-（因为我的心已遗失方向，不知何故）
-
-
+（因为我的心已遗失方向，**不知何故**）
 
 ---
 
 我甚至想要为这首歌写一篇小故事，还是不要画蛇添足吧。这首歌让我如此悲伤，不要让它变成笑话。——也许会在很久以后吧……
 
-是我将他人埋葬，还是他人将我的灵魂埋葬？当我们埋葬他人的时候
+是我将他人埋葬，还是他人将我的灵魂埋葬？当我们埋葬他人的时候。
