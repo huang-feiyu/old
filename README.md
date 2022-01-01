@@ -99,8 +99,9 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Death-of-Ivan-Ilyich](https://huang-feiyu.github.io/2021/11/07/The-Death-of-Ivan-Ilyich): 《伊凡·伊里奇之死》
 
 ###### 赫尔曼·黑塞
-* [Steppenwolf](https://huang-feiyu.github.io/2021/06/11/Steppenwolf): 《荒原狼》
+* [The-Glass-Bead-Game](https://huang-feiyu.github.io/2022/01/01/The-Glass-Bead-Game): 《玻璃珠游戏》
 * [Demian](https://huang-feiyu.github.io/2021/05/22/Demian): 《德米安：彷徨少年时》
+* [Steppenwolf](https://huang-feiyu.github.io/2021/06/11/Steppenwolf): 《荒原狼》
 
 ###### 川端康成
 * [The-Dancing-Girl-of-lzu](https://huang-feiyu.github.io/2021/07/08/The-Dancing-Girl-of-Izu): 《伊豆的舞女》
