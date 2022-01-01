@@ -1,7 +1,12 @@
 import sqlite3
+import datetime
 
 conn = sqlite3.connect('mybook.db')
 c = conn.cursor()
+
+def get_time():
+    today = datetime.date.today()
+    return [today.year, today.month, today.day]
 
 def check_author():
     author = input("请输入作者名: ")
@@ -50,10 +55,13 @@ def insert_book(name, isbn, press, tags, type, page_number, word_number, author,
             INSERT INTO book
             VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
               """, tuple(book_list))
+    # insert into my_info
+    date_list = get_time()
+    date_list.insert(0, book_id)
     c.execute("""
             INSERT INTO my_info
             VALUES(?, 2021, 12, 13, 0, 0, '已购', '无')
-              """, (book_id, ))
+              """, tuple(date_list))
     conn.commit()
 
 def main():
