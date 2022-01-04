@@ -158,6 +158,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 
 #### Great-People
 * [Dostoevsky](https://huang-feiyu.github.io/2021/11/11/Dostoevsky): 陀思妥耶夫斯基
+* [Hermann-Hesse](https://huang-feiyu.github.io/2022/01/04/Hermann-Hesse): 赫尔曼·黑塞
 * [Camus](https://huang-feiyu.github.io/2021/05/21/Camus): 阿尔贝·加缪
 * [Yasunari-Kawabata](https://huang-feiyu.github.io/2021/07/22/Yasunari-Kawabata): 川端康成
 * [Yuan-Longping](https://huang-feiyu.github.io/2021/05/22/Yuan-Longping): 袁隆平
