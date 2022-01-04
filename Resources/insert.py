@@ -60,7 +60,7 @@ def insert_book(name, isbn, press, tags, type, page_number, word_number, author,
     date_list.insert(0, book_id)
     c.execute("""
             INSERT INTO my_info
-            VALUES(?, 2021, 12, 13, 0, 0, '已购', '无')
+            VALUES(?, ?, ?, ?, 0, 0, '已购', '无')
               """, tuple(date_list))
     conn.commit()
 
