@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Dostoevsky
+title:      Hermann-Hesse
 subtitle:   赫尔曼·黑塞
 date:       2022-01-04
 author:     Huang
