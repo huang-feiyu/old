@@ -81,6 +81,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay-39](https://huang-feiyu.github.io/2021/12/16/Essay-39): 音乐推荐
 * [Essay-40](https://huang-feiyu.github.io/2021/12/18/Essay-40): 什么是回忆
 * [Essay-41](https://huang-feiyu.github.io/2021/12/25/Essay-41): 自我审视的一些想法(重新评估理性)
+* [Essay-42](https://huang-feiyu.github.io/2022/01/13/Essay-42): 我的恐惧是什么
 
 #### Book Review
 
