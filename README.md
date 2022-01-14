@@ -189,6 +189,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Winter-vacation-Journal-6](https://huang-feiyu.github.io/2022/01/11/Winter-vacation-Journal-6): 寒假手记6
 * [Winter-vacation-Journal-7](https://huang-feiyu.github.io/2022/01/12/Winter-vacation-Journal-7): 寒假手记7
 * [Winter-vacation-Journal-8](https://huang-feiyu.github.io/2022/01/13/Winter-vacation-Journal-8): 寒假手记8
+* [Winter-vacation-Journal-9](https://huang-feiyu.github.io/2022/01/14/Winter-vacation-Journal-9): 寒假手记9
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
