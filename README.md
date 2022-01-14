@@ -126,6 +126,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [The-Trial](https://huang-feiyu.github.io/2021/07/16/The-Trial): 《审判》
 
 ###### 其他作家
+* [Fear-and-Trembling](https://huang-feiyu.github.io/2022/01/14/Fear-and-Trembling): 《恐惧与颤栗》
 * [Tractatus-Logico-Philosophicus](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus): 《逻辑哲学论》
 * [Solaris](https://huang-feiyu.github.io/2021/08/22/Solaris): 《索拉里斯星》
 * [The-temple-of-the-Golden-Pavilion](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion): 《金阁寺》
