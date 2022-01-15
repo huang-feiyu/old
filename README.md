@@ -14,6 +14,11 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 
 **我只为自己一个人而写作，而且我要一劳永逸地声明：如果说我似乎也是为读者而写作的，那也只不过是为了装装样子，因为这样我便可以更轻车熟路地写下去。这只不过是形式，虚有其表的形式而已，我可是永远也不会有读者的。我对此早已有言在先。除此之外，也许我还能因为写作《手记》，真的获得慰藉。写作《手记》倒确实似乎在工作。据说，人一工作，就会变得心地善良、光明磊落。**
 
+博客并不能够作为知识库，我选择使用
+[Notion](https://www.notion.so/huangfeiyu/000-README-cc0f47bf2b834034afc01b2538f24bd0)
+作为专业知识库。况且知识类的博客太多了，遵循[克氏](https://plato.stanford.edu/entries/kierkegaard/)写作风格、
+**真正**能够帮助他人的博客却没有多少。
+
 ### 其他
 
 * [fork](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/huang-blog-fork.zip): 根据网络教程加上这个东西可以迅速构建出一个博客
