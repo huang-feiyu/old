@@ -142,20 +142,6 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [The-Buhhda](https://huang-feiyu.github.io/2021/05/30/The-Buddha): 《佛陀》
 * [To-Kill-a-Mockingbird](https://huang-feiyu.github.io/2021/07/18/To-Kill-a-Mockingbird): 《杀死一只知更鸟》
 
-#### Programming
-* Database
-    * [B+Tree](https://huang-feiyu.github.io/2021/05/21/B-Plus-Tree): B+Tree 在任何方面都十分优秀
-    * [Join-Algorithms](https://huang-feiyu.github.io/2021/06/28/Join-Algorithm): 数据库连接算法
-    * [The-prospect-of-database](https://huang-feiyu.github.io/2021/07/07/the-prospect-of-database): 中国数据库行业探究
-* Algorithms
-    * [KMP](https://huang-feiyu.github.io/2021/05/11/KMP): 字符串匹配经典算法
-    * [Sort](https://huang-feiyu.github.io/2021/05/11/Sort): 五种简单的排序算法
-    * [Divide-and-Conquer](https://huang-feiyu.github.io/2021/11/23/Divide-and-Conquer): 分治方法的简单笔记
-    * [Dynamic-Programming](https://huang-feiyu.github.io/2021/11/26/Dynamic-Programming): 动态规划的简单笔记
-    * [Greedy-Strategy](https://huang-feiyu.github.io/2021/11/27/Greedy-Strategy): 贪心策略的简单笔记
-    * [String-Algorithm](https://huang-feiyu.github.io/2021/11/30/String-Algorithm): 几个简单的字符串算法
-* [Learning-Git](https://huang-feiyu.github.io/2021/07/28/Learning-Git): Git学习笔记
-
 #### Writing
 * [Chinese-Writing-Guide](https://huang-feiyu.github.io/2021/08/12/Chinese-Writing-Guide): 中文写作指南
 
@@ -180,17 +166,6 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Long-Last-Penpal](https://huang-feiyu.github.io/2021/11/29/Long-Last-Penpal): 《笔友，好久不见》
 * [Valentines-Day](https://huang-feiyu.github.io/2021/12/28/Valentines-Day): 《情人节》
 
-#### Journal
-* [Winter-vacation-Journal-1](https://huang-feiyu.github.io/2022/01/06/Winter-vacation-Journal-1): 寒假手记1
-* [Winter-vacation-Journal-2](https://huang-feiyu.github.io/2022/01/07/Winter-vacation-Journal-2): 寒假手记2
-* [Winter-vacation-Journal-3](https://huang-feiyu.github.io/2022/01/08/Winter-vacation-Journal-3): 寒假手记3
-* [Winter-vacation-Journal-4](https://huang-feiyu.github.io/2022/01/09/Winter-vacation-Journal-4): 寒假手记4
-* [Winter-vacation-Journal-5](https://huang-feiyu.github.io/2022/01/10/Winter-vacation-Journal-5): 寒假手记5
-* [Winter-vacation-Journal-6](https://huang-feiyu.github.io/2022/01/11/Winter-vacation-Journal-6): 寒假手记6
-* [Winter-vacation-Journal-7](https://huang-feiyu.github.io/2022/01/12/Winter-vacation-Journal-7): 寒假手记7
-* [Winter-vacation-Journal-8](https://huang-feiyu.github.io/2022/01/13/Winter-vacation-Journal-8): 寒假手记8
-* [Winter-vacation-Journal-9](https://huang-feiyu.github.io/2022/01/14/Winter-vacation-Journal-9): 寒假手记9
-
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
 * [My-Keywords-of-2021](https://huang-feiyu.github.io/2021/12/31/My-Keywords-of-2021): 我的2021年关键词
@@ -198,5 +173,3 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
 * [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
 * [Data-Analysis-A-Skill-and-Industry](https://huang-feiyu.github.io/2021/09/04/Data-Anaysis-A-Skill-and-Industry): 作为技能和行业的数据分析
-* [The-Items-of-Reinstall-OS](https://huang-feiyu.github.io/2021/07/17/The-Items-of-Reinstall-OS/): 重装系统的一点注意事项
-* [Simple-Guide-To-Win11](https://huang-feiyu.github.io/2021/08/19/Simple-Guide-To-Win11): Windows 11简单介绍
