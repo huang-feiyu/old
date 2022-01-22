@@ -41,7 +41,6 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
 * [Translation](https://github.com/huang-feiyu/huang-feiyu.github.io#translation)
-* [Journal](https://github.com/huang-feiyu/huang-feiyu.github.io#journal)
 * [Other](https://github.com/huang-feiyu/huang-feiyu.github.io#other)
 
 #### Essay
@@ -87,6 +86,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay-40](https://huang-feiyu.github.io/2021/12/18/Essay-40): 什么是回忆
 * [Essay-41](https://huang-feiyu.github.io/2021/12/25/Essay-41): 自我审视的一些想法(重新评估理性)
 * [Essay-42](https://huang-feiyu.github.io/2022/01/13/Essay-42): 我的恐惧是什么
+* [Essay-43](https://huang-feiyu.github.io/2022/01/22/Essay-43): 我对动物的看法转变
 
 #### Book Review
 
