@@ -84,9 +84,10 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay-38](https://huang-feiyu.github.io/2021/12/14/Essay-38): 生命的基础
 * [Essay-39](https://huang-feiyu.github.io/2021/12/16/Essay-39): 音乐推荐
 * [Essay-40](https://huang-feiyu.github.io/2021/12/18/Essay-40): 什么是回忆
-* [Essay-41](https://huang-feiyu.github.io/2021/12/25/Essay-41): 自我审视的一些想法(重新评估理性)
+* [Essay-41](https://huang-feiyu.github.io/2021/12/25/Essay-41): 自我审视的一些想法 (重新评估理性)
 * [Essay-42](https://huang-feiyu.github.io/2022/01/13/Essay-42): 我的恐惧是什么
 * [Essay-43](https://huang-feiyu.github.io/2022/01/22/Essay-43): 我对动物的看法转变
+* [Essay-44](https://huang-feiyu.github.io/2022/02/05/Essay-44): 生命的另一面 (当死亡切实来临)
 
 #### Book Review
 
