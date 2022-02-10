@@ -171,6 +171,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Into-My-Arms](https://huang-feiyu.github.io/2021/10/17/Into-My-Arms): 《投入我的怀抱》
 * [Long-Last-Penpal](https://huang-feiyu.github.io/2021/11/29/Long-Last-Penpal): 《笔友，好久不见》
 * [Valentines-Day](https://huang-feiyu.github.io/2021/12/28/Valentines-Day): 《情人节》
+* [Ghost](https://huang-feiyu.github.io/2022/02/10/Ghost): 《幽灵》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
