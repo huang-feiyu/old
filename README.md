@@ -89,6 +89,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay-43](https://huang-feiyu.github.io/2022/01/22/Essay-43): 我对动物的看法转变
 * [Essay-44](https://huang-feiyu.github.io/2022/02/05/Essay-44): 生命的另一面 (当死亡切实来临)
 * [Essay-45](https://huang-feiyu.github.io/2022/02/15/Essay-45): 可计算利益
+* [Essay-46](https://huang-feiyu.github.io/2022/02/24/Essay-46): 一些零碎的想法
 
 #### Book Review
 
