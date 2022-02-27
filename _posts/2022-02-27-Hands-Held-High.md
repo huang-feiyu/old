@@ -172,7 +172,7 @@ They brush the dust from bulletproof vests away
 
 It's ironic, at times like this you'd pray
 
-真是讽刺，有时候你还会祈祷
+真是讽刺，这个时候你还会祈祷
 
 But a bomb blew the mosque up, yesterday
 
