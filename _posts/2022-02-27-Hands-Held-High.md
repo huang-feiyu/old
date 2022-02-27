@@ -12,6 +12,8 @@ tags:
 
 > 说唱是无法翻译的，但是我还是做了。我想这很容易获得理解，骂人的话一般都存在于说唱中。
 
+请各位看看这段[视频](https://t.me/vitamineEpodcast/1383?comment=165486)，正常人是无法在国内环境中正常发声的，只有小丑与蠢货能够肆无忌惮地展现这个民族的下限。我想：鲁迅再生也无法改变这个事实——我们的许多“同胞”是**绝对**卑劣。什么样的社会能够培养出如此多的蠢货，鲁迅先生，您知道吗？
+
 [QQ音乐: *Hands Held High*](https://y.qq.com/n/ryqq/songDetail/001YhoS31AfIVc) by [Linkin Park](https://www.linkinpark.com/)
 
 ### Lyrics
