@@ -36,7 +36,6 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
   * [伊塔洛·卡尔维诺](https://github.com/huang-feiyu/huang-feiyu.github.io#%E4%BC%8A%E5%A1%94%E6%B4%9B%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA)
   * [弗朗茨·卡夫卡](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%BC%97%E6%9C%97%E8%8C%A8%E5%8D%A1%E5%A4%AB%E5%8D%A1)
   * [其他作家](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%85%B6%E4%BB%96%E4%BD%9C%E5%AE%B6)
-* [Programming](https://github.com/huang-feiyu/huang-feiyu.github.io#programming)
 * [Writing](https://github.com/huang-feiyu/huang-feiyu.github.io#writing)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
@@ -174,6 +173,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Long-Last-Penpal](https://huang-feiyu.github.io/2021/11/29/Long-Last-Penpal): 《笔友，好久不见》
 * [Valentines-Day](https://huang-feiyu.github.io/2021/12/28/Valentines-Day): 《情人节》
 * [Ghost](https://huang-feiyu.github.io/2022/02/10/Ghost): 《幽灵》
+* [Hands-Held-High](https://huang-feiyu.github.io/2022/02/27/Hands-Held-High): 《高举双手》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
