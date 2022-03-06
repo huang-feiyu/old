@@ -12,8 +12,9 @@ tags:
 
 # 成为一名程序员
 
-> 转载自[OnJava8](http://gdut_yy.gitee.io/doc-onjava8/appendices/app-becoming-a-programmer.html#%E5%BB%B6%E4%BC%B8%E9%98%85%E8%AF%BB)中文翻译。《On java 8》是《think in Java》的第五版，作者[Bruce Eckel](https://www.google.com/search?sxsrf=ALeKk02in9O5kN1tdNi4fytEoKcjOZNPSA:1606378926838&q=Bruce+Eckel&stick=H4sIAAAAAAAAAONgVuLUz9U3MLHIMTZ-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrFyOxWVJqcquCZnp-YAAJ5UEF1SAAAA)（Wikipedia）是世界上最优秀的程序员之一，这一篇文章还没有翻译完全，但是现在已经翻译过来的部分深深的打动了我，所以我将这篇文章转载在我的博客上提醒自己。
+`Programmer`
 
+> 转载自 [OnJava8](http://gdut_yy.gitee.io/doc-onjava8/appendices/app-becoming-a-programmer.html#%E5%BB%B6%E4%BC%B8%E9%98%85%E8%AF%BB) 中文翻译。《On java 8》是《think in Java》的第五版，作者[Bruce Eckel](https://www.google.com/search?sxsrf=ALeKk02in9O5kN1tdNi4fytEoKcjOZNPSA:1606378926838&q=Bruce+Eckel&stick=H4sIAAAAAAAAAONgVuLUz9U3MLHIMTZ-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrFyOxWVJqcquCZnp-YAAJ5UEF1SAAAA)（Wikipedia）是世界上最优秀的程序员之一，这一篇文章还没有翻译完全，但是现在已经翻译过来的部分深深的打动了我，所以我将这篇文章转载在我的博客上提醒自己。
 > 我分别于2003，2006，2007和2009年撰写的博客文章混搭
 
 ###### 如何开始
@@ -108,12 +109,3 @@ tags:
 “现在你可能觉得你对巴洛克时期的冰岛诗歌，或者蝴蝶收集，或者高尔夫，抑或是对社会正义的热情，会因为要养家糊口而让你和你喜欢做的事分道扬镳，并非一定要如此。弗拉基米尔·纳博科夫（Vladimir Nabokov）是本世纪最伟大的小说家之一，他对蝴蝶收藏的热情远远超过写作。事实上，他的第一个大学教学工作是关于鳞翅类昆虫。在过去40年里，对40万美国群众的研究表明，即使是部分的、零散的追求培养你的激情，也可以帮助你充分利用你目前的能力，激励你培养新的能力。”--摘自《The Other 90%》 Robert K.Cooper
 
 当然你可以看Po Bronson写的《 What Should I Do With My Life?》这本书，对这些想法进行更多的探索。
-
-```c
-// this is a test
-// What I can't, I will not use it.
-#define mian main
-int main() {
-    printf("hello world\n");
-}
-```
