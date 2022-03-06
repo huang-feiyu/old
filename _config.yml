@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-Huang.jpg      # use absolute URL, seeing it's used i
 
 
 # SNS settings
-RSS: false  
+RSS: false
 github_username: huang-feiyu
 twitter_username: 0711feiyu
 douban_username: huang-feiyu
@@ -52,6 +52,11 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  span:
+    line_numbers: false
+  block:
+    line_numbers: true
+    start_line: 1
 
 
 

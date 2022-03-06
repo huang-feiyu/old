@@ -515,7 +515,7 @@ pre.highlight {
   border-radius: 6px;
 }
 .highlighter-rouge .highlight pre {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.5;
   color: #555;
   background: transparent;
@@ -707,7 +707,7 @@ article {
 }
 blockquote {
   color: gray;
-  font-style: italic;
+  font-style: normal;
   font-size: 0.95em;
   margin: 20px 0 20px;
 }
