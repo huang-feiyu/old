@@ -50,13 +50,17 @@ gems: [jekyll-paginate]
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
+
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-  span:
-    line_numbers: false
-  block:
-    line_numbers: true
-    start_line: 1
+  input:          GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 
 

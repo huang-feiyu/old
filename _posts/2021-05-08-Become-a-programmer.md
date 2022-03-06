@@ -16,7 +16,7 @@ tags:
 
 > 我分别于2003，2006，2007和2009年撰写的博客文章混搭
 
-## [#](http://gdut_yy.gitee.io/doc-onjava8/appendices/app-becoming-a-programmer.html#如何开始)如何开始
+###### 如何开始
 
 这是一条相当漫长和曲折的道路。我在高一学代数时(1971年)，有个非常古怪的老师有一台计算机，还弄到了一台配有一个300波特的音频电话耦合器的ASR-33电传打字机，我学会了如何执行命令并得到响应，以及一个可以在高中区使用的HP-1000计算机上的帐户。我们能够创建和运行BASIC程序并将它们保存在打孔磁带上。我对此非常着迷，所以尽可能地把它带回家后在晚上写程序。我写了一个赛马模拟游戏--HOSRAC.BAS，用星号来代表马的移动，由于是在纸上打印输出，所以需要一点想象力。
 
@@ -42,7 +42,7 @@ tags:
 
 这些就是我主要做的事，尽管我通过学计算机工程有还算扎实的基础，但我没上过编程课，而是通过自学。在此期间我也在不断地学习新事物，在这个行业里，不断学习是非常重要的一部分。
 
-## [#](http://gdut_yy.gitee.io/doc-onjava8/appendices/app-becoming-a-programmer.html#码农生涯)码农生涯
+###### 码农生涯
 
 我会定期收到有关职业建议的请求，所以我尝试在这里回答一下这个问题。
 
@@ -90,7 +90,7 @@ tags:
 
 有些人对这个答案感到失望，然后回答“是的，这都是非常有趣和有用的。但是实际上，我应该学习什么？ C++ 还是 Java ？”，以防这些问题，我将在这里重复一遍：我知道似乎所有的 1 和 0 都应该使一切具有确定性因此此类问题应该有一个简单的答案，但事实并非如此。这与做出选择并完成选择无关，这是有关持续学习和有时需要大胆的选择。相信我，这样你的生活会更加令人兴奋。
 
-### [#](http://gdut_yy.gitee.io/doc-onjava8/appendices/app-becoming-a-programmer.html#延伸阅读)延伸阅读
+###### 延伸阅读
 
 - [Teach Yourself Programming In Ten Years](http://norvig.com/21-days.html), by Peter Norvig.
 - [How To Be A Programmer](http://samizdat.mines.edu/howto/HowToBeAProgrammer.html), by Robert Read.
@@ -101,12 +101,19 @@ tags:
 - James Shore: [Five Design Skills Every Programmer Should Have](https://www.jamesshore.com/Blog/Five-Design-Skills.html).
 - Steve Yegge: [The Truth About Interviewing](http://steve-yegge.blogspot.com/2006/03/truth-about-interviewing.html).
 
-## 
-
-## [#](http://gdut_yy.gitee.io/doc-onjava8/appendices/app-becoming-a-programmer.html#做你喜欢的事)做你喜欢的事
+###### 做你喜欢的事
 
 *“1960年，一位研究人员对1500名商学院学生进行了访谈，并将他们分为两类：那些为了钱财来这里上学的人，1245人，以及那些打算利用学位做他们非常关心的事情的人，255人。二十年后，研究人员再次访谈了这些毕业生，发现其中有101位百万富翁，除了其中一位，所有百万富翁都来自追求他们喜欢做的事的那255人！”*
 
 “现在你可能觉得你对巴洛克时期的冰岛诗歌，或者蝴蝶收集，或者高尔夫，抑或是对社会正义的热情，会因为要养家糊口而让你和你喜欢做的事分道扬镳，并非一定要如此。弗拉基米尔·纳博科夫（Vladimir Nabokov）是本世纪最伟大的小说家之一，他对蝴蝶收藏的热情远远超过写作。事实上，他的第一个大学教学工作是关于鳞翅类昆虫。在过去40年里，对40万美国群众的研究表明，即使是部分的、零散的追求培养你的激情，也可以帮助你充分利用你目前的能力，激励你培养新的能力。”--摘自《The Other 90%》 Robert K.Cooper
 
 当然你可以看Po Bronson写的《 What Should I Do With My Life?》这本书，对这些想法进行更多的探索。
+
+```c
+// this is a test
+// What I can't, I will not use it.
+#define mian main
+int main() {
+    printf("hello world\n");
+}
+```
