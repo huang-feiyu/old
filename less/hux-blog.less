@@ -57,7 +57,7 @@ article{
 }
 blockquote {
 	color: @gray;
-	font-style: italic;
+	font-style: normal;
 	font-size: 0.95em;
 	margin: 20px 0 20px;
 	p{
@@ -79,7 +79,7 @@ img.shadow{
 }
 // Utils Style End
 
-// Select 
+// Select
 select{
 	-webkit-appearance:none;
 	margin-top:15px;
@@ -115,6 +115,12 @@ pre code{
 	width: auto;
 	white-space: pre;	// save it but no-wrap;
 	word-wrap: normal;	// no-wrap
+}
+code,
+kbd,
+pre,
+samp {
+    .monospace;
 }
 
 // In the list of posts
@@ -210,7 +216,7 @@ pre code{
 	 * which would cover tags. A absolute positioning make a new layer.
 	 */
 	.navbar-default .navbar-collapse{
-		position: absolute; 
+		position: absolute;
      	right: 0;
 		border: none;
 		background: white;
@@ -223,7 +229,7 @@ pre code{
 	 * Animation
 	 * HuxBlog-Navbar using genuine Material Design Animation
 	 */
-	#huxblog_navbar{ 	
+	#huxblog_navbar{
 		/**
 		 * Sharable code and 'out' function
 		 */
