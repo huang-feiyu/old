@@ -12,7 +12,7 @@ tags:
 
 [QQ音乐: Into-My-Arms](https://y.qq.com/n/ryqq/songDetail/003HdvqD2NjlcN) by [Nick Cave & The Bad Seeds](https://www.nickcave.com/)
 
-### Lyrics/歌词
+### Lyrics
 > 并非完全按照原意翻译，仅供参考。
 
 ###### [Verse 1]

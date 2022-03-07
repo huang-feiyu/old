@@ -38,12 +38,10 @@ tags:
 
 我想，我既便是忘掉了勾股定理，也不会忘记他。
 
-
-
-
+---
 
 另：
 
-* [后稷的故事](http://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652785235&idx=1&sn=f6a91e5035c59066bb2a713450be7a7a&chksm=bd46819c8a31088a4d146d019e11e74d81f4bf72b5a5a75ac2879da0fb6a9195aef8008811c4&mpshare=1&scene=23&srcid=0522CMhA0MUMliGkr0pJ1hcd&sharer_sharetime=1621682068174&sharer_shareid=7a4222f7683c3302dada6e2a1f9cd699#rd): 可以阅读这篇文章，很真诚
+* [《后稷的故事》](http://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652785235&idx=1&sn=f6a91e5035c59066bb2a713450be7a7a&chksm=bd46819c8a31088a4d146d019e11e74d81f4bf72b5a5a75ac2879da0fb6a9195aef8008811c4&mpshare=1&scene=23&srcid=0522CMhA0MUMliGkr0pJ1hcd&sharer_sharetime=1621682068174&sharer_shareid=7a4222f7683c3302dada6e2a1f9cd699#rd): 可以阅读这篇文章，很真诚
 * 有人把袁隆平先生的死亡又同政治扯上了关系，我为他们感到惋惜。(我就不贴出链接了)
 

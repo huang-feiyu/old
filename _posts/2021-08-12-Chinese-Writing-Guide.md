@@ -40,11 +40,11 @@ tags:
 
 ###### 参考
 
-[^1]: <a href=https://mp.weixin.qq.com/s/qSRbDvwZAOJETWB7HNYJIQ>《一家早餐铺》和菜头</a>
-[^2]: <a href=https://mp.weixin.qq.com/s/2vGoIge8lgycrZdIVU1PmQ>《去掉“了”字》和菜头</a>
-[^3]: <a href=https://mp.weixin.qq.com/s/u-bS2bPjOcQSNpnyVqvtxw>《写作进阶教程：如何描写动物》和菜头</a>
-[^4]: <a href=https://mp.weixin.qq.com/s/MEsd_ly2c_JyJGyFN63S6w>《写作的价值》和菜头</a>
-[^5]: <a href=https://mp.weixin.qq.com/s/L0LMUeyJGIMuTsUfDAsmGg>《真实并不是素材》和菜头</a>
-[^6]: <a href=https://mp.weixin.qq.com/s/AYiUAaXL92ArMqYZNEOlwg>《虎皮青椒》和菜头</a>
-[^7]: <a href=https://mp.weixin.qq.com/s/lEpCwHSMn-GWatKtElvZBw>《写文字，还是拍视频》和菜头</a>
-[^8]: <a href=https://mp.weixin.qq.com/s/e1vGwvOfRC3XlxMxKK3Xxg>《写在上热搜之后》和菜头</a>
+[^1]: [《一家早餐铺》][https://mp.weixin.qq.com/s/qSRbDvwZAOJETWB7HNYJIQ]
+[^2]: [《去掉“了”字》](https://mp.weixin.qq.com/s/2vGoIge8lgycrZdIVU1PmQ)
+[^3]: [《写作进阶教程：如何描写动物》](https://mp.weixin.qq.com/s/u-bS2bPjOcQSNpnyVqvtxw)
+[^4]: [《写作的价值》](https://mp.weixin.qq.com/s/MEsd_ly2c_JyJGyFN63S6w)>
+[^5]: [《真实并不是素材》](https://mp.weixin.qq.com/s/L0LMUeyJGIMuTsUfDAsmGg)
+[^6]: [《虎皮青椒》](https://mp.weixin.qq.com/s/AYiUAaXL92ArMqYZNEOlwg)
+[^7]: [《写文字，还是拍视频》](https://mp.weixin.qq.com/s/lEpCwHSMn-GWatKtElvZBw)
+[^8]: [《写在上热搜之后》](https://mp.weixin.qq.com/s/e1vGwvOfRC3XlxMxKK3Xxg>)
