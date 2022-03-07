@@ -46,7 +46,7 @@ tags:
 
 ### 代表作品
 
-![](https://raw.githubusercontent.com/huang-feiyu/huang-feiyu.github.io/master/img/post_bg_dostoevsky_books.jpg)
+![my books](https://raw.githubusercontent.com/huang-feiyu/huang-feiyu.github.io/master/img/post_bg_dostoevsky_books.jpg)
 
 陀哥的每一部作品都值得阅读，我读过下面的以及一些中短篇小说：
 
@@ -66,6 +66,9 @@ tags:
 
 ###### 译本指南
 
+* [关于陀思妥耶夫斯基作品选购建议](https://www.douban.com/group/topic/260689236)
+* [关于陀氏作品中译本选择的一些想法](https://www.douban.com/group/topic/196853164)
+
 阅读最好是俄语原本，当然我们一般只会英语和中文，而且英语不能够流畅地阅读文学文本。于是，选择一个优秀的中文译本就显得尤为重要了。幸运的是，陀思妥耶夫斯基的译本都还不错，所以译本是可以随便选择的。
 
 如果只是想要读主要作品，可以选择上海译文出版社、译林出版社和果麦文化的陀思妥耶夫斯基作品(其他的出版社就不要选择了，像读客那样的出版社是这个世界的耻辱)；如果想要读全集的话，推荐人民文学出版社以及河北教育出版社的《陀思妥耶夫斯基全卷》。
@@ -76,7 +79,7 @@ tags:
 * 《地下室手记》：曾思艺（翻译非常流畅、非常疯狂，成语用得挺多的——其实也算符合地下室人咬文嚼字的特点）
 * 《罪与罚》：汝龙
 * 《群魔》：臧仲伦
-* 《白痴》：耿济之
+* 《白痴》：荣如德/臧仲伦
 
 ###### 阅读顺序
 
