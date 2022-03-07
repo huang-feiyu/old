@@ -15,7 +15,17 @@ description: "我们应当下定决心去生活"
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:175 }}
+        <script>
+			var isFHD = screen.width > 1024 ? true : false;
+			alert(screen.width + ":" + screen.height);
+			(function() {
+				if (isFHD) {
+                    {{ post.content | strip_html | truncate:200 }}
+				} else {
+                    {{ post.content | strip_html | truncate:75 }}
+				}
+			})()
+		</script>
             <font color="white">H</font>
             <img src="{{ site.baseurl }}/{% if post.header-img%}{{post.header-img}}{% else %}{{site.header-img}}{%endif %}" width="50%"/>
         </div>
