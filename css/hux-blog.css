@@ -1302,6 +1302,7 @@ samp {
   font-style: italic;
   color: #a3a3a3;
   display: inline-flex;
+  align-items: center;
 }
 .post-content-preview:hover {
   color: #0085a1;
