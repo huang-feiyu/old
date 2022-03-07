@@ -26,7 +26,7 @@ header-img: img/post_bg_recommend.jpg
 * [《局外人》](https://book.douban.com/subject/24257486/): 在荒谬的一切中，我们永远不是弱者，因为每个人都是弱者。
 * [《卡夫卡小说全集》](https://book.douban.com/subject/25793952/): 卡夫卡的作品，荒诞的世界中的探索，而我们的世界又何尝不荒诞呢？哈哈。
 * [《罪与罚》](https://book.douban.com/subject/25887912/): 陀思妥耶夫斯基救赎之道揭秘之书：难道现在她的信仰不能成为我的信仰吗？
-* [《西线无战事》](https://book.douban.com/subject/35272817/): 我们不相信一切，我们只相信战争。        
+* [《西线无战事》](https://book.douban.com/subject/35272817/): 我们不相信一切，我们只相信战争。
 * [《索拉里斯星》](https://book.douban.com/subject/1440243/): 这是一本科幻小说，但是与其说是科幻小说，不如说是一本哲学小说，会给人带来梦幻一般的思考。
 * [《沙之书》](https://book.douban.com/subject/25796049/): 刘慈欣用百万字写就的《三体》，博尔赫斯用了几百个字。
 * [《伊豆的舞女》](https://book.douban.com/subject/25899960/): 这本书真是无与伦比，无论是美的方面还是初恋的方面，有太多太多让我感同身受的文字了。
