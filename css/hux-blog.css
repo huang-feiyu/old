@@ -1307,7 +1307,7 @@ samp {
 .post-content-preview:hover {
   color: #0085a1;
 }
-.post-cotent-preview img {
+.post-content-preview img {
   border-radius: 10%;
   width: 40%;
 }
@@ -1315,7 +1315,7 @@ samp {
   .post-content-preview {
     font-size: 14px;
   }
-  .post-cotent-preview img {
+  .post-content-preview img {
     width: 50%;
   }
 }
