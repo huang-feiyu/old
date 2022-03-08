@@ -1309,14 +1309,14 @@ samp {
 }
 .post-content-preview img {
   border-radius: 10%;
-  width: 40%;
+  width: 50%;
 }
 @media only screen and (min-width: 768px) {
   .post-content-preview {
     font-size: 14px;
   }
   .post-content-preview img {
-    width: 50%;
+    width: 35%;
   }
 }
 .section-heading {
