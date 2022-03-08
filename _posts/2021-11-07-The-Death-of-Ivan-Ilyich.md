@@ -8,6 +8,7 @@ header-img: img/post_bg_lost-places.jpg
 catalog:    true
 tags:
    - Book-Review
+   - Tolstoy
 ---
 
 > 我也是要死的，这是不可能的。这也太可怕了！

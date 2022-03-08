@@ -6,9 +6,9 @@ date:       2021-10-05
 author:     Huang
 header-img: img/post_bg_war_and_peace.jpg
 catalog:    true
-mathjax:    true
 tags:
    - Book-Review
+   - Tolstoy
 ---
 
 > 我们总以为一旦离开走惯的道路，一切就都完了；其实美好的东西才刚刚开始呢。有生活，就有幸福。来日方长。
