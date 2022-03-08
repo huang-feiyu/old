@@ -8,6 +8,7 @@ header-img: img/post_bg_dandelion.jpg
 catalog: true
 tags:
    - Book-Review
+   - Kawabata
 ---
 
 > 小姐那双眼睛似乎在倾诉着什么。

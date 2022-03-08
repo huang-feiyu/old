@@ -8,6 +8,7 @@ header-img: img/post_bg_Steppenwolf.jpg
 catalog: true
 tags:
    - Book-Review
+   - Hesse
 ---
 
 > 不能自爱就不能爱人，憎恨自己也必憎恨他人。

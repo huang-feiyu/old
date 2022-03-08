@@ -8,6 +8,7 @@ header-img: img/post_bg_snow_country.jpg
 catalog:    true
 tags:
    - Book-Review
+   - Kawabata
 ---
 
 > 生活，本就是一种徒劳吗？

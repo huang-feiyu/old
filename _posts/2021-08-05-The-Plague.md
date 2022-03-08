@@ -8,6 +8,7 @@ header-img: img/post_bg_tunnel_man_light_entrance.jpg
 catalog: true
 tags:
    - Book-Review
+   - Camus
 ---
 
 > 用别样的监禁生活再现某种监禁生活，与用不存在的事表现真事同等合理。

@@ -8,6 +8,7 @@ header-img: img/post_bg_prison.jpg
 catalog: true
 tags:
    - Book-Review
+   - Dostoevsky
 ---
 
 > 我是想用一副直观而鲜明的图画来表现我们的整个监狱以及我这些年的人生感悟。我实现了这个目的了吗，我不知道。

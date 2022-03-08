@@ -8,6 +8,7 @@ header-img: img/post_bg_Sisyphus-myth.jpg
 catalog: true
 tags:
    - Book-Review
+   - Camus
 ---
 
 > 精神的首要活动是区别真假。然而，思想一旦反思自身，首先发现的，便是一种矛盾。

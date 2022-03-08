@@ -8,6 +8,7 @@ header-img: img/post_bg_corridor.jpg
 catalog: true
 tags:
    - Book-Review
+   - Dostoevsky
 ---
 
 > 我比任何人都清楚，我所做的这一切只会损害一个人，而不会伤及任何人。

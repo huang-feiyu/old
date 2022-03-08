@@ -8,6 +8,7 @@ header-img: img/post_bg_the_gambler_head.jpg
 catalog: true
 tags:
    - Book-Review
+   - Dostoevsky
 ---
 > 明天，明天一切都将见分晓！
 

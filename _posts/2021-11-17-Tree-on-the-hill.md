@@ -8,6 +8,7 @@ header-img: img/post_bg_tree_moon_mountain.jpg
 catalog:    false
 tags:
    - Poem
+   - Nietzsche
 ---
 
 > 选自[微信读书钱春绮译本](https://weread.qq.com/web/reader/d5632b5071a6840bd56401bkc51323901dc51ce410c121b)，对我帮助很大。感觉那个青年就是我自己，而查拉图斯特拉卸下了伪装，成为彻底的尼采。

@@ -8,6 +8,7 @@ header-img: img/post_bg_dandelion.jpg
 catalog: true
 tags:
    - Book-Review
+   - Kawabata
 ---
 
 > 因为存在于我身上的寂寞，得到了表现的机会。

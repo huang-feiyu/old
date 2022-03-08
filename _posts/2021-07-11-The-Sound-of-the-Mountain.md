@@ -8,6 +8,7 @@ header-img: img/post_bg_purple_mountain.png
 catalog: true
 tags:
    - Book-Review
+   - Kawabata
 ---
 
 ### 前言

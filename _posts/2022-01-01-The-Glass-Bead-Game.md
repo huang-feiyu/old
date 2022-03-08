@@ -8,6 +8,7 @@ header-img: img/post_bg_glass_bead.jpg
 catalog: true
 tags:
     - Book-Review
+    - Hesse
 ---
 
 > 孩子，真理是有的。但是你渴望的那种学说，绝对、完美，只有使人智慧的教条，却是没有的。

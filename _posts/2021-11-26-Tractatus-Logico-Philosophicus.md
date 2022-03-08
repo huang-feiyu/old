@@ -8,6 +8,7 @@ header-img: img/post_bg_chess_logic.jpg
 catalog: true
 tags:
     - Book-Review
+    - Wittgenstein
 ---
 
 > 对不可说的，我们必将报以沉默。

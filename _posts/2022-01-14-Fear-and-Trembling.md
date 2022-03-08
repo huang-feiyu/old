@@ -8,6 +8,7 @@ header-img: img/post_bg_door_dark.jpg
 catalog: true
 tags:
     - Book-Review
+    - Kierkegaard
 ---
 
 > 一个人必须向前，一个人必须向前。

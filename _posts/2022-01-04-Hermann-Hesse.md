@@ -8,6 +8,7 @@ header-img: img/post_bg_hesse.jpg
 catalog:    true
 tags:
    - Great-People
+   - Hesse
 ---
 
 > 啊，朋友，我不知道是否应该向你们进一步谈论孤独。

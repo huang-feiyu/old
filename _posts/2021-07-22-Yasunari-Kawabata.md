@@ -8,6 +8,7 @@ header-img: img/post_bg_chuanduankangcheng.jpg
 catalog: true
 tags:
    - Great-People
+   - Kawabata
 ---
 
 川端康成是我非常喜欢的作家，也是他为我打开了日本文学的大门。日本文学有很多人不喜欢，但是我挺喜欢的——从中能够看到一个不同角度的世界与无与伦比的美。当然，也有可能我只是喜欢某几个作家。

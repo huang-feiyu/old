@@ -8,6 +8,7 @@ header-img: img/post_bg_the_stranger.jpg
 catalog: true
 tags:
    - Book-Review
+   - Camus
 ---
 
 > 我的命运由他们决定，而根本不征求我的意见。
