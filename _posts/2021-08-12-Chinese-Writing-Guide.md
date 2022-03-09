@@ -43,7 +43,7 @@ tags:
 [^1]: [《一家早餐铺》](https://mp.weixin.qq.com/s/qSRbDvwZAOJETWB7HNYJIQ)
 [^2]: [《去掉“了”字》](https://mp.weixin.qq.com/s/2vGoIge8lgycrZdIVU1PmQ)
 [^3]: [《写作进阶教程：如何描写动物》](https://mp.weixin.qq.com/s/u-bS2bPjOcQSNpnyVqvtxw)
-[^4]: [《写作的价值》](https://mp.weixin.qq.com/s/MEsd_ly2c_JyJGyFN63S6w)>
+[^4]: [《写作的价值》](https://mp.weixin.qq.com/s/MEsd_ly2c_JyJGyFN63S6w)
 [^5]: [《真实并不是素材》](https://mp.weixin.qq.com/s/L0LMUeyJGIMuTsUfDAsmGg)
 [^6]: [《虎皮青椒》](https://mp.weixin.qq.com/s/AYiUAaXL92ArMqYZNEOlwg)
 [^7]: [《写文字，还是拍视频》](https://mp.weixin.qq.com/s/lEpCwHSMn-GWatKtElvZBw)
