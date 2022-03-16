@@ -84,6 +84,7 @@ header-img: img/post_bg_recommend.jpg
 * [Ottertune](https://ottertune.com/blog/): Everything about database.
 * [RuanYifeng](http://www.ruanyifeng.com/home.html): 阮一峰的博客，每周会有科技周刊。
 * [Shyrism](https://shyrz.me/): 博客月刊。
+* [xiebq](http://xiebq.blogspot.com/): 一个人的记事本。
 
 ### 播客
 
