@@ -90,6 +90,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay-45](https://huang-feiyu.github.io/2022/02/15/Essay-45): 可计算利益
 * [Essay-46](https://huang-feiyu.github.io/2022/02/24/Essay-46): 一些零碎的想法
 * [Essay-47](https://huang-feiyu.github.io/2022/03/04/Essay-47): 对LGBT的一些想法
+* [Essay-48](https://huang-feiyu.github.io/2022/03/16/Essay-48): 与他人的关系
 
 #### Book Review
 
@@ -98,7 +99,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Notes-from-Underground](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground): 《地下室手记》
 * [Crime-and-Punishment](https://huang-feiyu.github.io/2021/08/15/Crime-and-Punishment): 《罪与罚》
 * [Demons](https://huang-feiyu.github.io/2021/08/09/Demons): 《群魔》
-* [The-Idiot](https://huang-feiyu.github.io/2021/06/05/The-Idiot): 《白痴》 
+* [The-Idiot](https://huang-feiyu.github.io/2021/06/05/The-Idiot): 《白痴》
 * [Humiliated-and-Insulted](https://huang-feiyu.github.io/2021/07/10/Humiliated-and-Insulted): 《被伤害与侮辱的人们》
 * [The-Gambler](https://huang-feiyu.github.io/2021/05/28/The-Gambler): 《赌徒》
 * [Notes-from-the-Dead-House](https://huang-feiyu.github.io/2021/06/16/Notes-from-the-Dead-House): 《死屋手记》
@@ -123,7 +124,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [The-Stranger](https://huang-feiyu.github.io/2021/07/28/The-Stranger): 《局外人》
 * [Sisiyphus-myth](https://huang-feiyu.github.io/2021/08/04/Sisiyphus-myth): 《西西弗神话》
 * [The-Plague](https://huang-feiyu.github.io/2021/08/05/The-Plague): 《鼠疫》
-* [The-Rebel](https://huang-feiyu.github.io/2021/06/26/The-Rebel): 《反抗者》   
+* [The-Rebel](https://huang-feiyu.github.io/2021/06/26/The-Rebel): 《反抗者》
 
 ###### 伊塔洛·卡尔维诺
 * [Our-ancestors](https://huang-feiyu.github.io/2021/06/06/Our-ancestors): 《分成两半的子爵》《不存在的骑士》《树上的男爵》
@@ -145,7 +146,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Neapolitan-Novels](https://huang-feiyu.github.io/2021/07/02/Neapolitan-Novels): 《我的天才女友》《新名字的故事》《离开的，留下的》《失踪的孩子》
 * [Xiaoyin-and-I](https://huang-feiyu.github.io/2021/08/02/Xiaoyin-and-I): 《小银和我》
 * [Augustus](https://huang-feiyu.github.io/2021/05/27/Augustus): 《奥古斯都》
-* [Essays-in-Love](https://huang-feiyu.github.io/2021/06/04/Essays-in-Love): 《爱情笔记》 
+* [Essays-in-Love](https://huang-feiyu.github.io/2021/06/04/Essays-in-Love): 《爱情笔记》
 * [Dying-in-Venice](https://huang-feiyu.github.io/2021/06/09/Dying-in-Venice): 《死于威尼斯》
 * [The-Buhhda](https://huang-feiyu.github.io/2021/05/30/The-Buddha): 《佛陀》
 * [To-Kill-a-Mockingbird](https://huang-feiyu.github.io/2021/07/18/To-Kill-a-Mockingbird): 《杀死一只知更鸟》
@@ -163,7 +164,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 #### Poem
 * 尼采
   * [Tree-on-the-hill](https://huang-feiyu.github.io/2021/11/17/Tree-on-the-hill): 《山上的树》
-* 聂鲁达 
+* 聂鲁达
     * [Twenty-Love-Poems-and-a-Song-of-Despair](https://huang-feiyu.github.io/2021/05/29/Twenty-Love-Poems-and-a-Song-of-Despair): 《二十首情诗和一首绝望的歌》
     * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
