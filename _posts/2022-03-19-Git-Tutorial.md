@@ -2,7 +2,7 @@
 layout:     post
 title:      Git-Tutorial
 subtitle:   Git 简明教程
-date:       2022-03-19
+date:       2022-03-30
 author:     Huang
 header-img: img/post_bg_woman_dark_wedding_dress.jpg
 catalog:    true
