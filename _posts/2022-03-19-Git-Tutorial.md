@@ -290,14 +290,156 @@ git cherry-pick [commit]
 
 ### 阶段三：GitHub
 
-> To be continue.
+> 本阶段分节采用 PA 实验的分节方式，对于使用示例 PA 2 进行讲解。
+>
+> 为了更好地完成本部分内容，本阶段将使用两个账号进行操作：[huang-feiyu](https://github.com/huang-feiyu) 与 [i-want-to-eat-flying-fish](https://github.com/i-want-to-eat-flying-fish)。
+
+###### PR 简介
+
+PR 全称 Pull Request，是全球各地开发者在 GitHub 进行协作的主要手段。（此外还有 issue，由于太过简单，这里不作介绍）Pull Request 本质上是一种软件的合作方式，是将涉及不同功能的代码，纳入主干的一种流程。这个过程中，还可以进行讨论、审核和修改代码。
+
+此前所谈论的 GitHub Workflow，即维护一个分支，依靠提交 PR 向项目推送迭代更新操作。
+
+###### PA 2-3：提交 PR
+
+一、`fork` 仓库
+
+进入到 [git-tutorial](https://github.com/huang-feiyu/git-tutorial) 仓库，点击右上角的 `fork` 按钮。完成操作后，就能够在自己的页面看到仓库。
+
+二、远程仓库
+
+clone **自己的**仓库到本地，在命令行上进行操作。
+
+查看远程仓库：
+
+```bash
+git remote -v
+
+# => 只有自己的仓库，下面为REPL的Reply
+origin  https://github.com/i-want-to-eat-flying-fish/git-tutorial (fetch)
+origin  https://github.com/i-want-to-eat-flying-fish/git-tutorial (push)
+```
+
+此时还需要与[起初的仓库](https://github.com/huang-feiyu/git-tutorial)建立联系，即此前项目作为 上游仓库 (upstream)：
+
+```bash
+git remote add upstream https://github.com/huang-feiyu/git-tutorial
+```
+
+再次使用 `git remote -v` 命令能够观察到上游仓库已经被添加。
+
+三、提交 commit
+
+与前面所说的 PA1-3 类似，采用 GitHub Workflow。
+
+```bash
+# 创建分支
+git checkout -b pa2-3
+
+# 在本地完成修改操作
+
+# 创建commit
+git add .
+git commit -m "finish pa2-3"
+
+# 推送到自己的仓库中
+git push origin pa2-3 # 不要推送到上游仓库，因为没有权限
+```
+
+由于切换账号的问题，我在本地无法 push 到 origin，所以采用 GUI 操作，即在 GitHub 网页进行操作。这与使用上面操作是等价的。
+
+<strong>*</strong> 在 `push` 之前还需要拉取上游仓库的最新修改：
+
+```bash
+git fetch upstream
+# 合并上游修改
+git rebase upstream/main
+
+# 如果存在冲突，修改文件冲突再进行提交
+git rebase --continue
+```
+
+更多有关 `rebase`，请参见 [Git 分支-变基](https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%8F%98%E5%9F%BA)。
+
+四、创建 PR
+
+进入自己的仓库，可以看到 "`pa2-3` had recent pushes 1 minute ago `Compare & pull request`"。
+
+点击 <font color=green>`Compare & pull request`</font> ，可以看到<font color=green>This branch has no conflicts with the base branch</font>。之后就等待 maintainer 进行 check 和 merge 了。
+
+<strong>*</strong> 一般来说，长期维护的项目 PR 都会很快地被审查。
+
+###### PA 2-1：合并 commit
+
+提交 PR 可能并不是一个 commit 就能够搞定的，往往会做一些修改，然后再提交 commit。最后可能出现多个 commit，此时就需要合并为一个 commit。
+
+而 PA 2-1 需要实现很多个指令，此时合并 commit 也就迫在眉睫。由于已经在前面演示了如何提交 PR，此处选择在本地进行操作。
+
+〇、创建多个 commit
+
+使用 `git lg` 查看：
+
+```console
+* d2975e0 - (HEAD -> main) finish `and` (11 seconds ago) <huang-feiyu>
+* 7c45695 - finish `add.c` (39 seconds ago) <huang-feiyu>
+* b8b655d - finish `adc.c` (67 seconds ago) <huang-feiyu>
+*   531c749 - (origin/main) Merge pull request #1 from i-want-to-eat-flying-fish/pa2-3 (30 minutes ago) <Huang>
+```
+
+一、合并分支
+
+此时需要合并 `d2975e0`、`7c45695`、`b8b655d`：
+
+```bash
+# 从HEAD开始往后3个commit
+git rebase -i HEAD~3
+
+# 等价命令：合并之前的版本号
+git rebase -i 531c749 # 不包含此版本
+```
+
+二、进入到 REPL 或 Editor 中
+
+vim 中显示为：
+
+```gitrebase
+pick b8b655d finish `adc.c`
+pick 7c45695 finish `add.c`
+pick d2975e0 finish `and`
+```
+
+修改为：
+
+```gitrebase
+pick b8b655d finish `adc.c` `add.c` `and.c`
+s 7c45695 finish `add.c`
+s d2975e0 finish `and`
+```
+
+* pick：简写为 `p`，选择合并到此 commit
+* squash：简写为 `s`， 此 commit 会被合并到前一个 commit（有一点递归的思想）
+
+<strong>*</strong> 如果出现错误可以使用 `git rebase --abort` 回溯。
+
+特殊地，合并**最近**两个 commit，可以使用：
+
+```bash
+git reset --soft HEAD^1
+git commit --amend
+```
+
+###### 最后
+
+Git 是非常强大的工具，此篇文章仅仅介绍了能够让人正常使用的命令。更多有关 Git 的资料可以看下面的参考资料，也期待每个人都能够使用规范的操作。
 
 ### 参考资料
 
-1. [Git for Professional](https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org)
-2. [Pro Git](https://www.progit.cn/)
-3. [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-4. [Git 命令清单](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
-5. [Git 远程操作详解](https://www.ruanyifeng.com/blog/2014/06/git_remote.html)
-6. [Git 使用规范](https://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
-7. [Git tips](https://github.com/521xueweihan/git-tips)
+1. [Pro Git](https://www.progit.cn/)
+2. [Git tips](https://github.com/521xueweihan/git-tips)
+3. [Ruanyifeng: Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+4. [Ruanyifeng: Git 命令清单](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+5. [Ruanyifeng: Git 远程操作详解](https://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+6. [Ruanyifeng: Git 使用规范](https://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
+7. [Ruanyifeng: Pull Request 的命令行管理](https://www.ruanyifeng.com/blog/2017/07/pull_request.html)
+8. [YouTube: Git for Professional](https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org)
+9. [Stackoverflow: Combining multiple commits before pushing in Git](https://stackoverflow.com/questions/6934752/combining-multiple-commits-before-pushing-in-git)
