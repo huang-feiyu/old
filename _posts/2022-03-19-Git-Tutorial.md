@@ -7,7 +7,7 @@ author:     Huang
 header-img: img/post_bg_git_natural.jpg
 catalog:    true
 tags:
-   - Other
+   - Guide
 ---
 
 > 不同于其他技术性文章，本篇文章致力于通过示例理解**使用 Git** 进行版本控制管理的 WorkFlow。

@@ -7,7 +7,7 @@ author:     Huang
 header-img: img/post_bg_pen_writing.jpg
 catalog: true
 tags:
-   - Writing
+   - Guide
 ---
 
 ### 前言

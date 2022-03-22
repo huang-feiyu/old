@@ -29,6 +29,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay](https://github.com/huang-feiyu/huang-feiyu.github.io#essay)
 * [Book-Review](https://github.com/huang-feiyu/huang-feiyu.github.io#book-review)
   * [陀思妥耶夫斯基](https://github.com/huang-feiyu/huang-feiyu.github.io#%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA)
+  * [索伦·克尔凯郭尔](https://github.com/huang-feiyu/huang-feiyu.github.io#%E7%B4%A2%E4%BC%A6%E5%85%8B%E5%B0%94%E5%87%AF%E9%83%AD%E5%B0%94)
   * [列夫·托尔斯泰](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%88%97%E5%A4%AB%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0)
   * [赫尔曼·黑塞](https://github.com/huang-feiyu/huang-feiyu.github.io#%E8%B5%AB%E5%B0%94%E6%9B%BC%E9%BB%91%E5%A1%9E)
   * [川端康成](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90)
@@ -36,7 +37,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
   * [伊塔洛·卡尔维诺](https://github.com/huang-feiyu/huang-feiyu.github.io#%E4%BC%8A%E5%A1%94%E6%B4%9B%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA)
   * [弗朗茨·卡夫卡](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%BC%97%E6%9C%97%E8%8C%A8%E5%8D%A1%E5%A4%AB%E5%8D%A1)
   * [其他作家](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%85%B6%E4%BB%96%E4%BD%9C%E5%AE%B6)
-* [Writing](https://github.com/huang-feiyu/huang-feiyu.github.io#writing)
+* [Guide](https://github.com/huang-feiyu/huang-feiyu.github.io#guide)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
 * [Translation](https://github.com/huang-feiyu/huang-feiyu.github.io#translation)
@@ -105,6 +106,11 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Notes-from-the-Dead-House](https://huang-feiyu.github.io/2021/06/16/Notes-from-the-Dead-House): 《死屋手记》
 * [White-night](https://huang-feiyu.github.io/2021/05/28/White-night): 《白夜》
 
+###### 索伦·克尔凯郭尔
+* [Fear-and-Trembling](https://huang-feiyu.github.io/2022/01/14/Fear-and-Trembling): 《恐惧与颤栗》
+* [Don-Giovanni](https://huang-feiyu.github.io/2022/03/22/Don-Giovanni): 《唐璜》（《非此即彼（上卷）》上半部分）
+
+
 ###### 列夫·托尔斯泰
 * [War-and-Peace](https://huang-feiyu.github.io/2021/10/05/War-and-Peace): 《战争与和平》
 * [Death-of-Ivan-Ilyich](https://huang-feiyu.github.io/2021/11/07/The-Death-of-Ivan-Ilyich): 《伊凡·伊里奇之死》
@@ -136,7 +142,6 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [The-Trial](https://huang-feiyu.github.io/2021/07/16/The-Trial): 《审判》
 
 ###### 其他作家
-* [Fear-and-Trembling](https://huang-feiyu.github.io/2022/01/14/Fear-and-Trembling): 《恐惧与颤栗》
 * [Tractatus-Logico-Philosophicus](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus): 《逻辑哲学论》
 * [Solaris](https://huang-feiyu.github.io/2021/08/22/Solaris): 《索拉里斯星》
 * [The-temple-of-the-Golden-Pavilion](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion): 《金阁寺》
@@ -152,8 +157,9 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [The-Buhhda](https://huang-feiyu.github.io/2021/05/30/The-Buddha): 《佛陀》
 * [To-Kill-a-Mockingbird](https://huang-feiyu.github.io/2021/07/18/To-Kill-a-Mockingbird): 《杀死一只知更鸟》
 
-#### Writing
+#### Guide
 * [Chinese-Writing-Guide](https://huang-feiyu.github.io/2021/08/12/Chinese-Writing-Guide): 中文写作指南
+* [Git-Tutorial](https://huang-feiyu.github.io/2022/03/19/Git-Tutorial): Git简明教程
 
 #### Great-People
 * [Dostoevsky](https://huang-feiyu.github.io/2021/11/11/Dostoevsky): 陀思妥耶夫斯基
@@ -184,5 +190,4 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Happy-Birthday](https://huang-feiyu.github.io/2021/11/13/Happy-Birthday): 生日快乐
 * [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
 * [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
-* [Git-Tutorial](https://huang-feiyu.github.io/2022/03/19/Git-Tutorial): Git简明教程
 * [Data-Analysis-A-Skill-and-Industry](https://huang-feiyu.github.io/2021/09/04/Data-Anaysis-A-Skill-and-Industry): 作为技能和行业的数据分析
