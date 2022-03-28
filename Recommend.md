@@ -16,7 +16,7 @@ header-img: img/post_bg_recommend.jpg
 
 
 ### 书籍
-<s>我建了一个我的<a href=https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/mybook.db>书籍数据库</a>（弃用），可以使用 SQL 索引看到我大学以来阅读的几乎所有非专业书，</s>在此只推荐我认为非常好的。（除了《爱情笔记》，该书只是我想要强调：不要毫无准备地坠入爱情的陷阱中。）
+<s>我建了一个我的书籍数据库（弃用），可以使用 SQL 索引看到我大学以来阅读的几乎所有非专业书，</s>在此只推荐我认为非常好的。（除了《爱情笔记》，该书只是我想要强调：不要毫无准备地坠入爱情的陷阱中。）
 
 * [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
 * [《庄子》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
