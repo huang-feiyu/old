@@ -92,7 +92,7 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [Essay-46](https://huang-feiyu.github.io/2022/02/24/Essay-46): 一些零碎的想法
 * [Essay-47](https://huang-feiyu.github.io/2022/03/04/Essay-47): 对LGBT的一些想法
 * [Essay-48](https://huang-feiyu.github.io/2022/03/16/Essay-48): 与他人的关系
-* [Essay-48](https://huang-feiyu.github.io/2022/03/28/Essay-49): 最不幸的人
+* [Essay-49](https://huang-feiyu.github.io/2022/03/28/Essay-49): 最不幸的人
 
 #### Book Review
 
