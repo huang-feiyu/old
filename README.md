@@ -4,7 +4,7 @@
 
 我说过，我不愿说谎。
 
-Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
+Telegram和我直接沟通 [t.me/huangfeiyu](https://t.me/huangfeiyu), 反正这也是匿名的。
 
 ### 目的：
 
