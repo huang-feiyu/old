@@ -19,6 +19,7 @@ header-img: img/post_bg_recommend.jpg
 <s>我建了一个我的书籍数据库（弃用），可以使用 SQL 索引看到我大学以来阅读的几乎所有非专业书，</s>在此只推荐我认为非常好的。（除了《爱情笔记》，该书只是我想要强调：不要毫无准备地坠入爱情的陷阱中。）
 
 * [《卡拉马佐夫兄弟》](https://book.douban.com/subject/25887924/): 你相信人类能写出超过宇宙的东西吗？我相信。
+* [《非此即彼（上卷）》](https://book.douban.com/subject/3987027/): 克尔凯郭尔刻画的不是一个生命的残片，而是一个镜子迷宫，每个人都能看到自己。
 * [《庄子》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
 * [《地下室手记》](https://book.douban.com/subject/34990839/): 陀思妥耶夫斯基的作品，地下室人的自白，拷问着你的灵魂。
 * [《逻辑哲学论》](https://book.douban.com/subject/35540677/): 维特根斯坦给我带来了世界的全新图景，我相信你也能从这部作品中得到一些非比寻常的体会。
@@ -49,6 +50,7 @@ header-img: img/post_bg_recommend.jpg
 ### 电影
 
 * [秋日奏鸣曲](https://movie.douban.com/subject/1297268/): 伯格曼能够重新定义你对于电影的看法，这部电影让我无法呼吸。
+* [乡愁](https://movie.douban.com/subject/1291556/): 是不是每个人都会死在异乡？悲哀将会永远伴随离开母亲的人。
 * [飞向太空](https://movie.douban.com/subject/1300977/): 塔可夫斯基的长镜头，诗歌的具现化。
 * [城市之光](https://movie.douban.com/subject/1293908/): 卓别林能带给你不一样的视角，我们到底是否应该评判他人？这部电影会告诉你答案，还有更多问题与痛苦。
 * [美丽人生](https://movie.douban.com/subject/1292063/): 绞刑架下的幽默，完美展现了什么是荒诞。
@@ -73,6 +75,7 @@ header-img: img/post_bg_recommend.jpg
 * [《Are we in the Midst of the Sixth Mass Extinction》](https://www.sciencealert.com/here-s-how-biodiversity-experts-recognise-that-we-re-midst-a-mass-extinction)
 * [《卡钦斯基：工业社会及其未来》](https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html)
 * [《一代人有一代人的翻译》](https://huangfeiyu.blogspot.com/2021/06/article-1-translation.html)
+* [《因为乌克兰战争，我输给德国人一只北京烤鸭》](https://mp.weixin.qq.com/s/tEowe1on_MTwfBhZNcpc7A)
 * [《在气候议题上，别急着批评中国》](https://cn.nytimes.com/opinion/20211108/cop26-china-climate/)
 * [《成为一名程序员》](../Resources/成为一名程序员.md)
 * [《平平静静的说说中国的科研》](http://www.ruanyifeng.com/blog/2010/07/my_thoughts_on_china_scientific_research.html)
@@ -86,6 +89,7 @@ header-img: img/post_bg_recommend.jpg
 * [野生架构师周刊](https://www.getrevue.co/profile/lcomplete)
 * [Shyrism](https://shyrz.me/): 博客月刊。
 * [xiebq](http://xiebq.blogspot.com/): 一个人的记事本。
+* [槽边往事](http://mp.weixin.qq.com/profile?src=3&timestamp=1648986782&ver=1&signature=4SIcXV37PKLPGi6qTHfgZmtcgq8r7gu5lNANXqNCVwyB0IrePvlKvJGlIHeb7WTrtOzgF2cPRj449hXlx1r0FQ==): 骨灰级网民。
 
 ### 播客
 
@@ -101,8 +105,9 @@ header-img: img/post_bg_recommend.jpg
   * [MIT: Introduction to Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm): 利用 Python 讲的计算机科学入门课程。
   * [Princeton: Algorithm](https://www.coursera.org/learn/algorithms-part1/home/welcome): Part I, Part II很好的课程，很好的教科书[《算法 第四版》](https://item.jd.com/11098789.html)。
   * [NJU: Introduction to Computer System](https://www.icourse163.org/course/NJU-1001625001): 南京大学的计算机系统基础课程（一）至（五），有配套的 PA 实验。
-  * [UW: Programming Language](https://www.coursera.org/learn/programming-languages/home/welcome): 程序设计语言，讲面向对象和函数式编程。（还没有开始学习。）
-  * [CMU: CS 15-445](https://15445.courses.cs.cmu.edu/fall2020/): ~~我正在学习的课程，~~数据库入门，暂且搁置，现在听不太懂—— course 13。
+  * [UCB: CS61C](https://inst.eecs.berkeley.edu/~cs61c/su20/): 计算机体系结构的伟大思想，有配套的实验和项目。（正在学习）
+  * [UW: Programming Language](https://www.coursera.org/learn/programming-languages/home/welcome): 程序设计语言，讲面向对象和函数式编程。（正在学习）
+  * [CMU: CS 15-445](https://15445.courses.cs.cmu.edu/fall2020/): 数据库入门，暂且搁置，现在听不太懂
 * 哲学
   * [Harvard: Justice](https://justiceharvard.org/): 正义课，哲学入门课程。
   * [Yale: Death](https://oyc.yale.edu/death/phil-176): 死亡课，很有意思的入门课。
@@ -118,7 +123,8 @@ header-img: img/post_bg_recommend.jpg
 * [Windows Terminal](https://github.com/microsoft/terminal): 与 WSL 一起使用可以得到更好的效果。
 * [JetBrains 全家桶](https://www.jetbrains.com/?var=1): 各种 IDE 都有，而且学生免费。
 * [Typora](https://typora.io/): 除了不支持 vim，其他都挺好的。
-* [Vim](https://www.vim.org/): 编辑器之神, 配合 Windows Terminal (WSL) 使用。
+* [Vim](https://www.vim.org/): 编辑器之神，配合 Windows Terminal (WSL) 使用。
+* [VS Code](https://code.visualstudio.com/): 现代编辑器之神。
 * [Git](https://git-scm.com/): 非常优秀的版本控制工具。
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge): 很好的 PDF 阅读器。
 * [iVCam](https://www.e2esoft.com/ivcam/): 手机连接电脑作为虚拟摄像头。
@@ -130,6 +136,8 @@ header-img: img/post_bg_recommend.jpg
 
 * [Computer Science](https://github.com/huang-feiyu/computer-science)
 * [Database Learning](https://github.com/huang-feiyu/Learning-Space/tree/master/Other/awesome-database-learning)
+* [名校公开课评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
+* [CS 自学指南](https://csdiy.wiki/)
 * [Qwerty Learner](https://qwerty.kaiyi.cool/): 神·练打字 + 学英语 + 学编程网站。
 * **[一位帅哥](https://huang-feiyu.github.io/about)**: 如果对于一些人生上的问题可以用 [Telegram](https://t.me/huangfeiyu) 和我交流一下，如果你愿意的话。
 
