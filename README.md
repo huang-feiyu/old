@@ -108,9 +108,9 @@ Telegram和我直接沟通 https://t.me/huangfeiyu, 反正这也是匿名的。
 * [White-night](https://huang-feiyu.github.io/2021/05/28/White-night): 《白夜》
 
 ###### 索伦·克尔凯郭尔
+* [Diary-of-a-Seducer](https://huang-feiyu.github.io/2022/04/03/Diary-of-a-Seducer): 《诱惑者日记》（《非此即彼（上卷）》下半部分）
 * [Fear-and-Trembling](https://huang-feiyu.github.io/2022/01/14/Fear-and-Trembling): 《恐惧与颤栗》
 * [Don-Giovanni](https://huang-feiyu.github.io/2022/03/22/Don-Giovanni): 《唐璜》（《非此即彼（上卷）》上半部分）
-
 
 ###### 列夫·托尔斯泰
 * [War-and-Peace](https://huang-feiyu.github.io/2021/10/05/War-and-Peace): 《战争与和平》
