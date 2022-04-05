@@ -93,6 +93,7 @@ Telegram和我直接沟通 [t.me/huangfeiyu](https://t.me/huangfeiyu), 反正这
 * [Essay-47](https://huang-feiyu.github.io/2022/03/04/Essay-47): 对LGBT的一些想法
 * [Essay-48](https://huang-feiyu.github.io/2022/03/16/Essay-48): 与他人的关系
 * [Essay-49](https://huang-feiyu.github.io/2022/03/28/Essay-49): 最不幸的人
+* [Essay-50](https://huang-feiyu.github.io/2022/04/05/Essay-50): 孩子与成人
 
 #### Book Review
 
