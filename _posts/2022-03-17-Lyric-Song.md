@@ -3,7 +3,7 @@ layout:     post
 title:      Lyric-Song
 subtitle:   《抒情歌》
 date:       2022-03-17
-author:     川端康成
+author:     Kawabata
 header-img: img/post_bg_clouds.jpg
 catalog: false
 tags:
