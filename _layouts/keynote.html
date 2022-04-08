@@ -46,7 +46,7 @@ layout: default
                         {% comment %} if page.subtitle {% endcomment %}
                         <h2 class="subheading">{{ page.subtitle }}</h2>
                         {% comment %} endif {% endcomment %}
-                        <span class="meta">Written by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}, Posted by Huang on {{ page.date | date: "%B %-d, %Y" }}</span>
+                        <span class="meta">Written by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}, Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
                     </div>
                 </div>
             </div>
