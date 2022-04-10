@@ -173,6 +173,7 @@ Telegram和我直接沟通 [t.me/huangfeiyu](https://t.me/huangfeiyu), 反正这
 
 #### Poem
 * 尼采
+  * [Tightrope-Walker](https://huang-feiyu.github.io/2022/04/10/Tightrope-Walker): 《走钢丝者》
   * [Tree-on-the-hill](https://huang-feiyu.github.io/2021/11/17/Tree-on-the-hill): 《山上的树》
 * 聂鲁达
     * [Twenty-Love-Poems-and-a-Song-of-Despair](https://huang-feiyu.github.io/2021/05/29/Twenty-Love-Poems-and-a-Song-of-Despair): 《二十首情诗和一首绝望的歌》
