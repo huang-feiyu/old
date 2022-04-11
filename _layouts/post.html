@@ -37,10 +37,7 @@ layout: default
                     {% comment %}
                         always create a h2 for keeping the margin , Hux
                     {% endcomment %}
-                    {% comment %} if page.subtitle and page.comment {% endcomment %}
-                        <h2 class="subheading"><a href="https://t.me/huangblog/{{ page.comment }}" target="_blank">{{ page.subtitle }}</a></h2>
-                    {% comment %} endif {% endcomment %}
-                    {% comment %} if page.subtitle and not page.comment {% endcomment %}
+                    {% comment %} if page.subtitle {% endcomment %}
                         <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
                     <span class="meta">Written by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}, posted on {{ page.date | date: "%B %-d, %Y" }}</span>
@@ -62,6 +59,10 @@ layout: default
                 post-container">
 
 				{{ content }}
+
+                {% if page.comment %}
+                    <font face="verdana"><bold><a href="https://t.me/huangblog/{{ page.comment }}" target="_blank" style="width:100%;display:block;text-align:center;padding:.5em;background-color: lightgray;color: black;border-radius:4px;box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);text-decoration:none">Comment Area in Telegram Channel</a></bold></font>
+                {% endif %}
 
                 <hr style="visibility: hidden;">
 
