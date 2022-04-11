@@ -41,6 +41,9 @@ layout: default
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
                     <span class="meta">Written by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}, posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    {% comment %} if page.comment {% endcomment %}
+                    <span class="meta"><a href="https://t.me/huangblog/{{ page.comment }}">Comment Area</a></span>
+                    {% comment %} endif {% endcomment %}
                 </div>
             </div>
         </div>

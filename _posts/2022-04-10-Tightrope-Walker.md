@@ -5,6 +5,7 @@ subtitle:   《走钢丝者》
 date:       2022-04-10
 author:     Nietzsche
 header-img: img/post_bg_tightrope_walker.jpg
+comment:    10
 catalog:    false
 tags:
    - Poem
