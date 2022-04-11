@@ -91,7 +91,7 @@ service-worker: false
 # Friends
 friends: [
     {
-        title: "书单·生活·豆瓣",
+        title: "书单·豆瓣",
         href: "https://www.douban.com/people/huang-feiyu/"
     },
     {
