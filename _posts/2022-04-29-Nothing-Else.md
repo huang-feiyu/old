@@ -88,9 +88,9 @@ tags:
 
 ### Bridge
 
-<font face="verdana">Just the way you are<br/>Just the way you are<br/>Just the way you are<br/>Just the way you are <i>(I like you)</i><br/>Just the way you are <i>(I like you)</i><br/>Just the way you are<br/>Just the way you are <i>(Just the way you are)</i><br/>Just the way you are <i>(Just the way you are)</i></font>
+<div><font face="verdana">Just the way you are<br/>Just the way you are<br/>Just the way you are<br/>Just the way you are <i>(I like you)</i><br/>Just the way you are <i>(I like you)</i><br/>Just the way you are<br/>Just the way you are <i>(Just the way you are)</i><br/>Just the way you are <i>(Just the way you are)</i></font></div>
 
-<font face="verdana"><strong>I like you</strong></font>
+<div><font face="verdana"><strong>I like you</strong></font></div>
 
 ###### Chorus
 
