@@ -34,6 +34,7 @@
   * [阿尔贝·加缪](https://github.com/huang-feiyu/huang-feiyu.github.io#%E9%98%BF%E5%B0%94%E8%B4%9D%E5%8A%A0%E7%BC%AA)
   * [伊塔洛·卡尔维诺](https://github.com/huang-feiyu/huang-feiyu.github.io#%E4%BC%8A%E5%A1%94%E6%B4%9B%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA)
   * [弗朗茨·卡夫卡](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%BC%97%E6%9C%97%E8%8C%A8%E5%8D%A1%E5%A4%AB%E5%8D%A1)
+  * [若泽·萨拉马戈](https://github.com/huang-feiyu/huang-feiyu.github.io#%E8%8B%A5%E6%B3%BD%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88)
   * [其他作家](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%85%B6%E4%BB%96%E4%BD%9C%E5%AE%B6)
 * [Guide](https://github.com/huang-feiyu/huang-feiyu.github.io#guide)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
@@ -144,9 +145,12 @@
 * [The-Castle](https://huang-feiyu.github.io/2021/07/12/The-Castle): 《城堡》
 * [The-Trial](https://huang-feiyu.github.io/2021/07/16/The-Trial): 《审判》
 
+###### 若泽·萨拉马戈
+* [Blindness-essay](https://huang-feiyu.github.io/2022/04/23/Blindness-essay): 《失明症漫记》
+* [Seeing-essay](https://huang-feiyu.github.io/2022/05/01/Seeing-essay): 《复明症漫记》
+
 ###### 其他作家
 * [Tractatus-Logico-Philosophicus](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus): 《逻辑哲学论》
-* [Blindness-essay](https://huang-feiyu.github.io/2022/04/23/Blindness-essay): 《失明症漫记》
 * [Solaris](https://huang-feiyu.github.io/2021/08/22/Solaris): 《索拉里斯星》
 * [The-temple-of-the-Golden-Pavilion](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion): 《金阁寺》
 * [Im-Westen-nichts-Neues](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues): 《西线无战事》
