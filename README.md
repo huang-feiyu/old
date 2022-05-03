@@ -96,6 +96,7 @@
 * [Essay-51](https://huang-feiyu.github.io/2022/04/08/Essay-51): 自我审视的一些想法 (精神世界的过度扩张)
 * [Essay-52](https://huang-feiyu.github.io/2022/04/17/Essay-52): 虚构与真实的距离
 * [Essay-53](https://huang-feiyu.github.io/2022/04/19/Essay-53): 记凌晨的深圳地铁
+* [Essay-54](https://huang-feiyu.github.io/2022/05/03/Essay-54): 如何做到平衡
 
 #### Book Review
 
