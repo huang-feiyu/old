@@ -97,6 +97,7 @@
 * [Essay-52](https://huang-feiyu.github.io/2022/04/17/Essay-52): 虚构与真实的距离
 * [Essay-53](https://huang-feiyu.github.io/2022/04/19/Essay-53): 记凌晨的深圳地铁
 * [Essay-54](https://huang-feiyu.github.io/2022/05/03/Essay-54): 如何做到平衡
+* [Essay-55](https://huang-feiyu.github.io/2022/05/12/Essay-55): 承担孤单的方式
 
 #### Book Review
 
