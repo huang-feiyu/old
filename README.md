@@ -98,6 +98,7 @@
 * [Essay-53](https://huang-feiyu.github.io/2022/04/19/Essay-53): 记凌晨的深圳地铁
 * [Essay-54](https://huang-feiyu.github.io/2022/05/03/Essay-54): 如何做到平衡
 * [Essay-55](https://huang-feiyu.github.io/2022/05/12/Essay-55): 承担孤单的方式
+* [Essay-56](https://huang-feiyu.github.io/2022/05/18/Essay-56): 生的界定内
 
 #### Book Review
 
