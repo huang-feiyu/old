@@ -100,6 +100,7 @@
 * [Essay-55](https://huang-feiyu.github.io/2022/05/12/Essay-55): 承担孤单的方式
 * [Essay-56](https://huang-feiyu.github.io/2022/05/18/Essay-56): 生的界定内
 * [Essay-57](https://huang-feiyu.github.io/2022/05/22/Essay-57): 地下室人的享受
+* [Essay-58](https://huang-feiyu.github.io/2022/05/28/Essay-58): 无意识的抗争：焦虑与放松
 
 #### Book Review
 
