@@ -14,7 +14,7 @@ tags:
 
 > 他留下的自己尘世间的理智，他带上了自己的信仰。
 
-### <font face="verdanna">Kierkegaard</font>
+### <font face="century">Kierkegaard</font>
 
 > 本标题下为 Stanford Encyclopedia of Philosophy [*Kierkegaard*](https://plato.stanford.edu/entries/kierkegaard/) 词条的翻译。
 
@@ -24,7 +24,7 @@ tags:
 
 **索伦·奥比·克尔凯郭尔**（1813-1855）是[丹麦黄金时代](https://zh.wikipedia.org/wiki/%E4%B8%B9%E9%BA%A6%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3)的一位深刻而多产的作家。他的作品跨越了哲学、神学、心理学、文学批评、宗教文学与小说的边界。为了革新基督教信仰，克尔凯郭尔以这种混合话语对基督教世界进行了强有力的社会批判。与此同时，对他所从事的每个学科，克氏都做出过众多原创性的概念贡献。他因作为“存在主义之父”而广为人知，然而他还做过许多更重要的事情：他对于黑格尔与德国浪漫主义的批判，他对现代主义做出的杰出贡献，他的实验性文学风格，他在现代意义上对圣经人物的鲜活再现，他发明的那些被思想家探索与重新理解的重要概念，他对当代丹麦教会政治的强有力干涉、他对基督教信仰分析与复兴的激情尝试。
 
-###### <font face="verdanna">1. Kierkegaard’s Life</font>
+###### <font face="century">1. Kierkegaard’s Life</font>
 
 <font face="verdana">Kierkegaard led a somewhat uneventful life. He rarely left his hometown of Copenhagen, and travelled abroad only five times—four times to Berlin and once to Sweden. His prime recreational activities were attending the theatre, walking the streets of Copenhagen to chat with ordinary people, and taking brief carriage jaunts into the surrounding countryside. He was educated at a prestigious boys’ school (<i>Borgerdydskolen</i>), then attended Copenhagen University where he studied philosophy and theology. His teachers at the university included F.C. Sibbern, Poul Martin Møller, and H.L. Martensen.</font>
 
@@ -58,7 +58,7 @@ tags:
 
 克尔凯郭尔与雷吉娜·奥尔森的（破裂）婚约也受到学者的重点关注。年轻女子成为年轻男子“诗意化”的契机、为更高的宗教性的目的而牺牲世俗的情感——这两个主题常常出现在克氏的作品中。克氏对于雷吉娜的迷恋，以及这迷恋给他的诗意作品带来的情欲力量，对确定他的人生道路来说至关重要。解除婚约后，克氏得以全身心地投入其宗教目的，同时还能够建立起局外人的身份（游离于资产阶级婚姻的规范之外）。克氏还因此脱离与女性的私人接触，从而能够将女性看作是理想化的**物品**，并再现了克氏的（从…继承而来）教会/父亲的父权价值观。后者包含从传统社会角色层面看待女性：特别是作为母亲与妻子的女性；但同样包含从传统精神角色层面看待女性：作为奉献与自我牺牲典范的女性。尽管如此，在克氏看来：在那永恒的上帝面前，无论一个人的处境、社会地位和性别如何，人人都是平等的。
 
-###### <font face="verdanna">2. Kierkegaard’s Rhetoric</font>
+###### <font face="century">2. Kierkegaard’s Rhetoric</font>
 
 <font face="verdana">Kierkegaard’s central problematic was <i>how to become a Christian in Christendom</i>. The task was most difficult for the well-educated, since prevailing educational and cultural institutions tended to produce stereotyped members of “the crowd” rather than to allow individuals to discover their own unique identities. This problem was compounded by the fact that Denmark had recently and very rapidly been transformed from a feudal society into a capitalist society. Universal elementary education, large-scale migration from rural areas into cities, and greatly increased social mobility meant that the social structure changed from a rigidly hierarchical one to a relatively “horizontal” one. In this context it became increasingly difficult to “become who you are” for two reasons: (i) social identities were unusually fluid; and (ii) there was a proliferation of normalizing institutions which produced pseudo-individuals.</font>
 
@@ -80,7 +80,7 @@ tags:
 
 <font face="verdana">Kierkegaard’s rhetorical play with the inverse Christian dialectic was designed not to make the word of God easier to assimilate, but to establish more clearly the absolute distance that separates human beings from God. This was in order to emphasize that human beings are absolutely reliant on God’s grace for salvation. While most commentators regard Kierkegaard’s view to be that <i>sin</i> is what separates human beings absolutely from God, thereby lending weight to the view that Kierkegaard endorses a particularly dour version of Christianity, a more defensible interpretation is that it is the transcendent God’s capacity to forgive the unforgivable that marks the absolute difference. Our struggle to accept divine forgiveness can become mired in despair, including the second-order despair over the impossibility of forgiveness of our sins and the demonic despair of defiance in which we refuse to accept forgiveness. On the other hand, faith in divine forgiveness can manifest in joy, at the realization that for God anything is possible, including our “rebirth” as spiritual selves with “eternal validity”.</font>
 
-###### <font face="verdanna">3. Kierkegaard’s Aesthetics</font>
+###### <font face="century">3. Kierkegaard’s Aesthetics</font>
 
 <font face="verdana">Kierkegaard presents his “first” pseudonymous authorship (<i>Either-Or</i> to <i>Concluding Unscientific Postscript</i>) as a dialectical progression of existential stages. The first is the aesthetic, which gives way to the ethical, which gives way to the religious. The aesthetic stage of existence is characterized by the following: immersion in sensuous experience; valorization of possibility over actuality; egotism; fragmentation of the subject of experience; nihilistic wielding of irony and scepticism; and flight from boredom.</font>
 
@@ -96,7 +96,7 @@ tags:
 
 <font face="verdana">Kierkegaard also uses aesthetic devices, including pseudonyms, in his “second” authorship, that is, those published after <i>Concluding Unscientific Postscript</i>. These works include those by Anti-Climacus, who represents the Christian point of view <i>par excellence</i>, beyond where Kierkegaard placed himself. Kierkegaard also used many biblical figures and stories with poignant and striking effect in the religious writings he published under his own name. As a poet of the religious Kierkegaard was always preoccupied with aesthetics. In fact, contrary to popular misconceptions of Kierkegaard which represent him as becoming increasingly hostile to poetry, he increasingly referred to himself as a poet in his later years (all but one of over ninety references to himself as a poet in his journals date from after 1847). Kierkegaard never claimed to write with religious authority, as an apostle. His works represent both less religiously enlightened and more religiously enlightened positions than he thought he had attained in his own existence. Such representations were only possible in an aesthetic medium of imagined possibilities like poetry.</font>
 
-###### <font face="verdanna">4. Kierkegaard’s Ethics</font>
+###### <font face="century">4. Kierkegaard’s Ethics</font>
 
 <font face="verdana">Like the terms “aesthetic” and “religious”, the term “ethics” in Kierkegaard’s work has more than one meaning. It is used to denote both: (i) a limited existential sphere, or stage, which is superseded by the higher stage of the religious life; and (ii) an aspect of life which is retained even within the religious life. In the first sense “ethics” is synonymous with the Hegelian notion of <i>Sittlichkeit</i>, or customary mores. In this sense “ethics” represents “the universal”, or more accurately the prevailing social norms. These social norms are used as reasons to make sense of, or justify, an action within a community. Even human sacrifice is justified in terms of how it serves the community, so that when Agamemnon sacrifices his daughter Iphigenia he is regarded as a tragic hero since his community understands that the sacrifice is required by the gods for the success of the Greek expedition to Troy (<i>Fear and Trembling</i>).</font>
 
@@ -112,7 +112,7 @@ tags:
 
 <font face="verdana">Kierkegaard’s ultimate advocacy of divine command metaethics is tempered somewhat by his detailed analyses of the nuanced ways individuals need to relate to God’s commands. These analyses amount to a subtle moral psychology, which borders on virtue ethics. It is not enough simply for God to issue a command; we need to hear and obey. But obedience is not straightforward. We can obey willingly or begrudgingly. We can refuse altogether. We can be selectively deaf, or be so filled with our egotistical desires that we are altogether deaf to our duties. In order to obey we first need to cultivate faith, since obedience to a divine command is nonsense unless we at least believe the command has come from God. To cultivate faith in a transcendent, eternal, omnipresent God, who allegedly became incarnate in the form of a particular human being who was put to death, requires one to overcome the offense to one’s reason and to adopt a tolerance for paradox. To imagine the enormity of the consequences of sin, yet to relish the possibilities of freedom, engenders anxiety. We need to learn to navigate the treacherous maelstroms of despair, to recognize the self-absorption of demonic states, to veer away from prudence and vanity, and to avoid mere conformity to social mores. We need to cultivate hope, patience, devotion, and above all love. But we also need to be vigilant about our capacity for self-deception and be prepared to suffer for love and for our ultimate spiritual identity.</font>
 
-###### <font face="verdanna">5. Kierkegaard’s Religion</font>
+###### <font face="century">5. Kierkegaard’s Religion</font>
 
 <font face="verdana">Kierkegaard styled himself above all as a religious poet. The religion to which he sought to relate his readers is Christianity. The type of Christianity that underlies his writings is a very serious strain of Lutheran pietism informed by the dour values of sin, guilt, suffering, and individual responsibility. Kierkegaard was immersed in these values in the family home through his father, whose own childhood was lived in the shadow of <i>Herrnhut</i> pietism in Jutland. Kierkegaard’s father subsequently became a member of the lay Congregation of Brothers (<i>Brødremenighed</i>) in Copenhagen, which he and his family attended in addition to the sermons by Bishop J. P. Mynster.</font>
 
@@ -130,7 +130,7 @@ tags:
 
 <font face="verdana">Crucial to the miracle of Christian faith is the realization that over against God we are always in the wrong. That is, we must realize that we are always in sin. This is the condition for faith, and must be given by God. The idea of sin cannot evolve from purely human origins. Rather, it must have been introduced into the world from a transcendent source. Once we understand that we are in sin, we can understand that there is some being over against which we are always in the wrong. On this basis we can have faith that, by virtue of the absurd, we can ultimately be atoned with this being. The absurdity of atonement requires faith that we believe that for God even the impossible is possible, including the forgiveness of the unforgivable. If we can accept God’s forgiveness, sincerely, inwardly, contritely, with gratitude and hope, then we open ourselves to the joyous prospect of beginning anew. The only obstacle to this joy is our refusal or resistance to accepting God’s forgiveness properly. Although God can forgive the unforgivable, He cannot force anyone to accept it. Therefore, for Kierkegaard, “there is only one guilt that God cannot forgive, that of not willing to believe in his greatness!”.</font>
 
-###### <font face="verdanna">6. Kierkegaard’s Politics</font>
+###### <font face="century">6. Kierkegaard’s Politics</font>
 
 <font face="verdana">Kierkegaard is sometimes regarded as an apolitical thinker, but in fact he intervened stridently in church politics, cultural politics, and in the turbulent social changes of his time. His earliest published essay, for example, was a polemic against women’s liberation. It is a reactionary apologetic for the prevailing patriarchal values, and was motivated largely by Kierkegaard’s desire to ingratiate himself with factions within Copenhagen’s intellectual circles. This latter desire gradually left him, but his relation to women remained highly questionable.</font>
 
