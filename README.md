@@ -185,13 +185,15 @@
 
 #### Poem
 * 尼采
-  * [Tightrope-Walker](https://huang-feiyu.github.io/2022/04/10/Tightrope-Walker): 《走钢丝者》
-  * [Tree-on-the-hill](https://huang-feiyu.github.io/2021/11/17/Tree-on-the-hill): 《山上的树》
+    * [Tightrope-Walker](https://huang-feiyu.github.io/2022/04/10/Tightrope-Walker): 《走钢丝者》
+    * [Tree-on-the-hill](https://huang-feiyu.github.io/2021/11/17/Tree-on-the-hill): 《山上的树》
 * 聂鲁达
     * [Twenty-Love-Poems-and-a-Song-of-Despair](https://huang-feiyu.github.io/2021/05/29/Twenty-Love-Poems-and-a-Song-of-Despair): 《二十首情诗和一首绝望的歌》
     * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
     * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
+* 克尔凯郭尔
+    * [Mistress-of-my-Heart](https://huang-feiyu.github.io/2022/06/05/Mistress-of-my-Heart): 《你，我心灵的女主人》
 
 #### Translation
 * [Into-My-Arms](https://huang-feiyu.github.io/2021/10/17/Into-My-Arms): 《投入我的怀抱》
