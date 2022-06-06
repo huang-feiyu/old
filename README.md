@@ -162,6 +162,7 @@
 * [Im-Westen-nichts-Neues](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues): 《西线无战事》
 * [Too-Loud-a-Solitude](https://huang-feiyu.github.io/2021/06/12/Too-Loud-a-Solitude): 《过于喧嚣的孤独》
 * [Moral-Trilogy](https://huang-feiyu.github.io/2021/08/13/Moral-Trilogy): 《窄门》《背德者》《田园交响曲》
+* [Story-of-Your-Life](https://huang-feiyu.github.io/2022/06/06/Story-of-Your-Life): 《你一生的故事》
 * [One-Hundred-Years-of-Solitude](https://huang-feiyu.github.io/2021/08/28/One-Hundred-Years-of-Solitude): 《百年孤独》
 * [Neapolitan-Novels](https://huang-feiyu.github.io/2021/07/02/Neapolitan-Novels): 《我的天才女友》《新名字的故事》《离开的，留下的》《失踪的孩子》
 * [Xiaoyin-and-I](https://huang-feiyu.github.io/2021/08/02/Xiaoyin-and-I): 《小银和我》
