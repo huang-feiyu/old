@@ -13,6 +13,8 @@ tags:
 
 > 此前文章中有许多“误用标点”的情况，还请见谅；我也不会特意去修改它们，因为实在是有点多。
 
+![background](https://huang-feiyu.github.io/img/post_bg_dark_book_punctuation.jpg)
+
 ### 前言
 
 本文将结合 [国标：标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)、查到的资料与自己的一些理解进行中文标点的简单介绍，主要针对<s>易错处与</s>特殊用法。
