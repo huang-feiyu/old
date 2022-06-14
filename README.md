@@ -102,6 +102,7 @@
 * [Essay-57](https://huang-feiyu.github.io/2022/05/22/Essay-57): 地下室人的享受
 * [Essay-58](https://huang-feiyu.github.io/2022/05/28/Essay-58): 无意识的抗争：焦虑与放松
 * [Essay-59](https://huang-feiyu.github.io/2022/06/03/Essay-59): 如何评价他人
+* [Essay-60](https://huang-feiyu.github.io/2022/06/14/Essay-60): 无法再散步
 
 #### Book Review
 
