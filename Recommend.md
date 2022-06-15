@@ -8,7 +8,7 @@ catalog:    true
 header-img: img/post_bg_recommend.jpg
 ---
 
-> 我们必须有的是这些书，它们像厄运一样降临我们，让我们深感痛苦，像我们最心爱的人死去，像自杀。一本书必须是一把冰镐，砍碎我们内心的冰海。
+> 如果我们在读的这本书不能让我们醒悟，就像用拳头敲打我们的头盖骨， 那么，我们为什么要读它？难道只因为它会使我们高兴？我的上帝， 如果没有书，我们也应该高兴，那些使我们高兴的书，如果需要， 我们自己也能写。但我们必须有的是这些书，它们像厄运一样降临我们， 让我们深感痛苦，像我们最心爱的人死去，像自杀。一本书必须是 一把冰镐，砍碎我们内心的冰海。——卡夫卡
 
 
 ### 书籍
@@ -19,12 +19,13 @@ header-img: img/post_bg_recommend.jpg
 * [《庄子》](https://zh.m.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A): 越是生活，我越是能够感受到庄子的智慧与伟大。
 * [《地下室手记》](https://book.douban.com/subject/34990839/): 陀思妥耶夫斯基的作品，地下室人的自白，拷问着你的灵魂。
 * [《逻辑哲学论》](https://book.douban.com/subject/35540677/): 维特根斯坦给我带来了世界的全新图景，我相信你也能从这部作品中得到一些非比寻常的体会。
-* [《悉达多》](https://book.douban.com/subject/26980487/): 赫尔曼·黑塞写就的人的一生，如诗歌。姜乙的翻译更是为这本诗歌献上了最好的赞歌。
+* [《红与黑》](https://book.douban.com/subject/26295448/): 司汤达给世界的图画，两种爱情，将世界一分为二。
 * [《局外人》](https://book.douban.com/subject/24257486/): 在荒谬的一切中，我们永远不是弱者，因为每个人都是弱者。
 * [《卡夫卡小说全集》](https://book.douban.com/subject/25793952/): 卡夫卡的作品，荒诞的世界中的探索，而我们的世界又何尝不荒诞呢？哈哈。
 * [《罪与罚》](https://book.douban.com/subject/25887912/): 陀思妥耶夫斯基救赎之道揭秘之书：难道现在她的信仰不能成为我的信仰吗？
 * [《西线无战事》](https://book.douban.com/subject/35272817/): 我们不相信一切，我们只相信战争。
 * [《索拉里斯星》](https://book.douban.com/subject/1440243/): 这是一本科幻小说，但是与其说是科幻小说，不如说是一本哲学小说，会给人带来梦幻一般的思考。
+* [《你一生的故事》](https://book.douban.com/subject/26295448/): 特德·姜的思想实验合集，大都不错。
 * [《沙之书》](https://book.douban.com/subject/25796049/): 刘慈欣用百万字写就的《三体》，博尔赫斯用了几百个字。
 * [《伊豆的舞女》](https://book.douban.com/subject/25899960/): 这本书真是无与伦比，无论是美的方面还是初恋的方面，有太多太多让我感同身受的文字了。
 * [《德米安》](https://book.douban.com/subject/35060088/): 人生中充满疑问和迷茫，你可以向这本书寻求帮助，但不要祈求直接找到方法。
@@ -33,6 +34,7 @@ header-img: img/post_bg_recommend.jpg
 * [《鼠疫》](https://book.douban.com/subject/24257229/): 生命内在值得称赞的东西总是比被唾弃的要更多， 我能感受到加缪内心的对人类的信心与无尽的希望。
 * [《西西弗神话》](https://book.douban.com/subject/24257403/): 加缪给世界带来的是永无止境的热爱与冷静思考。
 * [《我们的祖先三部曲》](https://book.douban.com/subject/34831995/): 三部幻想之作（换句话说，“荒谬”之作）会引领你的内心去体会，去思考。
+* [《悉达多》](https://book.douban.com/subject/26980487/): 赫尔曼·黑塞写就的人的一生，如诗歌。姜乙的翻译更是为这本诗歌献上了最好的赞歌。
 * [《科学革命的结构》](https://book.douban.com/subject/20376550/): 什么是科学？这本书破除了我对于科学的种种误解，让我能够更清晰地认识世界。
 * [《罗生门》](https://book.douban.com/subject/26627837/): 我所见到的不是故事，而是一个人的一生。
 * [《金阁寺》](https://book.douban.com/subject/30278166/): 绝望的美，还是被毁灭的美。
@@ -45,12 +47,14 @@ header-img: img/post_bg_recommend.jpg
 
 ### 电影
 
-* [秋日奏鸣曲](https://movie.douban.com/subject/1297268/): 伯格曼能够重新定义你对于电影的看法，这部电影让我无法呼吸。
+* [永恒与一日](https://movie.douban.com/subject/1293455/): 这部电影带有极为浓烈的绝望与悲哀情感，不推荐观看。只是它在我的内心中占据着极为重要的地位，让我不得不写在第一位。
 * [乡愁](https://movie.douban.com/subject/1291556/): 是不是每个人都会死在异乡？悲哀将会永远伴随离开母亲的人。
+* [秋日奏鸣曲](https://movie.douban.com/subject/1297268/): 伯格曼能够重新定义你对于电影的看法，这部电影让我无法呼吸。
 * [飞向太空](https://movie.douban.com/subject/1300977/): 塔可夫斯基的长镜头，诗歌的具现化。
 * [城市之光](https://movie.douban.com/subject/1293908/): 卓别林能带给你不一样的视角，我们到底是否应该评判他人？这部电影会告诉你答案，还有更多问题与痛苦。
 * [美丽人生](https://movie.douban.com/subject/1292063/): 绞刑架下的幽默，完美展现了什么是荒诞。
 * [何以为家](https://movie.douban.com/subject/30170448/): 战争，给我们带来了什么？要文明，不要愚昧。
+* [降临](https://movie.douban.com/subject/21324900/): 《你一生的故事》的画面具象化，电影并不好，原著很好。
 
 ### 音乐
 
@@ -77,6 +81,7 @@ header-img: img/post_bg_recommend.jpg
 * [《平平静静的说说中国的科研》](http://www.ruanyifeng.com/blog/2010/07/my_thoughts_on_china_scientific_research.html)
 * [《A Relational Model of Data for Large Shared Data Banks》](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 * [《程序员的自我修养》](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html)
+* [《为什么任务清单如此让人不满？》](https://sspai.com/post/73453)
 
 ### 博客
 
@@ -93,16 +98,19 @@ header-img: img/post_bg_recommend.jpg
 * [得意忘形](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cueGltYWxheWEuY29tL2FsYnVtLzY2ODg3MjYueG1s?sa=X&ved=2ahUKEwixvsWcg6r2AhVH_5QKHYzbA20Q9sEGegQIARAC): 传播知识与追求真理。
 
 ### 课程
+
+> 我的[仓库](https://github.com/huang-feiyu/Learning-Space)中有些学习资料。
+
 中国的课程鱼龙混杂，而国外有名的课程一般都很不错。
 
-* 我的[仓库](https://github.com/huang-feiyu/Learning-Space)中有些学习资料。
 * 计算机科学
   * [Harvard: CS 50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x): 我之前不知道 edX 上面有这个课程，所以我是在 [bilibili](https://www.bilibili.com/video/BV1Rb411378V) 上面学习的。现在看来有点亏，因为 lab 与 homework 什么的我都没有做。
   * [MIT: Introduction to Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm): 利用 Python 讲的计算机科学入门课程。
   * [Princeton: Algorithm](https://www.coursera.org/learn/algorithms-part1/home/welcome): Part I, Part II很好的课程，很好的教科书[《算法 第四版》](https://item.jd.com/11098789.html)。
   * [NJU: Introduction to Computer System](https://www.icourse163.org/course/NJU-1001625001): 南京大学的计算机系统基础课程（一）至（五），有配套的 PA 实验。
-  * [UCB: CS61C](https://inst.eecs.berkeley.edu/~cs61c/su20/): 计算机体系结构的伟大思想，有配套的实验和项目。（正在学习）
-  * [UW: Programming Language](https://www.coursera.org/learn/programming-languages/home/welcome): 程序设计语言，讲面向对象和函数式编程。（正在学习）
+  * [UCB: CS61C](https://inst.eecs.berkeley.edu/~cs61c/su20/): 计算机体系结构的伟大思想，有配套的实验和项目。
+  * [UW: Programming Language](https://www.coursera.org/learn/programming-languages/home/welcome): 程序设计语言，讲面向对象和函数式编程。
+  * [MIT: Software Construction](https://web.mit.edu/6.031/www/sp21/): 软件架构，一个系统的软件工程概论。
   * [CMU: CS 15-445](https://15445.courses.cs.cmu.edu/fall2020/): 数据库入门，暂且搁置，现在听不太懂
 * 哲学
   * [Harvard: Justice](https://justiceharvard.org/): 正义课，哲学入门课程。
@@ -125,6 +133,7 @@ header-img: img/post_bg_recommend.jpg
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge): 很好的 PDF 阅读器。
 * [iVCam](https://www.e2esoft.com/ivcam/): 手机连接电脑作为虚拟摄像头。
 * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke?hl=en): 谷歌浏览器扩展程序，用于谷歌的各种网络应用。
+* [Marp](https://marp.app/): 用 Markdown 写 PPT。
 
 ### 其他
 
