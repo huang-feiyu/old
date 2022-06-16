@@ -43,9 +43,9 @@ https://github.com/kitian616/jekyll-TeXt-theme
 			{%- assign _sorted_list = _sorted_list | reverse -%}
 
 
-			{%- for _article in _sorted_list -%}
+			{%- for post in _sorted_list -%}
 				{%- assign _tags = '' -%}
-				{%- for _tag in _article.tags -%}
+				{%- for _tag in post.tags -%}
 					{%- assign _tag_encode = _tag | strip | url_encode -%}
 					{%- if forloop.last -%}
 						{%- assign _tags = _tags | append: _tag_encode -%}
@@ -55,7 +55,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
 				{%- endfor -%}
 
 			{% comment %} group by year {% endcomment %}
-			{%- assign _currentdate = _article.date | date: '%Y' -%}
+			{%- assign _currentdate = post.date | date: '%Y' -%}
 			{%- if _currentdate != _date -%}
 				{%- unless forloop.first -%}</section>{%- endunless -%}
 				<section>
@@ -66,13 +66,13 @@ https://github.com/kitian616/jekyll-TeXt-theme
 			{%- endif -%}
 
 				<div class="post-preview item" data-tags="{{ _tags }}">
-				    <a href="{{ _article.url | prepend: site.baseurl }}">
+				    <a href="{{ post.url | prepend: site.baseurl }}">
 				        <h2 class="post-title">
-                            {{ _article.title }}
+                            {{ post.title }}
 				        </h2>
-				        {% if _article.subtitle %}
+				        {% if post.subtitle %}
 				        <h3 class="post-subtitle">
-				            {{ _article.subtitle }}
+				            {{ post.subtitle }}
 				        </h3>
 				        {% endif %}
 				    </a>
