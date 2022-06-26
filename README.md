@@ -36,6 +36,7 @@
   * [弗朗茨·卡夫卡](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%BC%97%E6%9C%97%E8%8C%A8%E5%8D%A1%E5%A4%AB%E5%8D%A1)
   * [若泽·萨拉马戈](https://github.com/huang-feiyu/huang-feiyu.github.io#%E8%8B%A5%E6%B3%BD%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88)
   * [其他作家](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%85%B6%E4%BB%96%E4%BD%9C%E5%AE%B6)
+  * [全书简写](https://github.com/huang-feiyu/huang-feiyu.github.io#%E5%85%A8%E4%B9%A6%E7%AE%80%E5%86%99)
 * [Guide](https://github.com/huang-feiyu/huang-feiyu.github.io#guide)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
@@ -174,6 +175,9 @@
 * [Dying-in-Venice](https://huang-feiyu.github.io/2021/06/09/Dying-in-Venice): 《死于威尼斯》
 * [The-Buhhda](https://huang-feiyu.github.io/2021/05/30/The-Buddha): 《佛陀》
 * [To-Kill-a-Mockingbird](https://huang-feiyu.github.io/2021/07/18/To-Kill-a-Mockingbird): 《杀死一只知更鸟》
+
+###### 全书简写
+* [The-Roots-of-Romanticism](https://huang-feiyu.github.io/2022/06/26/The-Roots-of-Romanticism): 《浪漫主义的根源》
 
 #### Guide
 * [RSS-Guide](https://huang-feiyu.github.io/2022/05/08/RSS-Guide): RSS简明教程
