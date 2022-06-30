@@ -45,7 +45,7 @@ You live your life, you go in shadows
 
 You'll come apart and you'll go blind
 
-［我们分手后，］你将远走，你将无法逃离晦暗的自我
+［我们分开后，］你将远走，你将无法逃离晦暗的自我
 
 Some kind of light into your darkness<br/>Colors your eyes with what's not there
 
