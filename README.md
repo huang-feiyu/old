@@ -212,6 +212,7 @@
 * [Hands-Held-High](https://huang-feiyu.github.io/2022/02/27/Hands-Held-High): 《高举双手》
 * [Old-Money](https://huang-feiyu.github.io/2022/04/16/Old-Money): 《过去的时间》
 * [Nothing-Else](https://huang-feiyu.github.io/2022/04/29/Nothing-Else): 《再无他物》
+* [Fade-Into-You](https://huang-feiyu.github.io/2022/06/30/Fade-Into-You): 《慢慢浸入你》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
