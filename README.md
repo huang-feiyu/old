@@ -105,6 +105,7 @@
 * [Essay-59](https://huang-feiyu.github.io/2022/06/03/Essay-59): 如何评价他人
 * [Essay-60](https://huang-feiyu.github.io/2022/06/14/Essay-60): 无法再散步
 * [Essay-61](https://huang-feiyu.github.io/2022/06/18/Essay-61): 自我审视的一些想法
+* [Essay-62](https://huang-feiyu.github.io/2022/07/07/Essay-62): 审美者的未来
 
 #### Book Review
 
