@@ -107,6 +107,7 @@
 * [Essay-61](https://huang-feiyu.github.io/2022/06/18/Essay-61): 自我审视的一些想法
 * [Essay-62](https://huang-feiyu.github.io/2022/07/07/Essay-62): 审美者的未来
 * [Essay-63](https://huang-feiyu.github.io/2022/07/14/Essay-63): 我对自由的看法
+* [Essay-64](https://huang-feiyu.github.io/2022/07/17/Essay-64): 不确定性的世界
 
 #### Book Review
 
