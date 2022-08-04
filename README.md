@@ -110,6 +110,7 @@
 * [Essay-64](https://huang-feiyu.github.io/2022/07/17/Essay-64): 不确定性的世界
 * [Essay-65](https://huang-feiyu.github.io/2022/07/22/Essay-65): 我的困境
 * [Essay-66](https://huang-feiyu.github.io/2022/07/25/Essay-66): 属于我的时间
+* [Essay-67](https://huang-feiyu.github.io/2022/08/04/Essay-67): 相对主义
 
 #### Book Review
 
