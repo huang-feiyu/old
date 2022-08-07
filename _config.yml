@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-Huang.jpg      # use absolute URL, seeing it's used i
 
 
 # SNS settings
-RSS: false
+RSS: true
 github_username: huang-feiyu
 twitter_username: 0711feiyu
 douban_username: huang-feiyu
@@ -101,10 +101,6 @@ friends: [
     {
         title: "联系我·Telegram",
         href: "https://t.me/huangfeiyu"
-    },
-    {
-        title: "订阅·RSS",
-        href: "https://xn--29s704loyd.com/feed.xml"
     },
     {
         title: "Blogspot",
