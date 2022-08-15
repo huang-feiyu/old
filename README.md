@@ -208,6 +208,8 @@
     * [Question-set](https://huang-feiyu.github.io/2021/05/29/Question-set): 《疑问集》
 * 博尔赫斯
     * [The-other-one-The-same-one](https://huang-feiyu.github.io/2021/06/23/The-other-one-The-same-one): 《另一个，同一个》节选
+* 爱伦·坡
+    * [Solitude](https://huang-feiyu.github.io/2022/08/15/Solitude): 《孤独》
 * 克尔凯郭尔
     * [Mistress-of-my-Heart](https://huang-feiyu.github.io/2022/06/05/Mistress-of-my-Heart): 《你，我心灵的女主人》
 
