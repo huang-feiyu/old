@@ -112,6 +112,7 @@
 * [Essay-66](https://huang-feiyu.github.io/2022/07/25/Essay-66): 属于我的时间
 * [Essay-67](https://huang-feiyu.github.io/2022/08/04/Essay-67): 相对主义
 * [Essay-68](https://huang-feiyu.github.io/2022/08/11/Essay-68): 潜藏的伤痛
+* [Essay-69](https://huang-feiyu.github.io/2022/08/18/Essay-69): 持续写作的重要性
 
 #### Book Review
 
