@@ -168,7 +168,7 @@
 * [Seeing-essay](https://huang-feiyu.github.io/2022/05/01/Seeing-essay): 《复明症漫记》
 
 ###### 其他作家
-* [Sein-und-Zeit](https://huang-feiyu.github.io/2022/08/04/Sein-und-Zeit): 《存在与时间》
+* [Sein-und-Zeit](https://huang-feiyu.github.io/2022/09/04/Sein-und-Zeit): 《存在与时间》
 * [Tractatus-Logico-Philosophicus](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus): 《逻辑哲学论》
 * [Solaris](https://huang-feiyu.github.io/2021/08/22/Solaris): 《索拉里斯星》
 * [The-Red-and-The-Black](https://huang-feiyu.github.io/2022/06/13/The-Red-and-The-Black): 《红与黑》
