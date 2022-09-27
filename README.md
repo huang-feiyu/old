@@ -116,6 +116,7 @@
 * [Essay-70](https://huang-feiyu.github.io/2022/08/27/Essay-70): 碎碎念
 * [Essay-71](https://huang-feiyu.github.io/2022/09/09/Essay-71): 自我审视的一些想法
 * [Essay-72](https://huang-feiyu.github.io/2022/09/21/Essay-72): 时间属于谁
+* [Essay-73](https://huang-feiyu.github.io/2022/09/27/Essay-73): 不寻常的一天
 
 #### Book Review
 
