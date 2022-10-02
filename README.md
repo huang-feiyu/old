@@ -231,6 +231,7 @@
 * [Cruel-World](https://huang-feiyu.github.io/2022/07/02/Cruel-World): 《残酷的世界》
 * [I-Wish-You-Love](https://huang-feiyu.github.io/2022/07/18/I-Wish-You-Love): 《我希望你去爱》
 * [Blackbirds](https://huang-feiyu.github.io/2022/09/14/Blackbirds): 《黑色的鸟》
+* [Fourth-of-July](https://huang-feiyu.github.io/2022/10/02/Fourth-of-July): 《七月四日》
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
