@@ -140,5 +140,4 @@ header-img: img/post_bg_recommend.jpg
 * [CS 自学指南](https://csdiy.wiki/)
 * [TeachYourselfCS](https://teachyourselfcs.com/)
 * [Qwerty Learner](https://qwerty.kaiyi.cool/)
-* **[一位帅哥](https://huang-feiyu.github.io/about)**: 如果对于一些人生上的问题可以用 [Telegram](https://t.me/huangfeiyu) 和我交流一下，如果你愿意的话。
 
