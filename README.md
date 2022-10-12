@@ -240,4 +240,5 @@
 * [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
 * [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
 * [Dasein](https://huang-feiyu.github.io/2022/08/31/Dasein): 《此在素描》
+* [Trial](https://huang-feiyu.github.io/2022/10/12/Trial): 审判书
 
