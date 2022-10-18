@@ -241,4 +241,5 @@
 * [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
 * [Dasein](https://huang-feiyu.github.io/2022/08/31/Dasein): 《此在素描》
 * [Trial](https://huang-feiyu.github.io/2022/10/12/Trial): 审判书
+* [Love-Letter](https://huang-feiyu.github.io/2022/10/18/Love-Letter): 情书
 
