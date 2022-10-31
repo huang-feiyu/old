@@ -118,6 +118,7 @@
 * [Essay-72](https://huang-feiyu.github.io/2022/09/21/Essay-72): 时间属于谁
 * [Essay-73](https://huang-feiyu.github.io/2022/09/27/Essay-73): 不寻常的一天
 * [Essay-74](https://huang-feiyu.github.io/2022/10/09/Essay-74): 碎碎念
+* [Essay-75](https://huang-feiyu.github.io/2022/10/31/Essay-75): 乌托邦的真正消亡
 
 #### Book Review
 
