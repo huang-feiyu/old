@@ -5,6 +5,7 @@ subtitle:   克尔凯郭尔
 date:       2022-11-11
 author:     Huang
 header-img: img/post_bg_kierkegaard.jpg
+comment:    64
 catalog:    true
 tags:
    - Great-People
@@ -12,6 +13,8 @@ tags:
 ---
 
 > 他留下了自己尘世间的理智，他带上了自己的信仰。
+
+![background](https://huang-feiyu.github.io/img/post_bg_kierkegaard.jpg)
 
 ### 前言
 
