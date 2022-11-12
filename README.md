@@ -119,6 +119,7 @@
 * [Essay-73](https://huang-feiyu.github.io/2022/09/27/Essay-73): 不寻常的一天
 * [Essay-74](https://huang-feiyu.github.io/2022/10/09/Essay-74): 碎碎念
 * [Essay-75](https://huang-feiyu.github.io/2022/10/31/Essay-75): 乌托邦的真正消亡
+* [Essay-76](https://huang-feiyu.github.io/2022/11/12/Essay-76): 回忆的消散
 
 #### Book Review
 
