@@ -178,6 +178,7 @@
 * [Sein-und-Zeit](https://huang-feiyu.github.io/2022/09/04/Sein-und-Zeit): 《存在与时间》
 * [Tractatus-Logico-Philosophicus](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus): 《逻辑哲学论》
 * [Solaris](https://huang-feiyu.github.io/2021/08/22/Solaris): 《索拉里斯星》
+* [On-the-Heights-of-Despair](https://huang-feiyu.github.io/2022/11/26/On-the-Heights-of-Despair): 《在绝望之巅》
 * [The-Red-and-The-Black](https://huang-feiyu.github.io/2022/06/13/The-Red-and-The-Black): 《红与黑》
 * [The-temple-of-the-Golden-Pavilion](https://huang-feiyu.github.io/2021/07/19/The-temple-of-the-Golden-Pavilion): 《金阁寺》
 * [Im-Westen-nichts-Neues](https://huang-feiyu.github.io/2021/05/15/Im-Westen-nichts-Neues): 《西线无战事》
