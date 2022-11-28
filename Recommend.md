@@ -25,6 +25,7 @@ header-img: img/post_bg_recommend.jpg
 * [《卡夫卡小说全集》](https://book.douban.com/subject/25793952/): 卡夫卡的作品，荒诞的世界中的探索，而我们的世界又何尝不荒诞呢？哈哈。
 * [《罪与罚》](https://book.douban.com/subject/25887912/): 陀思妥耶夫斯基救赎之道揭秘之书：难道现在她的信仰不能成为我的信仰吗？
 * [《悲剧的诞生》](https://book.douban.com/subject/30489680/): 年轻的尼采向你询问：你能够成为我的知己吗？
+* [《在绝望之巅》](https://book.douban.com/subject/35900190/): 齐奥朗向世界发出最后通牒：宿命，快来谋杀我吧。
 * [《西线无战事》](https://book.douban.com/subject/35272817/): 我们不相信一切，我们只相信战争。
 * [《索拉里斯星》](https://book.douban.com/subject/1440243/): 这是一本科幻小说，但是与其说是科幻小说，不如说是一本哲学小说，会给人带来梦幻一般的思考。
 * [《你一生的故事》](https://book.douban.com/subject/26295448/): 特德·姜的思想实验合集，大都不错。
@@ -56,6 +57,7 @@ header-img: img/post_bg_recommend.jpg
 * [《秋日奏鸣曲》](https://movie.douban.com/subject/1297268/): 伯格曼能够重新定义你对于电影的看法，这部电影让我无法呼吸。
 * [《飞向太空》](https://movie.douban.com/subject/1300977/): 塔可夫斯基的长镜头，诗歌的具现化。
 * [《城市之光》](https://movie.douban.com/subject/1293908/): 卓别林能带给你不一样的视角，我们到底是否应该评判他人？这部电影会告诉你答案，还有更多问题与痛苦。
+* [《随心所欲》](https://movie.douban.com/subject/1296757/): 对存在主义的最后一击，它向每一个人提问“为何追求主体性的哲学让人无所适从？”
 * [《美丽人生》](https://movie.douban.com/subject/1292063/): 绞刑架下的幽默，完美展现了什么是荒诞。
 * [《何以为家》](https://movie.douban.com/subject/30170448/): 战争，给我们带来了什么？要文明，不要愚昧。
 * [《降临》](https://movie.douban.com/subject/21324900/): 《你一生的故事》的画面具象化，电影并不好，原著很好。
@@ -68,7 +70,7 @@ header-img: img/post_bg_recommend.jpg
 * [Pomme](https://instagram.com/pommeofficial): 如果上帝问我什么东西能够让我抛弃永生，那么爱和 Pomme 的歌声是我的答案。
 * [Lana Del Rey](https://www.lanadelrey.com/): 让人无法忘怀的声音，极具诗意。
 * [Avril Lavigne](https://avrillavigne.com/): 艾薇儿，我们年轻时候热爱的音乐往往极具力量。
-* [Green Day](https://greenday.com/): 绿日乐队，狂放的朋克风格，无尽力量。
+* [Green Day](https://greenday.com/): 绿日乐队，狂放的朋克风格。
 * [我的歌单——QQ音乐](https://y.qq.com/n/ryqq/profile/like/song?uin=oiCk7e-q7K-s)
 
 
@@ -83,7 +85,7 @@ header-img: img/post_bg_recommend.jpg
 * [《因为乌克兰战争，我输给德国人一只北京烤鸭》](https://mp.weixin.qq.com/s/tEowe1on_MTwfBhZNcpc7A)
 * [《在气候议题上，别急着批评中国》](https://cn.nytimes.com/opinion/20211108/cop26-china-climate/)
 * [《成为一名程序员》](../Resources/成为一名程序员.md)
-* [《平平静静的说说中国的科研》](http://www.ruanyifeng.com/blog/2010/07/my_thoughts_on_china_scientific_research.html)
+* [《平平静静地说说中国的科研》](http://www.ruanyifeng.com/blog/2010/07/my_thoughts_on_china_scientific_research.html)
 * [《A Relational Model of Data for Large Shared Data Banks》](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 * [《程序员的自我修养》](https://leohxj.gitbooks.io/a-programmer-prepares/content/programmer-basic/index.html)
 * [《为什么任务清单如此让人不满？》](https://sspai.com/post/73453)
