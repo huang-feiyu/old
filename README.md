@@ -12,10 +12,7 @@
 
 **互联网最初的目的是用于学术、军事的信息交换，后来互联网连接了整个世界，于是互联网的目的也变了。黑客、开源，这些词汇背后的精神都是分享精神，这也是我运营这个博客的原因。花了我很多时间，但是我感到满足。**
 
-博客并不能够作为知识库，我选择使用
-[Notion](https://www.notion.so/huangfeiyu/000-README-cc0f47bf2b834034afc01b2538f24bd0)
-作为专业知识库。况且知识类的博客太多了，遵循[克氏](https://plato.stanford.edu/entries/kierkegaard/)写作风格、
-**真正**能够帮助他人的博客却没有多少。
+博客并不能够作为知识库，我选择使用 [Notion](https://www.notion.so) 作为专业知识库。况且知识类的博客太多了，遵循[克氏](https://plato.stanford.edu/entries/kierkegaard/)写作风格、**真正**能够帮助他人的博客却没有多少。
 
 ### 其他
 
