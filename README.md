@@ -118,6 +118,7 @@
 * [Essay-75](https://huang-feiyu.github.io/2022/10/31/Essay-75): 乌托邦的真正消亡
 * [Essay-76](https://huang-feiyu.github.io/2022/11/12/Essay-76): 回忆的消散
 * [Essay-77](https://huang-feiyu.github.io/2022/11/21/Essay-77): 我与父母
+* [Essay-78](https://huang-feiyu.github.io/2022/12/09/Essay-78): 人工智能
 
 #### Book Review
 
