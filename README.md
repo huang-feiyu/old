@@ -247,6 +247,7 @@
 * [What-is-life](https://huang-feiyu.github.io/2021/05/23/What-is-life): 如果您问我什么是生命，我不会回答
 * [Become-a-programmer](https://huang-feiyu.github.io/2021/05/08/Become-a-programmer): 成为一名程序员
 * [Dasein](https://huang-feiyu.github.io/2022/08/31/Dasein): 《此在素描》
+* [The-Origin-of-Philosophy](https://huang-feiyu.github.io/2023/01/15/The-Origin-of-Philosophy): 《哲学的本原》
 * [Trial](https://huang-feiyu.github.io/2022/10/12/Trial): 审判书
 * [Love-Letter](https://huang-feiyu.github.io/2022/10/18/Love-Letter): 情书
 * [Knight-of-Faith](https://huang-feiyu.github.io/2022/10/24/Knight-of-Faith): 信仰之骑士
