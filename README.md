@@ -121,6 +121,7 @@
 * [Essay-78](https://huang-feiyu.github.io/2022/12/09/Essay-78): 人工智能
 * [Essay-79](https://huang-feiyu.github.io/2022/12/21/Essay-79): 碎碎念
 * [Essay-80](https://huang-feiyu.github.io/2023/01/08/Essay-80): 青年的抉择
+* [Essay-82](https://huang-feiyu.github.io/2023/01/21/Essay-82): 一步之遥的死亡
 
 #### Book Review
 
