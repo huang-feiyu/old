@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      The-Origin-of-Philosophy
-subtitle:   《哲学的本原》
+title:      《哲学的本原》
+subtitle:   The-Origin-of-Philosophy
 date:       2023-01-15
-author:     Huang
+author:     Karl Jaspers
 header-img: img/post_vulture_brown.jpg
 comment:    75
 catalog:    true

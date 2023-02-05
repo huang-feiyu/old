@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Fear-and-Trembling
-subtitle:   《恐惧与颤栗》
+title:      《恐惧与颤栗》
+subtitle:   Fear-and-Trembling
 date:       2022-01-14
 author:     Huang
 header-img: img/post_bg_door_dark.jpg
-catalog: true
+catalog:    true
 tags:
     - Book-Review
     - Kierkegaard

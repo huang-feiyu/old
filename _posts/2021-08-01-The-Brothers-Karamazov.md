@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Brothers-Karamazov
-subtitle:   《卡拉马佐夫兄弟》
+title:      《卡拉马佐夫兄弟》
+subtitle:   The-Brothers-Karamazov
 date:       2021-08-01
 author:     Huang
 header-img: img/post_bg_life_many_words.png
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Dostoevsky

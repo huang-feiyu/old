@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-other-one-The-same-one
-subtitle:   《另一个，同一个》
+title:      《另一个，同一个》
+subtitle:   The-other-one-The-same-one
 date:       2021-06-23
 author:     Borges
 header-img: img/post_bg_pocket-watch.jpg
-catalog: true
+catalog:    true
 tags:
    - Poem
 ---

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Story-of-Your-Life
-subtitle:   《你一生的故事》
+title:      《你一生的故事》
+subtitle:   Story-of-Your-Life
 date:       2022-06-06
 author:     Huang
 header-img: img/post_bg_arrival_film.jpg

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Humiliated-and-Insulted
-subtitle:   《被侮辱和伤害的人们》
+title:      《被侮辱和伤害的人们》
+subtitle:   Humiliated-and-Insulted
 date:       2021-07-10
 author:     Huang
 header-img: img/post_bg_Humiliated-and-Insulted.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Dostoevsky

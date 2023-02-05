@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Notes-from-Underground
-subtitle:   《地下室手记》
+title:      《地下室手记》
+subtitle:   Notes-from-Underground
 date:       2021-05-25
 author:     Huang
 header-img: img/post_bg_corridor.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Dostoevsky

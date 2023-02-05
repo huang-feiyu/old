@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Snow-Country
-subtitle:   《雪国》
+title:      《雪国》
+subtitle:   Snow-Country
 date:       2021-09-27
 author:     Huang
 header-img: img/post_bg_snow_country.jpg

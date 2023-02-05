@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Dying-in-Venice
-subtitle:   《死于威尼斯》
+title:      《死于威尼斯》
+subtitle:   Dying-in-Venice
 date:       2021-06-09
 author:     Huang
 header-img: img/post_bg_gondolas-port-canal-waterway.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

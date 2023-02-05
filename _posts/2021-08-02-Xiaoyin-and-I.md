@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Xiaoyin-and-I
-subtitle:   《小银和我》
+title:      《小银和我》
+subtitle:   Xiaoyin-and-I
 date:       2021-08-02
 author:     Huang
 header-img: img/post_bg_xiaoyin_and_i.jpg

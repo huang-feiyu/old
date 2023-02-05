@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Glass-Bead-Game
-subtitle:   《玻璃珠游戏》
+title:      《玻璃珠游戏》
+subtitle:   The-Glass-Bead-Game
 date:       2022-01-01
 author:     Huang
 header-img: img/post_bg_glass_bead.jpg
-catalog: true
+catalog:    true
 tags:
     - Book-Review
     - Hesse

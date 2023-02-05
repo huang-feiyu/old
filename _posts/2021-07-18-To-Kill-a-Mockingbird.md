@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      To-Kill-a-Mockingbird
-subtitle:   《杀死一只知更鸟》
+title:      《杀死一只知更鸟》
+subtitle:   To-Kill-a-Mockingbird
 date:       2021-07-18
 author:     Huang
 header-img: img/post_bg_moon_cloud_1.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

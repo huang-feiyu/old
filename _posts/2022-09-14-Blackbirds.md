@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Blackbirds
-subtitle:   黑色的鸟
+title:      黑色的鸟
+subtitle:   Blackbirds
 date:       2022-09-14
 author:     Huang
 header-img: img/post_bg_black_bird.jpg

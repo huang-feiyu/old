@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Lyric-Song
-subtitle:   《抒情歌》
+title:      《抒情歌》
+subtitle:   Lyric-Song
 date:       2022-03-17
 author:     Kawabata
 header-img: img/post_bg_clouds.jpg
-catalog: false
+catalog:    false
 tags:
    - Poem
    - Kawabata

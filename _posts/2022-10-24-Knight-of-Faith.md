@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Knight-of-Faith
-subtitle:   信仰之骑士
+title:      信仰之骑士
+subtitle:   Knight-of-Faith
 date:       2022-10-24
 author:     Huang
 header-img: img/post_bg_knight_panorama.jpg

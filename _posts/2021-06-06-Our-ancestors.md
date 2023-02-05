@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Our-ancestors
-subtitle:   《分成两半的子爵》《不存在的骑士》《树上的男爵》
+title:      《分成两半的子爵》《不存在的骑士》《树上的男爵》
+subtitle:   Our-ancestors
 date:       2021-06-06
 author:     Huang
 header-img: img/post_bg_coffee_1.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

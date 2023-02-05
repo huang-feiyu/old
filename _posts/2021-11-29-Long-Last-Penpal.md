@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Long-Last-Penpal
-subtitle:   《笔友，好久不见》
+title:      《笔友，好久不见》
+subtitle:   Long-Last-Penpal
 date:       2021-11-29
 author:     Huang
 header-img: img/post_bg_letter_yellow.jpg

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Tightrope-Walker
-subtitle:   《走钢丝者》
+title:      《走钢丝者》
+subtitle:   Tightrope-Walker
 date:       2022-04-10
 author:     Nietzsche
 header-img: img/post_bg_tightrope_walker.jpg

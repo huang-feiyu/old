@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Gambler
-subtitle:   《赌徒》
+title:      《赌徒》
+subtitle:   The-Gambler
 date:       2021-05-28
 author:     Huang
 header-img: img/post_bg_the_gambler_head.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Dostoevsky

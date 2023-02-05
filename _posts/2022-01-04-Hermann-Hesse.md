@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Hermann-Hesse
-subtitle:   赫尔曼·黑塞
+title:      赫尔曼·黑塞
+subtitle:   Hermann-Hesse
 date:       2022-01-04
 author:     Huang
 header-img: img/post_bg_hesse.jpg

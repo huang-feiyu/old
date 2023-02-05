@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      You, Sovereign mistress of my heart
-subtitle:   《你，我心灵的女主人》
+title:      《你，我心灵的女主人》
+subtitle:   You, Sovereign mistress of my heart
 date:       2022-06-05
 author:     Kierkegaard
 header-img: img/post_bg_black_red_umbrella.jpg

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Stranger
-subtitle:   《局外人》
+title:      《局外人》
+subtitle:   The-Stranger
 date:       2021-07-28
 author:     Huang
 header-img: img/post_bg_the_stranger.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Camus

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Crime-and-Punishment
-subtitle:   《罪与罚》
+title:      《罪与罚》
+subtitle:   Crime-and-Punishment
 date:       2021-08-15
 author:     Huang
 header-img: img/post_bg_Crime-and-Punishment.jpg

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Diary-of-a-Seducer
-subtitle:   《诱惑者日记》
+title:      《诱惑者日记》
+subtitle:   Diary-of-a-Seducer
 date:       2022-04-03
 author:     Huang
 header-img: img/post_bg_man_alone_dark.jpg
-catalog: true
+catalog:    true
 tags:
     - Book-Review
     - Kierkegaard

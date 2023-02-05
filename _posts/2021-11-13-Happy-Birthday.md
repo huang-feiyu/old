@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Happy-Birthday
-subtitle:   生日快乐
+title:      生日快乐
+subtitle:   Happy-Birthday
 date:       2021-11-13
 author:     Huang
 header-img: img/post_bg_birthday-19.jpg

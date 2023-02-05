@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Sound-of-the-Mountain
-subtitle:   《山音》
+title:      《山音》
+subtitle:   The-Sound-of-the-Mountain
 date:       2021-07-11
 author:     Huang
 header-img: img/post_bg_purple_mountain.png
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Kawabata

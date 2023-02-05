@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Too-Loud-a-Solitude
-subtitle:   《过于喧嚣的孤独》
+title:      《过于喧嚣的孤独》
+subtitle:   Too-Loud-a-Solitude
 date:       2021-06-12
 author:     Huang
 header-img: img/post_bg_book_old.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

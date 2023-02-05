@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Don-Giovanni
-subtitle:   《唐璜》
+title:      《唐璜》
+subtitle:   Don-Giovanni
 date:       2022-03-22
 author:     Huang
 header-img: img/post_bg_don_giovanni.webp
-catalog: true
+catalog:    true
 tags:
     - Book-Review
     - Kierkegaard

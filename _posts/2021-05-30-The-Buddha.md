@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Buddha
-subtitle:   《佛陀》
+title:      《佛陀》
+subtitle:   The-Buddha
 date:       2021-05-30
 author:     Huang
 header-img: img/post_bg_the_Buddha.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

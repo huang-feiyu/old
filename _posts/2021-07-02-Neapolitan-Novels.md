@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Neapolitan-Novels
-subtitle:   《那不勒斯四部曲》
+title:      《那不勒斯四部曲》
+subtitle:   Neapolitan-Novels
 date:       2021-07-02
 author:     Huang
 header-img: img/post_bg_naples_man_woman.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

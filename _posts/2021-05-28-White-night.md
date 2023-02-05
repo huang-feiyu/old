@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      White-night
-subtitle:   《白夜》
+title:      《白夜》
+subtitle:   White-night
 date:       2021-05-28
 author:     Huang
 header-img: img/post_bg_moon_2.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Dostoevsky

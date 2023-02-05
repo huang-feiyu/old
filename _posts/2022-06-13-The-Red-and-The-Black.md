@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      The-Red-and-The-Black
-subtitle:   《红与黑》
+title:      《红与黑》
+subtitle:   The-Red-and-The-Black
 date:       2022-06-13
 author:     Huang
 header-img: img/post_bg_dark_light_building.jpg

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Chinese-Writing-Guide
-subtitle:   中文写作指南
+title:      中文写作指南
+subtitle:   Chinese-Writing-Guide
 date:       2021-08-12
 author:     Huang
 header-img: img/post_bg_pen_writing.jpg
-catalog: true
+catalog:    true
 tags:
    - Guide
 ---

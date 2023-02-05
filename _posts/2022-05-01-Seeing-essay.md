@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Seeing-essay
-subtitle:   《复明症漫记》
+title:      《复明症漫记》
+subtitle:   Seeing-essay
 date:       2022-05-01
 author:     Huang
 comment:    17
 header-img: img/post_bg_eyes_blue_seeing.jpg
-catalog: true
+catalog:    true
 tags:
     - Book-Review
 ---

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Fourth-of-July
-subtitle:   七月四日
+title:      七月四日
+subtitle:   Fourth-of-July
 date:       2022-10-02
 author:     Huang
 header-img: img/post_bg_library-grey.jpg

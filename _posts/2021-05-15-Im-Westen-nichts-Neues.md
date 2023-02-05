@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Im-Westen-nichts-Neues
-subtitle:   《西线无战事》
+title:      《西线无战事》
+subtitle:   Im-Westen-nichts-Neues
 date:       2021-05-15
 author:     Huang
 header-img: img/post_bg_woman_war.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

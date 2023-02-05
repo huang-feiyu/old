@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      The-Roots-of-Romanticism
-subtitle:   《浪漫主义的根源》
+title:      《浪漫主义的根源》
+subtitle:   The-Roots-of-Romanticism
 date:       2022-06-26
 author:     Huang
 comment:    35

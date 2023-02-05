@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Dancing-Girl-of-Izu
-subtitle:   《伊豆的舞女》
+title:      《伊豆的舞女》
+subtitle:   The-Dancing-Girl-of-Izu
 date:       2021-07-08
 author:     Huang
 header-img: img/post_bg_dandelion.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Kawabata

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-temple-of-the-Golden-Pavilion
-subtitle:   《金阁寺》
+title:      《金阁寺》
+subtitle:   The-temple-of-the-Golden-Pavilion
 date:       2021-07-19
 author:     Huang
 header-img: img/post_bg_kinkaku.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
 ---

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Notes-from-the-Dead-House
-subtitle:   《死屋手记》
+title:      《死屋手记》
+subtitle:   Notes-from-the-Dead-House
 date:       2021-06-16
 author:     Huang
 header-img: img/post_bg_prison.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Dostoevsky

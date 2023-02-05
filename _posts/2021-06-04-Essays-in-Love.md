@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Essays-in-Love
-subtitle:   《爱情笔记》
+title:      《爱情笔记》
+subtitle:   Essays-in-Love
 date:       2021-06-04
 author:     Huang
 header-img: img/post_bg_love_couple_sky.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Essay

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Sisiphus-myth
-subtitle:   《西西弗神话》
+title:      《西西弗神话》
+subtitle:   Sisiphus-myth
 date:       2021-08-04
 author:     Huang
 header-img: img/post_bg_Sisyphus-myth.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Camus

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      One-Hundred-Years-of-Solitude
-subtitle:   《百年孤独》
+title:      《百年孤独》
+subtitle:   One-Hundred-Years-of-Solitude
 date:       2021-08-28
 author:     Huang
 header-img: img/post_bg_window_light_shadow.jpg

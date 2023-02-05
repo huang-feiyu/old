@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Sein-und-Zeit
-subtitle:   《存在与时间》
+title:      《存在与时间》
+subtitle:   Sein-und-Zeit
 date:       2022-09-04
 author:     Huang
 header-img: img/post_bg_breakwater_beach.jpg

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Become-a-programmer
-subtitle:   成为一名程序员
+title:      成为一名程序员
+subtitle:   Become-a-programmer
 date:       2021-05-08
 author:     Bruce Eckel
 header-img: img/post-bg-test.jfif
-catalog: true
+catalog:    true
 tags:
     - Other
 ---

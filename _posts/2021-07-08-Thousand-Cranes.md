@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Thousand-Cranes
-subtitle:   《千只鹤》
+title:      《千只鹤》
+subtitle:   Thousand-Cranes
 date:       2021-07-08
 author:     Huang
 header-img: img/post_bg_dandelion.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Kawabata

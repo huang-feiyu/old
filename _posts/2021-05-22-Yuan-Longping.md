@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Yuan-Longping
-subtitle:   袁隆平
+title:      袁隆平
+subtitle:   Yuan-Longping
 date:       2021-05-22
 author:     Huang
 header-img: img/post_bg_rice_field.jpg
-catalog: true
+catalog:    true
 tags:
    - Great-People
 ---

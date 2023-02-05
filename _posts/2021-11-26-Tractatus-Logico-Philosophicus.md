@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Tractatus-Logico-Philosophicus
-subtitle:   《逻辑哲学论》笔记
+title:      《逻辑哲学论》笔记
+subtitle:   Tractatus-Logico-Philosophicus
 date:       2021-11-26
 author:     Huang
 header-img: img/post_bg_chess_logic.jpg
-catalog: true
+catalog:    true
 tags:
     - Book-Review
     - Wittgenstein

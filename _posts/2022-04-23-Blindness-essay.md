@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Blindness-essay
-subtitle:   《失明症漫记》
+title:      《失明症漫记》
+subtitle:   Blindness-essay
 date:       2022-04-23
 author:     Huang
 comment:    14
 header-img: img/post_bg_eyes_hands_cover.jpg
-catalog: true
+catalog:    true
 tags:
     - Book-Review
 ---

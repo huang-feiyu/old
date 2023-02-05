@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Dostoevsky
-subtitle:   陀思妥耶夫斯基
+title:      陀思妥耶夫斯基
+subtitle:   Dostoevsky
 date:       2021-11-11
 author:     Huang
 header-img: img/post_bg_dostoevsky.webp

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      The-Death-of-Ivan-Ilyich
-subtitle:   《伊凡·伊里奇之死》
+title:      《伊凡·伊里奇之死》
+subtitle:   The-Death-of-Ivan-Ilyich
 date:       2021-11-07
 author:     Huang
 header-img: img/post_bg_lost-places.jpg

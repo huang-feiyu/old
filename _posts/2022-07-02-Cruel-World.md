@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Cruel-World
-subtitle:   《残酷的世界》
+title:      《残酷的世界》
+subtitle:   Cruel-World
 date:       2022-07-02
 author:     Huang
 header-img: img/post_bg_hellebore.jpg

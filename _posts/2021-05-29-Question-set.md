@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Question-set
-subtitle:   《疑问集》
+title:      《疑问集》
+subtitle:   Question-set
 date:       2021-05-29
 author:     Neruda
 header-img: img/post_bg_despair_sad.jpg
-catalog: true
+catalog:    true
 tags:
    - Poem
 ---

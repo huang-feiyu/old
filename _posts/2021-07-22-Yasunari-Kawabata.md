@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Yasunari-Kawabata
-subtitle:   川端康成
+title:      川端康成
+subtitle:   Yasunari-Kawabata
 date:       2021-07-22
 author:     Huang
 header-img: img/post_bg_chuanduankangcheng.jpg
-catalog: true
+catalog:    true
 tags:
    - Great-People
    - Kawabata

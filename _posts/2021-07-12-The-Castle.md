@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Castle
-subtitle:   《城堡》
+title:      《城堡》
+subtitle:   The-Castle
 date:       2021-07-12
 author:     Huang
 header-img: img/post_bg_castle_dark_moon.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Kafka

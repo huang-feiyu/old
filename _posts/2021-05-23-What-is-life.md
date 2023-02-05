@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      What-is-life
-subtitle:   如果您问我什么是生命，我不会回答
+title:      如果您问我什么是生命，我不会回答
+subtitle:   What-is-life
 date:       2021-05-23
 author:     Huang
 header-img: img/post_bg_old_and_young.jpg
-catalog: true
+catalog:    true
 tags:
    - Other
 ---

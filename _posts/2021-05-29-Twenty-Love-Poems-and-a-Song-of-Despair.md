@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Twenty-Love-Poems-and-a-Song-of-Despair
-subtitle:   《二十首情诗和一首绝望的歌》
+title:      《二十首情诗和一首绝望的歌》
+subtitle:   Twenty-Love-Poems-and-a-Song-of-Despair
 date:       2021-05-29
 author:     Neruda
 header-img: img/post_bg_woman_despair_flower.jpg
-catalog: true
+catalog:    true
 tags:
    - Poem
 ---

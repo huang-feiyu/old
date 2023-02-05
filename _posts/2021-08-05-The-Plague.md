@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      The-Plague
-subtitle:   《鼠疫》
+title:      《鼠疫》
+subtitle:   The-Plague
 date:       2021-08-05
 author:     Huang
 header-img: img/post_bg_tunnel_man_light_entrance.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Camus

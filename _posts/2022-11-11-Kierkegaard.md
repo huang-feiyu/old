@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Kierkegaard
-subtitle:   克尔凯郭尔
+title:      克尔凯郭尔
+subtitle:   Kierkegaard
 date:       2022-11-11
 author:     Huang
 header-img: img/post_bg_kierkegaard.jpg

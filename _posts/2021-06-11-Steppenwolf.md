@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      Steppenwolf
-subtitle:   《荒原狼》
+title:      《荒原狼》
+subtitle:   Steppenwolf
 date:       2021-06-11
 author:     Huang
 header-img: img/post_bg_Steppenwolf.jpg
-catalog: true
+catalog:    true
 tags:
    - Book-Review
    - Hesse

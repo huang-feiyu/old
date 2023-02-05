@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Guide-to-Punctuation
-subtitle:   中文标点指南
+title:      中文标点指南
+subtitle:   Guide-to-Punctuation
 date:       2022-06-12
 author:     Huang
 header-img: img/post_bg_dark_book_punctuation.jpg
