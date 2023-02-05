@@ -8,16 +8,11 @@
 
 ### 目的：
 
-[purpose](https://huang-feiyu.github.io/Purpose)
+[Purpose](https://huang-feiyu.github.io/purpose)
 
 **互联网最初的目的是用于学术、军事的信息交换，后来互联网连接了整个世界，于是互联网的目的也变了。黑客、开源，这些词汇背后的精神都是分享精神，这也是我运营这个博客的原因。花了我很多时间，但是我感到满足。**
 
 博客并不能够作为知识库，我选择使用 [Notion](https://www.notion.so) 作为专业知识库。况且知识类的博客太多了，遵循[克氏](https://plato.stanford.edu/entries/kierkegaard/)写作风格、**真正**能够帮助他人的博客却没有多少。
-
-### 其他
-
-* [fork](https://github.com/huang-feiyu/huang-feiyu.github.io/blob/master/Resources/huang-blog-fork.zip): 根据网络教程加上这个东西可以迅速构建出一个博客
-* [Learning-Space](https://github.com/huang-feiyu/Learning-Space): 我的学习资料
 
 ### 文章目录：
 
@@ -242,7 +237,7 @@
 * [Too-Late](https://huang-feiyu.github.io/2022/12/01/Too-Late): 往事已成空，还如一梦中
 
 #### Other
-* [**Recommend**](https://huang-feiyu.github.io/Recommend): 推荐的一些东西
+* [**Recommend**](https://huang-feiyu.github.io/recommend): 推荐的一些东西
 * [My-Keywords-of-2021](https://huang-feiyu.github.io/2021/12/31/My-Keywords-of-2021): 我的2021年关键词
 * [My-Keywords-of-2022](https://huang-feiyu.github.io/2022/12/31/My-Keywords-of-2022): 我的2022年关键词
 * [Happy-Birthday](https://huang-feiyu.github.io/2021/11/13/Happy-Birthday): 生日快乐
