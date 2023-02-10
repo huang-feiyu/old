@@ -235,6 +235,7 @@
 * [Blackbirds](https://huang-feiyu.github.io/2022/09/14/Blackbirds): 《黑色的鸟》
 * [Fourth-of-July](https://huang-feiyu.github.io/2022/10/02/Fourth-of-July): 《七月四日》
 * [Too-Late](https://huang-feiyu.github.io/2022/12/01/Too-Late): 往事已成空，还如一梦中
+* [J's Lullaby](https://huang-feiyu.github.io/2023/02/10/Js-Lullaby): 我会等你
 
 #### Other
 * [**Recommend**](https://huang-feiyu.github.io/recommend): 推荐的一些东西
