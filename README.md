@@ -118,6 +118,7 @@
 * [Essay-80](https://huang-feiyu.github.io/2023/01/08/Essay-80): 青年的抉择
 * [Essay-81](https://huang-feiyu.github.io/2023/01/28/Essay-81): 自我审视的一些想法
 * [Essay-82](https://huang-feiyu.github.io/2023/01/21/Essay-82): 一步之遥的死亡
+* [Essay-83](https://huang-feiyu.github.io/2023/02/16/Essay-83): 越过当下
 
 #### Book Review
 
