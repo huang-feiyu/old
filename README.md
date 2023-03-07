@@ -17,6 +17,7 @@
 ### 文章目录：
 
 * [Essay](https://github.com/huang-feiyu/huang-feiyu.github.io#essay)
+* [eEssay](https://github.com/huang-feiyu/huang-feiyu.github.io#eessay)
 * [Book-Review](https://github.com/huang-feiyu/huang-feiyu.github.io#book-review)
   * [陀思妥耶夫斯基](https://github.com/huang-feiyu/huang-feiyu.github.io#%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA)
   * [索伦·克尔凯郭尔](https://github.com/huang-feiyu/huang-feiyu.github.io#%E7%B4%A2%E4%BC%A6%E5%85%8B%E5%B0%94%E5%87%AF%E9%83%AD%E5%B0%94)
@@ -36,6 +37,7 @@
 * [Other](https://github.com/huang-feiyu/huang-feiyu.github.io#other)
 
 #### Essay
+
 * [Essay-1](https://huang-feiyu.github.io/2021/05/10/Essay-1): 自我审视的一些想法
 * [Essay-2](https://huang-feiyu.github.io/2021/05/12/Essay-2): 对于智力我们还有什么可说
 * [Essay-3](https://huang-feiyu.github.io/2021/05/14/Essay-3): 我对于学校看法的改变
@@ -120,6 +122,10 @@
 * [Essay-82](https://huang-feiyu.github.io/2023/01/21/Essay-82): 一步之遥的死亡
 * [Essay-83](https://huang-feiyu.github.io/2023/02/16/Essay-83): 越过当下
 * [Essay-84](https://huang-feiyu.github.io/2023/02/26/Essay-84): 短暂的痛苦
+
+#### eEssay
+
+* [Essay-1](https://huang-feiyu.github.io/2023/03/06/eEssay-1): What are the Masses?
 
 #### Book Review
 
