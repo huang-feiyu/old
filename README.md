@@ -33,6 +33,7 @@
 * [Guide](https://github.com/huang-feiyu/huang-feiyu.github.io#guide)
 * [Great-People](https://github.com/huang-feiyu/huang-feiyu.github.io#great-people)
 * [Poem](https://github.com/huang-feiyu/huang-feiyu.github.io#poem)
+* [Music-Review](https://github.com/huang-feiyu/huang-feiyu.github.io#music-review)
 * [Translation](https://github.com/huang-feiyu/huang-feiyu.github.io#translation)
 * [Other](https://github.com/huang-feiyu/huang-feiyu.github.io#other)
 
@@ -123,6 +124,7 @@
 * [Essay-83](https://huang-feiyu.github.io/2023/02/16/Essay-83): 越过当下
 * [Essay-84](https://huang-feiyu.github.io/2023/02/26/Essay-84): 短暂的痛苦
 * [Essay-85](https://huang-feiyu.github.io/2023/03/21/Essay-85): 同一性的幻梦
+* [Essay-86](https://huang-feiyu.github.io/2023/03/31/Essay-86): 碎碎念
 
 #### eEssay
 
@@ -134,6 +136,7 @@
 #### Book Review
 
 ###### 陀思妥耶夫斯基
+
 * [The-Brothers-Karamazov](https://huang-feiyu.github.io/2021/08/01/The-Brothers-Karamazov): 《卡拉马佐夫兄弟》
 * [Notes-from-Underground](https://huang-feiyu.github.io/2021/05/25/Notes-from-Underground): 《地下室手记》
 * [Crime-and-Punishment](https://huang-feiyu.github.io/2021/08/15/Crime-and-Punishment): 《罪与罚》
@@ -145,20 +148,24 @@
 * [White-night](https://huang-feiyu.github.io/2021/05/28/White-night): 《白夜》
 
 ###### 索伦·克尔凯郭尔
+
 * [Diary-of-a-Seducer](https://huang-feiyu.github.io/2022/04/03/Diary-of-a-Seducer): 《诱惑者日记》（《非此即彼（上卷）》下半部分）
 * [Fear-and-Trembling](https://huang-feiyu.github.io/2022/01/14/Fear-and-Trembling): 《恐惧与颤栗》
 * [Don-Giovanni](https://huang-feiyu.github.io/2022/03/22/Don-Giovanni): 《唐璜》（《非此即彼（上卷）》上半部分）
 
 ###### 列夫·托尔斯泰
+
 * [War-and-Peace](https://huang-feiyu.github.io/2021/10/05/War-and-Peace): 《战争与和平》
 * [Death-of-Ivan-Ilyich](https://huang-feiyu.github.io/2021/11/07/The-Death-of-Ivan-Ilyich): 《伊凡·伊里奇之死》
 
 ###### 赫尔曼·黑塞
+
 * [The-Glass-Bead-Game](https://huang-feiyu.github.io/2022/01/01/The-Glass-Bead-Game): 《玻璃珠游戏》
 * [Demian](https://huang-feiyu.github.io/2021/05/22/Demian): 《德米安：彷徨少年时》
 * [Steppenwolf](https://huang-feiyu.github.io/2021/06/11/Steppenwolf): 《荒原狼》
 
 ###### 川端康成
+
 * [The-Dancing-Girl-of-lzu](https://huang-feiyu.github.io/2021/07/08/The-Dancing-Girl-of-Izu): 《伊豆的舞女》
     * [Lyric-Song](https://huang-feiyu.github.io/2022/03/17/Lyric-Song): 《抒情歌》 (tag: Poem)
 * [Thousand-Cranes](https://huang-feiyu.github.io/2021/07/08/Thousand-Cranes): 《千只鹤》
@@ -166,24 +173,29 @@
 * [The-Sound-of-the-Mountain](https://huang-feiyu.github.io/2021/07/11/The-Sound-of-the-Mountain): 《山音》
 
 ###### 阿尔贝·加缪
+
 * [The-Stranger](https://huang-feiyu.github.io/2021/07/28/The-Stranger): 《局外人》
 * [Sisiyphus-myth](https://huang-feiyu.github.io/2021/08/04/Sisiyphus-myth): 《西西弗神话》
 * [The-Plague](https://huang-feiyu.github.io/2021/08/05/The-Plague): 《鼠疫》
 * [The-Rebel](https://huang-feiyu.github.io/2021/06/26/The-Rebel): 《反抗者》
 
 ###### 伊塔洛·卡尔维诺
+
 * [Our-ancestors](https://huang-feiyu.github.io/2021/06/06/Our-ancestors): 《分成两半的子爵》《不存在的骑士》《树上的男爵》
 * [Invisible-Cities](https://huang-feiyu.github.io/2021/06/07/Invisible-Cities): 《看不见的城市》
 
 ###### 弗朗茨·卡夫卡
+
 * [The-Castle](https://huang-feiyu.github.io/2021/07/12/The-Castle): 《城堡》
 * [The-Trial](https://huang-feiyu.github.io/2021/07/16/The-Trial): 《审判》
 
 ###### 若泽·萨拉马戈
+
 * [Blindness-essay](https://huang-feiyu.github.io/2022/04/23/Blindness-essay): 《失明症漫记》
 * [Seeing-essay](https://huang-feiyu.github.io/2022/05/01/Seeing-essay): 《复明症漫记》
 
 ###### 其他作家
+
 * [Sein-und-Zeit](https://huang-feiyu.github.io/2022/09/04/Sein-und-Zeit): 《存在与时间》
 * [Tractatus-Logico-Philosophicus](https://huang-feiyu.github.io/2021/11/26/Tractatus-Logico-Philosophicus): 《逻辑哲学论》
 * [Solaris](https://huang-feiyu.github.io/2021/08/22/Solaris): 《索拉里斯星》
@@ -204,14 +216,17 @@
 * [To-Kill-a-Mockingbird](https://huang-feiyu.github.io/2021/07/18/To-Kill-a-Mockingbird): 《杀死一只知更鸟》
 
 ###### 全书简写
+
 * [The-Roots-of-Romanticism](https://huang-feiyu.github.io/2022/06/26/The-Roots-of-Romanticism): 《浪漫主义的根源》
 
 #### Guide
+
 * [RSS-Guide](https://huang-feiyu.github.io/2022/05/08/RSS-Guide): RSS简明教程
 * [Chinese-Writing-Guide](https://huang-feiyu.github.io/2021/08/12/Chinese-Writing-Guide): 中文写作指南
 * [Guide-to-Punctuation](https://huang-feiyu.github.io/2022/06/12/Guide-to-Punctuation): 中文标点指南
 
 #### Great-People
+
 * [Dostoevsky](https://huang-feiyu.github.io/2021/11/11/Dostoevsky): 陀思妥耶夫斯基
 * [Kierkegaard](https://huang-feiyu.github.io/2022/11/11/Kierkegaard): 索伦·克尔凯郭尔
 * [Hermann-Hesse](https://huang-feiyu.github.io/2022/01/04/Hermann-Hesse): 赫尔曼·黑塞
@@ -220,6 +235,7 @@
 * [Yuan-Longping](https://huang-feiyu.github.io/2021/05/22/Yuan-Longping): 袁隆平
 
 #### Poem
+
 * 尼采
     * [Tightrope-Walker](https://huang-feiyu.github.io/2022/04/10/Tightrope-Walker): 《走钢丝者》
     * [Tree-on-the-hill](https://huang-feiyu.github.io/2021/11/17/Tree-on-the-hill): 《山上的树》
@@ -233,7 +249,13 @@
 * 克尔凯郭尔
     * [Mistress-of-my-Heart](https://huang-feiyu.github.io/2022/06/05/Mistress-of-my-Heart): 《你，我心灵的女主人》
 
+#### Music-Review
+
+* [eEssay-3](https://huang-feiyu.github.io/2023/03/19/eEssay-3): Give Me Your Name - Death by Sunrise
+* [Essay-86](https://huang-feiyu.github.io/2023/03/31/Essay-86#para-3): Did You Know That There's a Tunnel Under Ocean Blvd - Lana Del Rey (不值得阅读)
+
 #### Translation
+
 * [Into-My-Arms](https://huang-feiyu.github.io/2021/10/17/Into-My-Arms): 《投入我的怀抱》
 * [Long-Last-Penpal](https://huang-feiyu.github.io/2021/11/29/Long-Last-Penpal): 《笔友，好久不见》
 * [Valentines-Day](https://huang-feiyu.github.io/2021/12/28/Valentines-Day): 《情人节》
@@ -250,6 +272,7 @@
 * [J's Lullaby](https://huang-feiyu.github.io/2023/02/10/Js-Lullaby): 我会等你
 
 #### Other
+
 * [**Recommend**](https://huang-feiyu.github.io/recommend): 推荐的一些东西
 * [My-Keywords-of-2021](https://huang-feiyu.github.io/2021/12/31/My-Keywords-of-2021): 我的2021年关键词
 * [My-Keywords-of-2022](https://huang-feiyu.github.io/2022/12/31/My-Keywords-of-2022): 我的2022年关键词
