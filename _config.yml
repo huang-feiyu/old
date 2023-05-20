@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 0711feiyu@gmail.com
 description: "时而文艺，时而愤青"
 keyword: "黄飞宇, HuangBlog, HuangFeiyu, Huang, huang, huang-feiyu, huangfeiyu"
-url: "https://huang-feiyu.github.io/old"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/huang-feiyu/huang-feiyu.github.io.git" # you code repository
+url: "https://huang-feiyu.github.io"          # your host, for absolute URL
+baseurl: "/old"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/huang-feiyu/old" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
